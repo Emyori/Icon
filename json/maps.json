@@ -1,0 +1,1038 @@
+{
+  "name": "zwjtano-maps",
+  "description": "258 个国家及地区地图旗帜：粗黑描边、水彩纸感、地图轮廓内填充对应旗帜；透明 PNG，支持中英文及地区代码搜索，不含七洲地图。",
+  "icons": [
+    {
+      "name": "AF 阿富汗 Afghanistan 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-afghanistan.png?v=c9ffef7df993"
+    },
+    {
+      "name": "AX 奥兰群岛 Aland Islands 奧蘭群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-aland-islands.png?v=e72a6e7022b8"
+    },
+    {
+      "name": "AL 阿尔巴尼亚 Albania 阿爾巴尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-albania.png?v=98dda3c595f3"
+    },
+    {
+      "name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-alderney.png?v=313f5bb1db79"
+    },
+    {
+      "name": "DZ 阿尔及利亚 Algeria 阿爾及利亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-algeria.png?v=a7f26141c1ec"
+    },
+    {
+      "name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-american-samoa.png?v=c297804c24ef"
+    },
+    {
+      "name": "AD 安道尔 Andorra 安道爾 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-andorra.png?v=831643d828dc"
+    },
+    {
+      "name": "AO 安哥拉 Angola 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-angola.png?v=0d63dd71fb35"
+    },
+    {
+      "name": "AI 安圭拉 Anguilla 安奎拉 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-anguilla.png?v=1074864205d2"
+    },
+    {
+      "name": "AQ 南极洲 Antarctica 南極洲 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-antarctica.png?v=4f2c2fb2ced4"
+    },
+    {
+      "name": "AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-antigua-and-barbuda.png?v=a8ed6614d46e"
+    },
+    {
+      "name": "AR 阿根廷 Argentina 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-argentina.png?v=f6e07c81ca93"
+    },
+    {
+      "name": "AM 亚美尼亚 Armenia 亞美尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-armenia.png?v=d26a86a5b4c0"
+    },
+    {
+      "name": "AW 阿鲁巴 Aruba 荷屬阿魯巴 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-aruba.png?v=f2cd95244f79"
+    },
+    {
+      "name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ascension-island.png?v=386df193905b"
+    },
+    {
+      "name": "AU 澳大利亚 Australia 澳洲 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-australia.png?v=4713cc1de72c"
+    },
+    {
+      "name": "AT 奥地利 Austria 奧地利 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-austria.png?v=338b3574bb83"
+    },
+    {
+      "name": "AZ 阿塞拜疆 Azerbaijan 亞塞拜然 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-azerbaijan.png?v=4014e17fe7d1"
+    },
+    {
+      "name": "BS 巴哈马 Bahamas 巴哈馬 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bahamas.png?v=61e977441764"
+    },
+    {
+      "name": "BH 巴林 Bahrain 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bahrain.png?v=cf272e279876"
+    },
+    {
+      "name": "BD 孟加拉国 Bangladesh 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bangladesh.png?v=3ef73676db36"
+    },
+    {
+      "name": "BB 巴巴多斯 Barbados 巴貝多 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-barbados.png?v=3e27b44a2e60"
+    },
+    {
+      "name": "BY 白俄罗斯 Belarus 白俄羅斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-belarus.png?v=e6799706929e"
+    },
+    {
+      "name": "BE 比利时 Belgium 比利時 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-belgium.png?v=5548c637fa17"
+    },
+    {
+      "name": "BZ 伯利兹 Belize 貝里斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-belize.png?v=406e0393ebb1"
+    },
+    {
+      "name": "BJ 贝宁 Benin 貝南 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-benin.png?v=1c2667aa9c1d"
+    },
+    {
+      "name": "BM 百慕大 Bermuda 百慕達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bermuda.png?v=e7195b2b36da"
+    },
+    {
+      "name": "BT 不丹 Bhutan 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bhutan.png?v=0cbd6315a6fb"
+    },
+    {
+      "name": "BO 玻利维亚 Bolivia 玻利維亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bolivia.png?v=0ff8e8aaee83"
+    },
+    {
+      "name": "BQ-BO 博奈尔 Bonaire 波奈 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bonaire.png?v=5ea43ff61fef"
+    },
+    {
+      "name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bonaire-sint-eustatius-and-saba.png?v=9f1af73de5f3"
+    },
+    {
+      "name": "BA 波斯尼亚和黑塞哥维那 Bosnia and Herzegovina 波士尼亞與赫塞哥維納 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bosnia-and-herzegovina.png?v=27fe2f094b0b"
+    },
+    {
+      "name": "BW 博茨瓦纳 Botswana 波札那 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-botswana.png?v=0a74df54fc8e"
+    },
+    {
+      "name": "BV 布韦岛 Bouvet Island 布威島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bouvet-island.png?v=6fd53b825c25"
+    },
+    {
+      "name": "BR 巴西 Brazil 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-brazil.png?v=7e65535f9831"
+    },
+    {
+      "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-british-antarctic-territory.png?v=a79bd7a81145"
+    },
+    {
+      "name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-british-indian-ocean-territory.png?v=db61965228c3"
+    },
+    {
+      "name": "BN 文莱 Brunei Darussalam 汶萊 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-brunei-darussalam.png?v=92730372d94a"
+    },
+    {
+      "name": "BG 保加利亚 Bulgaria 保加利亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-bulgaria.png?v=2f3bc9ddc914"
+    },
+    {
+      "name": "BF 布基纳法索 Burkina Faso 布吉納法索 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-burkina-faso.png?v=a22cdf13e80d"
+    },
+    {
+      "name": "BI 布隆迪 Burundi 蒲隆地 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-burundi.png?v=e4721752dea6"
+    },
+    {
+      "name": "CV 佛得角 Cabo Verde 維德角 Cape Verde 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cabo-verde.png?v=4c33de9e094c"
+    },
+    {
+      "name": "KH 柬埔寨 Cambodia 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cambodia.png?v=6d11cac40d38"
+    },
+    {
+      "name": "CM 喀麦隆 Cameroon 喀麥隆 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cameroon.png?v=5714f4ce19be"
+    },
+    {
+      "name": "CA 加拿大 Canada 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-canada.png?v=25e40a898219"
+    },
+    {
+      "name": "KY 开曼群岛 Cayman Islands 開曼群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cayman-islands.png?v=6d7dd2853a40"
+    },
+    {
+      "name": "CF 中非共和国 Central African Republic 中非共和國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-central-african-republic.png?v=e57cfd21399d"
+    },
+    {
+      "name": "TD 乍得 Chad 查德 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-chad.png?v=cc3ec556353b"
+    },
+    {
+      "name": "CL 智利 Chile 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-chile.png?v=95e35d9ee1d8"
+    },
+    {
+      "name": "CN 中国 China 中國 中国大陆 Mainland China PRC 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-china.png?v=cf58aad300ee"
+    },
+    {
+      "name": "CX 圣诞岛 Christmas Island 聖誕島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-christmas-island.png?v=853ecd602697"
+    },
+    {
+      "name": "CC 科科斯（基林）群岛 Cocos (Keeling) Islands 科克斯（基靈）群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cocos-keeling-islands.png?v=df39c05f5f77"
+    },
+    {
+      "name": "CO 哥伦比亚 Colombia 哥倫比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-colombia.png?v=94e37a763010"
+    },
+    {
+      "name": "KM 科摩罗 Comoros 葛摩 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-comoros.png?v=550a2be95979"
+    },
+    {
+      "name": "CK 库克群岛 Cook Islands 庫克群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cook-islands.png?v=4b92c9dd7eab"
+    },
+    {
+      "name": "CR 哥斯达黎加 Costa Rica 哥斯大黎加 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-costa-rica.png?v=09e64f52621d"
+    },
+    {
+      "name": "HR 克罗地亚 Croatia 克羅埃西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-croatia.png?v=16cafd718273"
+    },
+    {
+      "name": "CU 古巴 Cuba 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cuba.png?v=a23b4ff66c1a"
+    },
+    {
+      "name": "CW 库拉索 Curaçao 庫拉索 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-curacao.png?v=bb778f4a37c0"
+    },
+    {
+      "name": "CY 塞浦路斯 Cyprus 賽普勒斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-cyprus.png?v=6c2ad9a93984"
+    },
+    {
+      "name": "CZ 捷克 Czech Republic Czechia 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-czech-republic.png?v=ee143afc47b8"
+    },
+    {
+      "name": "CD 刚果（金） Democratic Republic of the Congo 剛果（金夏沙） Congo-Kinshasa 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-democratic-republic-of-congo.png?v=7af46cc42009"
+    },
+    {
+      "name": "DK 丹麦 Denmark 丹麥 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-denmark.png?v=0e054ad94836"
+    },
+    {
+      "name": "DJ 吉布提 Djibouti 吉布地 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-djibouti.png?v=8ef2c3f08209"
+    },
+    {
+      "name": "DM 多米尼克 Dominica 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-dominica.png?v=9a794d938b98"
+    },
+    {
+      "name": "DO 多米尼加共和国 Dominican Republic 多明尼加共和國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-dominican-republic.png?v=713323d4dc99"
+    },
+    {
+      "name": "EC 厄瓜多尔 Ecuador 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ecuador.png?v=8581f8f45ef4"
+    },
+    {
+      "name": "EG 埃及 Egypt 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-egypt.png?v=0177041f8ae9"
+    },
+    {
+      "name": "SV 萨尔瓦多 El Salvador 薩爾瓦多 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-el-salvador.png?v=3e3bbf94ce8e"
+    },
+    {
+      "name": "GQ 赤道几内亚 Equatorial Guinea 赤道幾內亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-equatorial-guinea.png?v=91036e9825aa"
+    },
+    {
+      "name": "ER 厄立特里亚 Eritrea 厄利垂亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-eritrea.png?v=f3a02e14951a"
+    },
+    {
+      "name": "EE 爱沙尼亚 Estonia 愛沙尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-estonia.png?v=3df55824ddc4"
+    },
+    {
+      "name": "SZ 斯威士兰 Eswatini 史瓦帝尼 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-eswatini.png?v=a8efef764ab3"
+    },
+    {
+      "name": "ET 埃塞俄比亚 Ethiopia 衣索比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ethiopia.png?v=437a553d2fcd"
+    },
+    {
+      "name": "FK 福克兰群岛 Falkland Islands 福克蘭群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-falkland-islands.png?v=30d049c75430"
+    },
+    {
+      "name": "FO 法罗群岛 Faroe Islands 法羅群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-faroe-islands.png?v=7fa35ab100a7"
+    },
+    {
+      "name": "FM 密克罗尼西亚 Federated States of Micronesia 密克羅尼西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-federated-states-of-micronesia.png?v=46ce17d0b178"
+    },
+    {
+      "name": "FJ 斐济 Fiji 斐濟 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-fiji.png?v=7f3535fcd14c"
+    },
+    {
+      "name": "FI 芬兰 Finland 芬蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-finland.png?v=61ae05d99c15"
+    },
+    {
+      "name": "FR 法国 France 法國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-france.png?v=6b3461135ccd"
+    },
+    {
+      "name": "GF 法属圭亚那 French Guiana 法屬圭亞那 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-french-guiana.png?v=a3c6dc3cd044"
+    },
+    {
+      "name": "PF 法属波利尼西亚 French Polynesia 法屬玻里尼西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-french-polynesia.png?v=66fc057e7e89"
+    },
+    {
+      "name": "TF 法属南部领地 French Southern Territories 法屬南部屬地 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-french-southern-territories.png?v=e1e97c3c52ae"
+    },
+    {
+      "name": "GA 加蓬 Gabon 加彭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-gabon.png?v=886c67911c1e"
+    },
+    {
+      "name": "GM 冈比亚 Gambia 甘比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-gambia.png?v=bada8433b57d"
+    },
+    {
+      "name": "GE 格鲁吉亚 Georgia 喬治亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-georgia.png?v=eaba40fa7da9"
+    },
+    {
+      "name": "DE 德国 Germany 德國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-germany.png?v=dc0f46761b91"
+    },
+    {
+      "name": "GH 加纳 Ghana 迦納 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ghana.png?v=750948e175e8"
+    },
+    {
+      "name": "GI 直布罗陀 Gibraltar 直布羅陀 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-gibraltar.png?v=5ce1de7a69c2"
+    },
+    {
+      "name": "GR 希腊 Greece 希臘 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-greece.png?v=881efc220215"
+    },
+    {
+      "name": "GL 格陵兰 Greenland 格陵蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-greenland.png?v=8e6fc8a32307"
+    },
+    {
+      "name": "GD 格林纳达 Grenada 格瑞那達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-grenada.png?v=3c1f5b951538"
+    },
+    {
+      "name": "GP 瓜德罗普 Guadeloupe 瓜地洛普 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guadeloupe.png?v=587d369a4668"
+    },
+    {
+      "name": "GU 关岛 Guam 關島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guam.png?v=112e5c2a8821"
+    },
+    {
+      "name": "GT 危地马拉 Guatemala 瓜地馬拉 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guatemala.png?v=11c51f183e87"
+    },
+    {
+      "name": "GG 根西岛 Guernsey 根息 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guernsey.png?v=3bf0bb4ca39c"
+    },
+    {
+      "name": "GN 几内亚 Guinea 幾內亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guinea.png?v=f1c97263bef6"
+    },
+    {
+      "name": "GW 几内亚比绍 Guinea-Bissau 幾內亞比索 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guinea-bissau.png?v=aa43573b046c"
+    },
+    {
+      "name": "GY 圭亚那 Guyana 蓋亞那 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-guyana.png?v=1f6822413883"
+    },
+    {
+      "name": "HT 海地 Haiti 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-haiti.png?v=f1bbc9f7b9a7"
+    },
+    {
+      "name": "HM 赫德岛和麦克唐纳群岛 Heard Island and McDonald Islands 赫德島及麥唐納群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-heard-island-and-mcdonald-islands.png?v=2515d1304b04"
+    },
+    {
+      "name": "HN 洪都拉斯 Honduras 宏都拉斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-honduras.png?v=d09cd57488ed"
+    },
+    {
+      "name": "HK 香港 Hong Kong HongKong 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-hongkong.png?v=721819b0e74a"
+    },
+    {
+      "name": "HU 匈牙利 Hungary 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-hungary.png?v=fab9ceb04af0"
+    },
+    {
+      "name": "IS 冰岛 Iceland 冰島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-iceland.png?v=d413fcd9bdcf"
+    },
+    {
+      "name": "IN 印度 India 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-india.png?v=0b807fee1b9d"
+    },
+    {
+      "name": "ID 印度尼西亚 Indonesia 印尼 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-indonesia.png?v=bc547aa501db"
+    },
+    {
+      "name": "IR 伊朗 Iran 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-iran.png?v=11f7a368dba8"
+    },
+    {
+      "name": "IQ 伊拉克 Iraq 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-iraq.png?v=053c89102bd6"
+    },
+    {
+      "name": "IE 爱尔兰 Ireland 愛爾蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ireland.png?v=56e1be7eb977"
+    },
+    {
+      "name": "IM 马恩岛 Isle of Man 曼島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-isle-of-man.png?v=8e496b5eaf1c"
+    },
+    {
+      "name": "IL 以色列 Israel 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-israel.png?v=a46951e8d43a"
+    },
+    {
+      "name": "IT 意大利 Italy 義大利 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-italy.png?v=a4440141d766"
+    },
+    {
+      "name": "CI 科特迪瓦 Côte d'Ivoire 象牙海岸 Ivory Coast 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ivory-coast.png?v=9e4a84a091b9"
+    },
+    {
+      "name": "JM 牙买加 Jamaica 牙買加 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-jamaica.png?v=4e4b141aeb7e"
+    },
+    {
+      "name": "JP 日本 Japan 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-japan.png?v=8e6df50b4a78"
+    },
+    {
+      "name": "JE 泽西岛 Jersey 澤西島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-jersey.png?v=706aaadb7dae"
+    },
+    {
+      "name": "JO 约旦 Jordan 約旦 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-jordan.png?v=df2c5894ab96"
+    },
+    {
+      "name": "KZ 哈萨克斯坦 Kazakhstan 哈薩克 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-kazakhstan.png?v=aa6097fa52de"
+    },
+    {
+      "name": "KE 肯尼亚 Kenya 肯亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-kenya.png?v=c940143f89bf"
+    },
+    {
+      "name": "KI 基里巴斯 Kiribati 吉里巴斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-kiribati.png?v=7cdf01b24b07"
+    },
+    {
+      "name": "KR 韩国 South Korea 南韓 韓國 南韩 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-korea.png?v=3217d0b2bfab"
+    },
+    {
+      "name": "KW 科威特 Kuwait 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-kuwait.png?v=5890e6b8a49b"
+    },
+    {
+      "name": "KG 吉尔吉斯斯坦 Kyrgyzstan 吉爾吉斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-kyrgyzstan.png?v=0387039bceeb"
+    },
+    {
+      "name": "LA 老挝 Laos 寮國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-laos.png?v=c5b9c58d9add"
+    },
+    {
+      "name": "LV 拉脱维亚 Latvia 拉脫維亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-latvia.png?v=11fe692d8d1a"
+    },
+    {
+      "name": "LB 黎巴嫩 Lebanon 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-lebanon.png?v=b184cbc5157a"
+    },
+    {
+      "name": "LS 莱索托 Lesotho 賴索托 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-lesotho.png?v=f9638bfeec56"
+    },
+    {
+      "name": "LR 利比里亚 Liberia 賴比瑞亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-liberia.png?v=bad3e6b19740"
+    },
+    {
+      "name": "LY 利比亚 Libya 利比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-libya.png?v=eb9b4a14acd4"
+    },
+    {
+      "name": "LI 列支敦士登 Liechtenstein 列支敦斯登 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-liechtenstein.png?v=9db89bf7cb0b"
+    },
+    {
+      "name": "LT 立陶宛 Lithuania 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-lithuania.png?v=0d58ce3b5b47"
+    },
+    {
+      "name": "LU 卢森堡 Luxembourg 盧森堡 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-luxembourg.png?v=0a94413df155"
+    },
+    {
+      "name": "MO 澳门 Macau 澳門 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-macau.png?v=47836f097332"
+    },
+    {
+      "name": "MG 马达加斯加 Madagascar 馬達加斯加 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-madagascar.png?v=904658b5b62b"
+    },
+    {
+      "name": "MW 马拉维 Malawi 馬拉威 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-malawi.png?v=e0abb0cbe522"
+    },
+    {
+      "name": "MY 马来西亚 Malaysia 馬來西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-malaysia.png?v=f46ed6e592e0"
+    },
+    {
+      "name": "MV 马尔代夫 Maldives 馬爾地夫 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-maldives.png?v=93cd06bc167c"
+    },
+    {
+      "name": "ML 马里 Mali 馬利 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mali.png?v=5b5269baad53"
+    },
+    {
+      "name": "MT 马耳他 Malta 馬爾他 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-malta.png?v=1de1a9ecb2a4"
+    },
+    {
+      "name": "MH 马绍尔群岛 Marshall Islands 馬紹爾群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-marshall-islands.png?v=2706bd1f9557"
+    },
+    {
+      "name": "MQ 马提尼克 Martinique 馬丁尼克 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-martinique.png?v=2886a1050e6d"
+    },
+    {
+      "name": "MR 毛里塔尼亚 Mauritania 茅利塔尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mauritania.png?v=72a709eaa821"
+    },
+    {
+      "name": "MU 毛里求斯 Mauritius 模里西斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mauritius.png?v=100822904850"
+    },
+    {
+      "name": "YT 马约特 Mayotte 馬約特島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mayotte.png?v=9c0bc271773b"
+    },
+    {
+      "name": "MX 墨西哥 Mexico 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mexico.png?v=df7cf4789b9b"
+    },
+    {
+      "name": "MD 摩尔多瓦 Moldova 摩爾多瓦 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-moldova.png?v=6e5af4414f48"
+    },
+    {
+      "name": "MC 摩纳哥 Monaco 摩納哥 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-monaco.png?v=32dad25890b9"
+    },
+    {
+      "name": "MN 蒙古 Mongolia 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mongolia.png?v=8fb4302af085"
+    },
+    {
+      "name": "ME 黑山 Montenegro 蒙特內哥羅 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-montenegro.png?v=1c48409bfaab"
+    },
+    {
+      "name": "MS 蒙特塞拉特 Montserrat 蒙哲臘 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-montserrat.png?v=fc07158e2188"
+    },
+    {
+      "name": "MA 摩洛哥 Morocco 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-morocco.png?v=428bd08f3ad9"
+    },
+    {
+      "name": "MZ 莫桑比克 Mozambique 莫三比克 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-mozambique.png?v=30711d387c44"
+    },
+    {
+      "name": "MM 缅甸 Myanmar 緬甸 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-myanmar.png?v=68c9252e3140"
+    },
+    {
+      "name": "NA 纳米比亚 Namibia 納米比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-namibia.png?v=e5419f11ca3b"
+    },
+    {
+      "name": "NR 瑙鲁 Nauru 諾魯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-nauru.png?v=841f7a2fa108"
+    },
+    {
+      "name": "NP 尼泊尔 Nepal 尼泊爾 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-nepal.png?v=93ec9b6670a1"
+    },
+    {
+      "name": "NL 荷兰 Netherlands 荷蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-netherlands.png?v=206b3839bf85"
+    },
+    {
+      "name": "NC 新喀里多尼亚 New Caledonia 新喀里多尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-new-caledonia.png?v=c5511f4ef5be"
+    },
+    {
+      "name": "NZ 新西兰 New Zealand 紐西蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-new-zealand.png?v=417197e19141"
+    },
+    {
+      "name": "NI 尼加拉瓜 Nicaragua 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-nicaragua.png?v=3d0e8e2f0350"
+    },
+    {
+      "name": "NE 尼日尔 Niger 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-niger.png?v=400380877b00"
+    },
+    {
+      "name": "NG 尼日利亚 Nigeria 奈及利亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-nigeria.png?v=e8e059a83bdc"
+    },
+    {
+      "name": "NU 纽埃 Niue 紐埃島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-niue.png?v=e3b3c7ec18a0"
+    },
+    {
+      "name": "NF 诺福克岛 Norfolk Island 諾福克島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-norfolk-island.png?v=b6748be8dbb9"
+    },
+    {
+      "name": "KP 朝鲜 North Korea 北韓 北韩 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-north-korea.png?v=f5de68b02ac2"
+    },
+    {
+      "name": "MK 北马其顿 North Macedonia 北馬其頓 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-north-macedonia.png?v=22af7ca91aa1"
+    },
+    {
+      "name": "MP 北马里亚纳群岛 Northern Mariana Islands 北馬利安納群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-northern-mariana-islands.png?v=3914785dd65e"
+    },
+    {
+      "name": "NO 挪威 Norway 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-norway.png?v=101a9c0bdafc"
+    },
+    {
+      "name": "OM 阿曼 Oman 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-oman.png?v=80d97ed5ecf2"
+    },
+    {
+      "name": "PK 巴基斯坦 Pakistan 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-pakistan.png?v=c6eeea3a9b10"
+    },
+    {
+      "name": "PW 帕劳 Palau 帛琉 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-palau.png?v=53b39823e214"
+    },
+    {
+      "name": "PA 巴拿马 Panama 巴拿馬 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-panama.png?v=23af96e7c71a"
+    },
+    {
+      "name": "PG 巴布亚新几内亚 Papua New Guinea 巴布亞紐幾內亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-papua-new-guinea.png?v=2bbd19e0f769"
+    },
+    {
+      "name": "PY 巴拉圭 Paraguay 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-paraguay.png?v=1fc0aa6120b1"
+    },
+    {
+      "name": "PE 秘鲁 Peru 秘魯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-peru.png?v=0b280eb85715"
+    },
+    {
+      "name": "PH 菲律宾 Philippines 菲律賓 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-philippines.png?v=6844f9c1fb81"
+    },
+    {
+      "name": "PN 皮特凯恩群岛 Pitcairn 皮特肯群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-pitcairn.png?v=9e027d609477"
+    },
+    {
+      "name": "PL 波兰 Poland 波蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-poland.png?v=b1538c4524a4"
+    },
+    {
+      "name": "PT 葡萄牙 Portugal 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-portugal.png?v=c2700daba2d3"
+    },
+    {
+      "name": "PR 波多黎各 Puerto Rico 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-puerto-rico.png?v=ad5f4c0db4c9"
+    },
+    {
+      "name": "QA 卡塔尔 Qatar 卡達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-qatar.png?v=830c95712024"
+    },
+    {
+      "name": "CG 刚果（布） Republic of the Congo 剛果（布拉薩） Congo-Brazzaville 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-republic-of-congo.png?v=02179fc2c0ca"
+    },
+    {
+      "name": "RE 留尼汪 Réunion 留尼旺 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-reunion.png?v=9b4ec28dc1f8"
+    },
+    {
+      "name": "RO 罗马尼亚 Romania 羅馬尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-romania.png?v=e1cd270f61b4"
+    },
+    {
+      "name": "RU 俄罗斯 Russia 俄羅斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-russia.png?v=901fa41e5b54"
+    },
+    {
+      "name": "RW 卢旺达 Rwanda 盧安達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-rwanda.png?v=c9699bc6ac15"
+    },
+    {
+      "name": "BQ-SA 萨巴 Saba 沙巴島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saba.png?v=44dfcbcc63a1"
+    },
+    {
+      "name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-barthelemy.png?v=1d439569fc58"
+    },
+    {
+      "name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-helena.png?v=0d660b374f08"
+    },
+    {
+      "name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-helena-ascension-and-tristan-da-cunha.png?v=55cc150a8d7f"
+    },
+    {
+      "name": "KN 圣基茨和尼维斯 Saint Kitts and Nevis 聖克里斯多福及尼維斯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-kitts-and-nevis.png?v=835757b53dc0"
+    },
+    {
+      "name": "LC 圣卢西亚 Saint Lucia 聖露西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-lucia.png?v=8c5e197d3183"
+    },
+    {
+      "name": "MF 法属圣马丁 Saint Martin 法屬聖馬丁 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-martin.png?v=656864836a09"
+    },
+    {
+      "name": "PM 圣皮埃尔和密克隆群岛 Saint Pierre and Miquelon 聖皮埃與密克隆群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-pierre-and-miquelon.png?v=558a86ac5a01"
+    },
+    {
+      "name": "VC 圣文森特和格林纳丁斯 Saint Vincent and the Grenadines 聖文森及格瑞那丁 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saint-vincent-and-the-grenadines.png?v=32cd6aea0c07"
+    },
+    {
+      "name": "WS 萨摩亚 Samoa 薩摩亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-samoa.png?v=f124aaa6eee5"
+    },
+    {
+      "name": "SM 圣马力诺 San Marino 聖馬利諾 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-san-marino.png?v=8f187a4a4ea5"
+    },
+    {
+      "name": "ST 圣多美和普林西比 Sao Tome and Principe 聖多美普林西比 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sao-tome-and-principe.png?v=74b9da780511"
+    },
+    {
+      "name": "SARK 萨克岛 Sark 薩克島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sark.png?v=3f41a37c1b8f"
+    },
+    {
+      "name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-saudi-arabia.png?v=97f2fa295e17"
+    },
+    {
+      "name": "SN 塞内加尔 Senegal 塞內加爾 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-senegal.png?v=a7cc76e088a5"
+    },
+    {
+      "name": "RS 塞尔维亚 Serbia 塞爾維亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-serbia.png?v=81159d933e06"
+    },
+    {
+      "name": "SC 塞舌尔 Seychelles 塞席爾 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-seychelles.png?v=647edd6aab6b"
+    },
+    {
+      "name": "SL 塞拉利昂 Sierra Leone 獅子山 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sierra-leone.png?v=bd705ac71e58"
+    },
+    {
+      "name": "SG 新加坡 Singapore 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-singapore.png?v=45d08f47b813"
+    },
+    {
+      "name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sint-eustatius.png?v=023787c02463"
+    },
+    {
+      "name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sint-maarten.png?v=05adafba16c6"
+    },
+    {
+      "name": "SK 斯洛伐克 Slovakia 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-slovakia.png?v=99f9aee48d97"
+    },
+    {
+      "name": "SI 斯洛文尼亚 Slovenia 斯洛維尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-slovenia.png?v=1c84e03f800a"
+    },
+    {
+      "name": "SB 所罗门群岛 Solomon Islands 索羅門群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-solomon-islands.png?v=195c59fa4cda"
+    },
+    {
+      "name": "SO 索马里 Somalia 索馬利亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-somalia.png?v=c2205fc46e4a"
+    },
+    {
+      "name": "ZA 南非 South Africa 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-south-africa.png?v=09e5018e8153"
+    },
+    {
+      "name": "GS 南乔治亚和南桑威奇群岛 South Georgia and the South Sandwich Islands 南喬治亞與南三明治群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-south-georgia-and-the-south-sandwich-islands.png?v=52dc4d9bc4a6"
+    },
+    {
+      "name": "SS 南苏丹 South Sudan 南蘇丹 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-south-sudan.png?v=6a63c5dede71"
+    },
+    {
+      "name": "ES 西班牙 Spain 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-spain.png?v=d3d97be05b6d"
+    },
+    {
+      "name": "LK 斯里兰卡 Sri Lanka 斯里蘭卡 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sri-lanka.png?v=d9b2847c43d7"
+    },
+    {
+      "name": "PS 巴勒斯坦 State of Palestine 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-state-of-palestine.png?v=3a8cb173e576"
+    },
+    {
+      "name": "SD 苏丹 Sudan 蘇丹 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sudan.png?v=91c64dda9b6d"
+    },
+    {
+      "name": "SR 苏里南 Suriname 蘇利南 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-suriname.png?v=f42aa2726c7d"
+    },
+    {
+      "name": "SJ 斯瓦尔巴和扬马延 Svalbard and Jan Mayen 挪威屬斯瓦巴及尖棉 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-svalbard-and-jan-mayen.png?v=2a50e08e83a0"
+    },
+    {
+      "name": "SE 瑞典 Sweden 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-sweden.png?v=d0a14b20010a"
+    },
+    {
+      "name": "CH 瑞士 Switzerland 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-switzerland.png?v=d6fab9d62c12"
+    },
+    {
+      "name": "SY 叙利亚 Syria 敘利亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-syria.png?v=d76031a3150e"
+    },
+    {
+      "name": "TW 台湾 Taiwan 台灣 臺灣 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-taiwan.png?v=dbc1cc035929"
+    },
+    {
+      "name": "TJ 塔吉克斯坦 Tajikistan 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tajikistan.png?v=811096c6df0e"
+    },
+    {
+      "name": "TZ 坦桑尼亚 Tanzania 坦尚尼亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tanzania.png?v=12dfa0cb9c0a"
+    },
+    {
+      "name": "TH 泰国 Thailand 泰國 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-thailand.png?v=464c80392bf2"
+    },
+    {
+      "name": "TL 东帝汶 Timor-Leste 東帝汶 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-timor-leste.png?v=9ed6fe27481e"
+    },
+    {
+      "name": "TG 多哥 Togo 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-togo.png?v=da56a8a0cd26"
+    },
+    {
+      "name": "TK 托克劳 Tokelau 托克勞群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tokelau.png?v=912af98b3095"
+    },
+    {
+      "name": "TO 汤加 Tonga 東加 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tonga.png?v=4d4f7fa33a1a"
+    },
+    {
+      "name": "TT 特立尼达和多巴哥 Trinidad and Tobago 千里達及托巴哥 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-trinidad-and-tobago.png?v=a32a90a90142"
+    },
+    {
+      "name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tristan-da-cunha.png?v=e4edea55d5c3"
+    },
+    {
+      "name": "TN 突尼斯 Tunisia 突尼西亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tunisia.png?v=1752e01f724d"
+    },
+    {
+      "name": "TR 土耳其 Türkiye Turkey 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-turkiye.png?v=e8f427b8b0bf"
+    },
+    {
+      "name": "TM 土库曼斯坦 Turkmenistan 土庫曼 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-turkmenistan.png?v=ff8cd22ac8c3"
+    },
+    {
+      "name": "TC 特克斯和凯科斯群岛 Turks and Caicos Islands 土克斯及開科斯群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-turks-and-caicos-islands.png?v=850c8dff25f4"
+    },
+    {
+      "name": "TV 图瓦卢 Tuvalu 吐瓦魯 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-tuvalu.png?v=d54116d5d7d1"
+    },
+    {
+      "name": "UG 乌干达 Uganda 烏干達 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-uganda.png?v=295b4793ea48"
+    },
+    {
+      "name": "UA 乌克兰 Ukraine 烏克蘭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-ukraine.png?v=143fca6e02d8"
+    },
+    {
+      "name": "AE 阿拉伯联合酋长国 United Arab Emirates 阿拉伯聯合大公國 UAE 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-united-arab-emirates.png?v=187b878f085b"
+    },
+    {
+      "name": "GB 英国 United Kingdom 英國 UK Britain 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-united-kingdom.png?v=b5bf955a7394"
+    },
+    {
+      "name": "UM 美国本土外小岛屿 United States Minor Outlying Islands 美國本土外小島嶼 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-united-states-minor-outlying-islands.png?v=86db977c99f3"
+    },
+    {
+      "name": "UY 乌拉圭 Uruguay 烏拉圭 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-uruguay.png?v=a65a9afaa86c"
+    },
+    {
+      "name": "US 美国 United States of America 美國 USA 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-usa.png?v=28d18f7d5f92"
+    },
+    {
+      "name": "UZ 乌兹别克斯坦 Uzbekistan 烏茲別克 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-uzbekistan.png?v=24840e953b48"
+    },
+    {
+      "name": "VU 瓦努阿图 Vanuatu 萬那杜 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-vanuatu.png?v=7b17393b69e6"
+    },
+    {
+      "name": "VA 梵蒂冈 Holy See 梵蒂岡 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-vatican-city.png?v=927fc8f02fc7"
+    },
+    {
+      "name": "VE 委内瑞拉 Venezuela 委內瑞拉 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-venezuela.png?v=ee44f4dec41a"
+    },
+    {
+      "name": "VN 越南 Vietnam 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-vietnam.png?v=e86ce62d867a"
+    },
+    {
+      "name": "VG 英属维尔京群岛 Virgin Islands (British) 英屬維京群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-virgin-islands-british.png?v=fe0f192bc0b5"
+    },
+    {
+      "name": "VI 美属维尔京群岛 Virgin Islands (U.S.) 美屬維京群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-virgin-islands-u-s.png?v=66efe717cd69"
+    },
+    {
+      "name": "WF 瓦利斯和富图纳 Wallis and Futuna 瓦利斯群島和富圖那群島 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-wallis-and-futuna.png?v=b92618cb6260"
+    },
+    {
+      "name": "EH 西撒哈拉 Western Sahara 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-western-sahara.png?v=34311a3fc2c2"
+    },
+    {
+      "name": "YE 也门 Yemen 葉門 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-yemen.png?v=7ac02c086c0f"
+    },
+    {
+      "name": "ZM 赞比亚 Zambia 尚比亞 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-zambia.png?v=56cd91cc406b"
+    },
+    {
+      "name": "ZW 津巴布韦 Zimbabwe 辛巴威 地图 地圖 Map",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/map-zimbabwe.png?v=db6c35c7f445"
+    }
+  ]
+}

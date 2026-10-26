@@ -1,0 +1,986 @@
+{
+  "name": "zwjtano-apps",
+  "description": "应用与通用图标合集，支持中英文搜索；适用于 Loon、Surge、Quantumult X 等代理客户端和个人规则集。",
+  "icons": [
+    {
+      "name": "abema ABEMA 日本节目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67"
+    },
+    {
+      "name": "acorn-tv Acorn TV 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f"
+    },
+    {
+      "name": "ai 人工智能 AI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=a31640148ab9"
+    },
+    {
+      "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
+    },
+    {
+      "name": "amc-plus AMC+ AMC Plus 美剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amc-plus.png?v=6c3270cc444a"
+    },
+    {
+      "name": "apple 苹果 Apple",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=b1d0499b79ba"
+    },
+    {
+      "name": "apple-fitness 苹果健身 Apple Fitness+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png?v=94e239bf3cb2"
+    },
+    {
+      "name": "apple-music 苹果音乐 Apple Music",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png?v=535abcba778b"
+    },
+    {
+      "name": "apple-tv 苹果电视 Apple TV",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png?v=cbdd87b771fc"
+    },
+    {
+      "name": "bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6"
+    },
+    {
+      "name": "bbc-iplayer BBC iPlayer 英国 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44"
+    },
+    {
+      "name": "bilibili 哔哩哔哩 B站 Bilibili",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png?v=d09fc583c049"
+    },
+    {
+      "name": "binance Binance 币安 幣安 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/binance.png?v=a1b1df0238b3"
+    },
+    {
+      "name": "bluesky Bluesky 蓝天 藍天 社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939"
+    },
+    {
+      "name": "britbox BritBox 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10"
+    },
+    {
+      "name": "bybit Bybit 拜比特 bubit 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bybit.png?v=6358d2c53b3d"
+    },
+    {
+      "name": "chatgpt 对话助手 OpenAI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png?v=43e0fc8337bd"
+    },
+    {
+      "name": "claude 克劳德 Anthropic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png?v=83f1bf40a33c"
+    },
+    {
+      "name": "cloudflare Cloudflare CF 云服务 CDN",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61"
+    },
+    {
+      "name": "coupang-play Coupang Play 酷澎 韩国",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coupang-play.png?v=eebd0e77c473"
+    },
+    {
+      "name": "criterion-channel The Criterion Channel 标准收藏 电影",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/criterion-channel.png?v=0c14948b6d9a"
+    },
+    {
+      "name": "crunchyroll Crunchyroll 动漫 動漫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/crunchyroll.png?v=53df29764447"
+    },
+    {
+      "name": "curiositystream Curiosity Stream CuriosityStream 纪录片 紀錄片",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curiositystream.png?v=942a4f3ccbb7"
+    },
+    {
+      "name": "dazn 体育直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png?v=d9afb82c2cba"
+    },
+    {
+      "name": "dcard Dcard 狄卡 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dcard.png?v=31aaebf8b35b"
+    },
+    {
+      "name": "dingtalk 钉钉 DingTalk",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=7c1ed0df7d74"
+    },
+    {
+      "name": "directv DIRECTV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/directv.png?v=8d5ee638f5a7"
+    },
+    {
+      "name": "discord 语音聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png?v=395262fa0cfe"
+    },
+    {
+      "name": "discovery-plus discovery+ Discovery Plus 探索频道",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discovery-plus.png?v=bd67bf22e7d1"
+    },
+    {
+      "name": "disneyplus 迪士尼 Disney+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=d9d64a705f71"
+    },
+    {
+      "name": "dmit 云服务器",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=8c110f934a1b"
+    },
+    {
+      "name": "dongqiudi 懂球帝",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=82787f5afbc6"
+    },
+    {
+      "name": "douyu 斗鱼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3fbc4ea1e285"
+    },
+    {
+      "name": "dramabox DramaBox 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramabox.png?v=d108ebe6721a"
+    },
+    {
+      "name": "dramawave DramaWave 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66"
+    },
+    {
+      "name": "duolingo 多邻国 多鄰國 Duo 学习",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d"
+    },
+    {
+      "name": "ea EA app 艺电 藝電 Electronic Arts Origin 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57"
+    },
+    {
+      "name": "espn ESPN ESPN+ ESPN Select Unlimited 体育 體育",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e"
+    },
+    {
+      "name": "facebook 脸书 Facebook Meta",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=1fdc4fd853fb"
+    },
+    {
+      "name": "flickreels FlickReels 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f"
+    },
+    {
+      "name": "fox-one FOX One 福克斯 美国直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07"
+    },
+    {
+      "name": "freereels FreeReels 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/freereels.png?v=fcd6d2ddcec9"
+    },
+    {
+      "name": "fubo Fubo 美国体育电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8"
+    },
+    {
+      "name": "game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png?v=2bd39c46b447"
+    },
+    {
+      "name": "gemini 双子座 谷歌人工智能 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png?v=7f7c973dab2f"
+    },
+    {
+      "name": "github 代码托管",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png?v=b55f72c9868f"
+    },
+    {
+      "name": "gmail 谷歌邮箱 Gmail",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png?v=1eab1eed2246"
+    },
+    {
+      "name": "goodshort GoodShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035"
+    },
+    {
+      "name": "google 谷歌 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=ea2e7fc577cf"
+    },
+    {
+      "name": "google-cloud 谷歌云 谷歌雲 Google Cloud GCP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144"
+    },
+    {
+      "name": "google-drive 谷歌云盘 Google Drive",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png?v=054be34c867e"
+    },
+    {
+      "name": "google-photos 谷歌相册 Google Photos",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png?v=fe26bbf382e9"
+    },
+    {
+      "name": "google-translate 谷歌翻译 Google Translate",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png?v=3f86c179a342"
+    },
+    {
+      "name": "googlevoice 谷歌语音 Google Voice",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png?v=f8c2f8082355"
+    },
+    {
+      "name": "grok Grok xAI 人工智能",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7"
+    },
+    {
+      "name": "hami-video Hami Video 台湾 台灣 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hami-video.png?v=7703a2ed7151"
+    },
+    {
+      "name": "hbomax HBO Max 华纳流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=e419c7f1dc54"
+    },
+    {
+      "name": "hulu 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png?v=4cafc90efab5"
+    },
+    {
+      "name": "hupu 虎扑",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png?v=b50e237f6da1"
+    },
+    {
+      "name": "icloud iCloud 苹果云 蘋果雲 云存储 雲端儲存",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/icloud.png?v=a5a26df8b623"
+    },
+    {
+      "name": "instagram 照片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=7bb5f884ebb3"
+    },
+    {
+      "name": "itvx ITVX ITV 英国电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637"
+    },
+    {
+      "name": "kakaotalk KakaoTalk 卡考 韩国聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67"
+    },
+    {
+      "name": "kraken Kraken 海妖 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kraken.png?v=4a8e55c60f61"
+    },
+    {
+      "name": "line 连我 聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png?v=6030dea956fb"
+    },
+    {
+      "name": "linetv LINE TV 台湾 台灣 追剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74"
+    },
+    {
+      "name": "linkedin LinkedIn 领英 領英 职场社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5"
+    },
+    {
+      "name": "melolo Melolo 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b"
+    },
+    {
+      "name": "messenger Messenger Facebook 脸书信使",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39"
+    },
+    {
+      "name": "mgm-plus MGM+ MGM Plus 米高梅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad"
+    },
+    {
+      "name": "microsoft 微软 Microsoft",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png?v=64345f162ce0"
+    },
+    {
+      "name": "mlb MLB 美国棒球 MLB.tv",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mlb.png?v=f2f571549586"
+    },
+    {
+      "name": "mytvsuper myTV SUPER TVB 香港",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983"
+    },
+    {
+      "name": "nba NBA 篮球 籃球 League Pass",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84"
+    },
+    {
+      "name": "netflix 奈飞 网飞 Netflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=a336d19d475d"
+    },
+    {
+      "name": "netshort NetShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netshort.png?v=60a78354462e"
+    },
+    {
+      "name": "nfl NFL 美式橄榄球 NFL+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256"
+    },
+    {
+      "name": "nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png"
+    },
+    {
+      "name": "notion 笔记 筆記 工作空间",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e"
+    },
+    {
+      "name": "okx OKX 欧易 歐易 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a"
+    },
+    {
+      "name": "onedrive OneDrive 微软云盘 微軟雲端硬碟 Microsoft 云存储 雲端儲存",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde"
+    },
+    {
+      "name": "oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236"
+    },
+    {
+      "name": "paramount-plus 派拉蒙 Paramount+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png?v=134c176efbf0"
+    },
+    {
+      "name": "paypal 贝宝 PayPal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=aaa15fab8c2e"
+    },
+    {
+      "name": "pbs PBS 美国公共电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs.png?v=3e2967d18454"
+    },
+    {
+      "name": "pbs-kids PBS KIDS 儿童 兒童",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs-kids.png?v=b9729280caac"
+    },
+    {
+      "name": "peacock 孔雀 Peacock",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png?v=91526a66d52d"
+    },
+    {
+      "name": "philo Philo 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1"
+    },
+    {
+      "name": "pinterest Pinterest 拼趣 图片收藏",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51"
+    },
+    {
+      "name": "pixiv pixiv P站 插画 插畫 创作社区 創作社群",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pixiv.png?v=e3d000ac317b"
+    },
+    {
+      "name": "playstation 索尼 PS 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png"
+    },
+    {
+      "name": "pluto-tv Pluto TV 免费电视 免費電視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e"
+    },
+    {
+      "name": "pornhub Pornhub PH 字标",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7"
+    },
+    {
+      "name": "primevideo 亚马逊视频 Prime Video",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=8d677f28b4c5"
+    },
+    {
+      "name": "qobuz Qobuz 高解析音乐 高解析音樂 无损音乐 無損音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qobuz.png?v=a701b78429b3"
+    },
+    {
+      "name": "reddit Reddit 红迪 紅迪 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b"
+    },
+    {
+      "name": "reelshort ReelShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reelshort.png?v=b0019bcb3df7"
+    },
+    {
+      "name": "roku-channel The Roku Channel Roku 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9"
+    },
+    {
+      "name": "shortmax ShortMax ShortTV 旧名 舊名 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shortmax.png?v=65d1f33d9aa5"
+    },
+    {
+      "name": "shudder Shudder 惊悚 恐怖影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd"
+    },
+    {
+      "name": "signal Signal 私密通讯 通訊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448"
+    },
+    {
+      "name": "skydance 天空之舞 Skydance",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png?v=05b59febb8be"
+    },
+    {
+      "name": "sling-tv Sling TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sling-tv.png?v=368bd449083f"
+    },
+    {
+      "name": "snapchat Snapchat 快拍 图片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/snapchat.png?v=a3dbf56aa1be"
+    },
+    {
+      "name": "spotify 声破天 音乐",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png?v=0138904732bf"
+    },
+    {
+      "name": "stan Stan 澳大利亚 澳洲 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2"
+    },
+    {
+      "name": "starz STARZ 美国影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8"
+    },
+    {
+      "name": "steam 蒸汽 Valve 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png"
+    },
+    {
+      "name": "suno Suno AI音乐生成 AI音樂生成 人工智能音乐 人工智慧音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6"
+    },
+    {
+      "name": "talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604"
+    },
+    {
+      "name": "telegram 电报 Telegram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=06dee7de34ec"
+    },
+    {
+      "name": "threads Threads 脆 文字社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803"
+    },
+    {
+      "name": "tidal TIDAL 潮汐音乐 潮汐音樂 无损音乐 無損音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tidal.png?v=ff7e95ecfcfe"
+    },
+    {
+      "name": "tiktok 抖音国际版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=bf37e1be92df"
+    },
+    {
+      "name": "trading212 Trading 212 Trading212 投资交易 投資交易",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00"
+    },
+    {
+      "name": "tubi Tubi 免费影视 免費影視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e"
+    },
+    {
+      "name": "tver TVer 日本电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35"
+    },
+    {
+      "name": "tving TVING 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53"
+    },
+    {
+      "name": "twitch 图奇 圖奇 游戏直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
+    },
+    {
+      "name": "unext U-NEXT 日本流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/unext.png?v=26b91a5b7f8d"
+    },
+    {
+      "name": "viu Viu 亚洲剧集",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24"
+    },
+    {
+      "name": "viutv ViuTV 香港 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def"
+    },
+    {
+      "name": "wavve Wavve 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a"
+    },
+    {
+      "name": "wechat 微信 WeChat Weixin 腾讯 騰訊 即时通讯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9"
+    },
+    {
+      "name": "weibo 微博 新浪 Sina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9"
+    },
+    {
+      "name": "whatsapp 即时通讯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png?v=c5db03780893"
+    },
+    {
+      "name": "wise Wise 国际汇款 國際匯款 转账 轉帳",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wise.png?v=717ee5d703df"
+    },
+    {
+      "name": "x 推特 Twitter",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=964f3a5b02b9"
+    },
+    {
+      "name": "xbox 微软 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png"
+    },
+    {
+      "name": "xiaohongshu 小红书 REDnote",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=2ea088f1ddd9"
+    },
+    {
+      "name": "youtube 油管 YouTube 视频",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=c4cada82742e"
+    },
+    {
+      "name": "youtube-tv YouTube TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974"
+    },
+    {
+      "name": "zalo Zalo 越南聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee"
+    },
+    {
+      "name": "zhihu 知乎",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=674dae3b2134"
+    },
+    {
+      "name": "机场组 · AgentNEO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
+    },
+    {
+      "name": "机场组 · Aladdin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2"
+    },
+    {
+      "name": "机场组 · 按摩院 AmyTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b"
+    },
+    {
+      "name": "机场组 · ARK",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef"
+    },
+    {
+      "name": "机场组 · ASH",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
+    },
+    {
+      "name": "机场组 · 白月光 ByWave",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f"
+    },
+    {
+      "name": "机场组 · 咖啡云 CoffeeCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96"
+    },
+    {
+      "name": "机场组 · 奶油 CreamData",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9"
+    },
+    {
+      "name": "机场组 · cyou 次元链接 CyLink Cylink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955"
+    },
+    {
+      "name": "机场组 · dagcloud 大哥云 DGY",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb"
+    },
+    {
+      "name": "机场组 · erwans 尔湾云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358"
+    },
+    {
+      "name": "机场组 · FastLink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422"
+    },
+    {
+      "name": "机场组 · FastNode",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a"
+    },
+    {
+      "name": "机场组 · feijicloud 飞机云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309"
+    },
+    {
+      "name": "机场组 · final FINAL 兜底 最终规则 最終規則 Catch-all Final Rule Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08"
+    },
+    {
+      "name": "机场组 · 闪狐云 FlashFox",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff"
+    },
+    {
+      "name": "机场组 · 飞天猪 Fliggy 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113"
+    },
+    {
+      "name": "机场组 · 花云 FlowerCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246"
+    },
+    {
+      "name": "机场组 · 飞鸟 FlyingBird 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3"
+    },
+    {
+      "name": "机场组 · Flyint飞数",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b"
+    },
+    {
+      "name": "机场组 · foo-and-friends Foo&Friends FNF",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae"
+    },
+    {
+      "name": "机场组 · 纷达网络 Fenda Funda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff"
+    },
+    {
+      "name": "机场组 · 银河云GalaxyCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b"
+    },
+    {
+      "name": "机场组 · global 全球 Global Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab"
+    },
+    {
+      "name": "机场组 · haitunwan 海豚湾 Hitun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5"
+    },
+    {
+      "name": "机场组 · ImmTel ImmTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc"
+    },
+    {
+      "name": "机场组 · jifengyun 疾风云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9"
+    },
+    {
+      "name": "机场组 · KooDog",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece"
+    },
+    {
+      "name": "机场组 · 酷酷云KuKuYun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0"
+    },
+    {
+      "name": "机场组 · 库洛米Kuromis",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6"
+    },
+    {
+      "name": "机场组 · KyCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696"
+    },
+    {
+      "name": "机场组 · lanfanyun 蓝帆云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4"
+    },
+    {
+      "name": "机场组 · LinkCube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35"
+    },
+    {
+      "name": "机场组 · longmaoyun 龙猫云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5"
+    },
+    {
+      "name": "机场组 · loon 代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png?v=4ca5767dda83"
+    },
+    {
+      "name": "机场组 · Luckin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99"
+    },
+    {
+      "name": "机场组 · maoxiong 猫熊网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30"
+    },
+    {
+      "name": "机场组 · 三月七 March7 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d"
+    },
+    {
+      "name": "机场组 · MESL",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764"
+    },
+    {
+      "name": "机场组 · Miaona",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca"
+    },
+    {
+      "name": "机场组 · myjs 魅影极速 MAYING",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4"
+    },
+    {
+      "name": "机场组 · Nerwo奶瓶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b"
+    },
+    {
+      "name": "机场组 · 奶昔 Nexitally",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3"
+    },
+    {
+      "name": "机场组 · 咸鱼加速器 NexusCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8"
+    },
+    {
+      "name": "机场组 · OuO Network",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb"
+    },
+    {
+      "name": "机场组 · paofuyun 泡芙云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6"
+    },
+    {
+      "name": "机场组 · qingyunti 青云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
+    },
+    {
+      "name": "机场组 · shaoshupai 少数派 SSP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
+    },
+    {
+      "name": "机场组 · shouhou 守候网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7"
+    },
+    {
+      "name": "机场组 · ssLinks",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc"
+    },
+    {
+      "name": "机场组 · ssrcloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2"
+    },
+    {
+      "name": "机场组 · surge 网络代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png?v=d8e74c74228f"
+    },
+    {
+      "name": "机场组 · 速鹰666 Suying666 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa"
+    },
+    {
+      "name": "机场组 · suyunti 速云梯 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9"
+    },
+    {
+      "name": "机场组 · TAG 机场 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=aa48b112f114"
+    },
+    {
+      "name": "机场组 · tianhang 天航 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032"
+    },
+    {
+      "name": "机场组 · V2Paw",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da"
+    },
+    {
+      "name": "机场组 · V2Tun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903"
+    },
+    {
+      "name": "机场组 · wd 西部数据 Western Digital Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png?v=0c81d3d16b9d"
+    },
+    {
+      "name": "机场组 · 西部数据 WestData WDCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca"
+    },
+    {
+      "name": "机场组 · xiaoxuanfeng 小旋风 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c"
+    },
+    {
+      "name": "机场组 · Xlinkworld",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5"
+    },
+    {
+      "name": "机场组 · Yepfast椰皮加速",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e"
+    },
+    {
+      "name": "机场组 · yiyunti 一云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705"
+    },
+    {
+      "name": "机场组 · YToo YTOO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188"
+    },
+    {
+      "name": "机场组 · yunyi 云翼网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace"
+    },
+    {
+      "name": "emby Emby 媒体库 媒體庫 影音服务器",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7"
+    },
+    {
+      "name": "Emby 垃圾影音 1111 Loser",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26"
+    },
+    {
+      "name": "Emby AlphaTV 海外服 Alpha",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175"
+    },
+    {
+      "name": "Emby 结束乐队 結束Band Bocchi AIVBI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3"
+    },
+    {
+      "name": "Emby CC 公益 CcEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-cc.png?v=cb4a6207382f"
+    },
+    {
+      "name": "Emby 吹大牛 飞跃 飛躍 ChuiDaNiu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-chuidaniu.png?v=3ad4ba5d43f9"
+    },
+    {
+      "name": "Emby 飞跃彩虹 飛躍彩虹 Feiyue NEXT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-feiyue.png?v=b01e5d8e0af6"
+    },
+    {
+      "name": "Emby 鸢尾 鳶尾 Iris",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-iris.png?v=4f7d147f1d29"
+    },
+    {
+      "name": "Emby 惊蛰 驚蟄 Jingzhe JINGZHEPRO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jingzhe.png?v=382fcfaa6308"
+    },
+    {
+      "name": "Emby 见手青 見手青 JianShouQing",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jsq.png?v=ea9c8cb63977"
+    },
+    {
+      "name": "Emby Lemby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lemby.png?v=d8fb0e058314"
+    },
+    {
+      "name": "Emby Lily 百合",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lily.png?v=1687ed2fb566"
+    },
+    {
+      "name": "Emby 临境 臨境 Liminal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-liminal.png?v=dc7a38e20911"
+    },
+    {
+      "name": "Emby 享境 Luxrealm",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-luxrealm.png?v=bf9492f46659"
+    },
+    {
+      "name": "Emby 喜鹊 喜鵲 Magpie",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-magpie.png?v=b99c0997873a"
+    },
+    {
+      "name": "Emby MICU Cloud Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-micu.png?v=3344092f7ad0"
+    },
+    {
+      "name": "Emby Misty 历史品牌 歷史品牌 UHD",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-misty.png?v=33e89bee53fb"
+    },
+    {
+      "name": "Emby 蘑菇 Mooguu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-mooguu.png?v=c7da48b7e9fa"
+    },
+    {
+      "name": "Emby 墨云阁 墨雲閣 MoYunGe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-moyunge.png?v=c68efa635430"
+    },
+    {
+      "name": "Emby 天南小筑 天南小築 Nanflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nanflix.png?v=99ac460f2a45"
+    },
+    {
+      "name": "Emby 星云 星雲 Nebula Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nebula.png?v=162c010e4366"
+    },
+    {
+      "name": "Emby 二次元 Nijigen",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nijigen.png?v=b48440f6c232"
+    },
+    {
+      "name": "Emby Nya Media Nyamedia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nyamedia.png?v=82c0c76d3a05"
+    },
+    {
+      "name": "Emby 奥德赛 奧德賽 Odyssey+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-odyssey.png?v=c1788b50ea0b"
+    },
+    {
+      "name": "Emby 纸片人 紙片人 EmbyPlus Paper",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-paper.png?v=971df2ae45f0"
+    },
+    {
+      "name": "Emby 桃子 Peach",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-peach.png?v=e95253bc2605"
+    },
+    {
+      "name": "Emby 起点站 起點站 Qidian",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-qidian.png?v=eed85c54e7b4"
+    },
+    {
+      "name": "Emby 萝卜 蘿蔔 Robo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-robo.png?v=b641efc77fc5"
+    },
+    {
+      "name": "Emby SaturDay Lite 星期六",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-saturday.png?v=0d2d2bbb48d6"
+    },
+    {
+      "name": "Emby SNTP 守候影院 Media Lite",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-sntp.png?v=5110e1be9fa2"
+    },
+    {
+      "name": "Emby 星烁 星爍 StarSho",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-starsho.png?v=c43adb23048f"
+    },
+    {
+      "name": "Emby 终点站 終點站 Terminus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972"
+    },
+    {
+      "name": "Emby UHD UHDNOW Next Media Server",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79"
+    },
+    {
+      "name": "Emby YounoPlus Youno YounoEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf"
+    },
+    {
+      "name": "omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98"
+    },
+    {
+      "name": "tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247"
+    },
+    {
+      "name": "asia 亚洲 Asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96"
+    },
+    {
+      "name": "europe 欧洲 歐洲 Europe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721"
+    },
+    {
+      "name": "africa 非洲 Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82"
+    },
+    {
+      "name": "north-america 北美洲 North America 北美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041"
+    },
+    {
+      "name": "south-america 南美洲 South America 南美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5"
+    },
+    {
+      "name": "oceania 大洋洲 Oceania 澳大利亚洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563"
+    },
+    {
+      "name": "antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281"
+    }
+  ]
+}

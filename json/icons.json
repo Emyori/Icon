@@ -1,0 +1,2018 @@
+{
+  "name": "zwjtano-icons",
+  "description": "手绘透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端和个人规则集。",
+  "icons": [
+    {
+      "name": "abema ABEMA 日本节目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67"
+    },
+    {
+      "name": "acorn-tv Acorn TV 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f"
+    },
+    {
+      "name": "ai 人工智能 AI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=a31640148ab9"
+    },
+    {
+      "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
+    },
+    {
+      "name": "amc-plus AMC+ AMC Plus 美剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amc-plus.png?v=6c3270cc444a"
+    },
+    {
+      "name": "apple 苹果 Apple",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=b1d0499b79ba"
+    },
+    {
+      "name": "apple-fitness 苹果健身 Apple Fitness+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png?v=94e239bf3cb2"
+    },
+    {
+      "name": "apple-music 苹果音乐 Apple Music",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png?v=535abcba778b"
+    },
+    {
+      "name": "apple-tv 苹果电视 Apple TV",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png?v=cbdd87b771fc"
+    },
+    {
+      "name": "bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6"
+    },
+    {
+      "name": "bbc-iplayer BBC iPlayer 英国 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44"
+    },
+    {
+      "name": "bilibili 哔哩哔哩 B站 Bilibili",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png?v=d09fc583c049"
+    },
+    {
+      "name": "binance Binance 币安 幣安 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/binance.png?v=a1b1df0238b3"
+    },
+    {
+      "name": "bluesky Bluesky 蓝天 藍天 社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939"
+    },
+    {
+      "name": "britbox BritBox 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10"
+    },
+    {
+      "name": "bybit Bybit 拜比特 bubit 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bybit.png?v=6358d2c53b3d"
+    },
+    {
+      "name": "chatgpt 对话助手 OpenAI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png?v=43e0fc8337bd"
+    },
+    {
+      "name": "claude 克劳德 Anthropic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png?v=83f1bf40a33c"
+    },
+    {
+      "name": "cloudflare Cloudflare CF 云服务 CDN",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61"
+    },
+    {
+      "name": "coupang-play Coupang Play 酷澎 韩国",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coupang-play.png?v=eebd0e77c473"
+    },
+    {
+      "name": "criterion-channel The Criterion Channel 标准收藏 电影",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/criterion-channel.png?v=0c14948b6d9a"
+    },
+    {
+      "name": "crunchyroll Crunchyroll 动漫 動漫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/crunchyroll.png?v=53df29764447"
+    },
+    {
+      "name": "curiositystream Curiosity Stream CuriosityStream 纪录片 紀錄片",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curiositystream.png?v=942a4f3ccbb7"
+    },
+    {
+      "name": "dazn 体育直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png?v=d9afb82c2cba"
+    },
+    {
+      "name": "dcard Dcard 狄卡 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dcard.png?v=31aaebf8b35b"
+    },
+    {
+      "name": "dingtalk 钉钉 DingTalk",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=7c1ed0df7d74"
+    },
+    {
+      "name": "directv DIRECTV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/directv.png?v=8d5ee638f5a7"
+    },
+    {
+      "name": "discord 语音聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png?v=395262fa0cfe"
+    },
+    {
+      "name": "discovery-plus discovery+ Discovery Plus 探索频道",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discovery-plus.png?v=bd67bf22e7d1"
+    },
+    {
+      "name": "disneyplus 迪士尼 Disney+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=d9d64a705f71"
+    },
+    {
+      "name": "dmit 云服务器",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=8c110f934a1b"
+    },
+    {
+      "name": "dongqiudi 懂球帝",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=82787f5afbc6"
+    },
+    {
+      "name": "douyu 斗鱼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3fbc4ea1e285"
+    },
+    {
+      "name": "dramabox DramaBox 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramabox.png?v=d108ebe6721a"
+    },
+    {
+      "name": "dramawave DramaWave 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66"
+    },
+    {
+      "name": "duolingo 多邻国 多鄰國 Duo 学习",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d"
+    },
+    {
+      "name": "ea EA app 艺电 藝電 Electronic Arts Origin 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57"
+    },
+    {
+      "name": "espn ESPN ESPN+ ESPN Select Unlimited 体育 體育",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e"
+    },
+    {
+      "name": "facebook 脸书 Facebook Meta",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=1fdc4fd853fb"
+    },
+    {
+      "name": "flickreels FlickReels 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f"
+    },
+    {
+      "name": "fox-one FOX One 福克斯 美国直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07"
+    },
+    {
+      "name": "freereels FreeReels 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/freereels.png?v=fcd6d2ddcec9"
+    },
+    {
+      "name": "fubo Fubo 美国体育电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8"
+    },
+    {
+      "name": "game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png?v=2bd39c46b447"
+    },
+    {
+      "name": "gemini 双子座 谷歌人工智能 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png?v=7f7c973dab2f"
+    },
+    {
+      "name": "github 代码托管",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png?v=b55f72c9868f"
+    },
+    {
+      "name": "gmail 谷歌邮箱 Gmail",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png?v=1eab1eed2246"
+    },
+    {
+      "name": "goodshort GoodShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035"
+    },
+    {
+      "name": "google 谷歌 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=ea2e7fc577cf"
+    },
+    {
+      "name": "google-cloud 谷歌云 谷歌雲 Google Cloud GCP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144"
+    },
+    {
+      "name": "google-drive 谷歌云盘 Google Drive",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png?v=054be34c867e"
+    },
+    {
+      "name": "google-photos 谷歌相册 Google Photos",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png?v=fe26bbf382e9"
+    },
+    {
+      "name": "google-translate 谷歌翻译 Google Translate",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png?v=3f86c179a342"
+    },
+    {
+      "name": "googlevoice 谷歌语音 Google Voice",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png?v=f8c2f8082355"
+    },
+    {
+      "name": "grok Grok xAI 人工智能",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7"
+    },
+    {
+      "name": "hami-video Hami Video 台湾 台灣 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hami-video.png?v=7703a2ed7151"
+    },
+    {
+      "name": "hbomax HBO Max 华纳流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=e419c7f1dc54"
+    },
+    {
+      "name": "hulu 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png?v=4cafc90efab5"
+    },
+    {
+      "name": "hupu 虎扑",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png?v=b50e237f6da1"
+    },
+    {
+      "name": "icloud iCloud 苹果云 蘋果雲 云存储 雲端儲存",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/icloud.png?v=a5a26df8b623"
+    },
+    {
+      "name": "instagram 照片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=7bb5f884ebb3"
+    },
+    {
+      "name": "itvx ITVX ITV 英国电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637"
+    },
+    {
+      "name": "kakaotalk KakaoTalk 卡考 韩国聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67"
+    },
+    {
+      "name": "kraken Kraken 海妖 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kraken.png?v=4a8e55c60f61"
+    },
+    {
+      "name": "line 连我 聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png?v=6030dea956fb"
+    },
+    {
+      "name": "linetv LINE TV 台湾 台灣 追剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74"
+    },
+    {
+      "name": "linkedin LinkedIn 领英 領英 职场社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5"
+    },
+    {
+      "name": "melolo Melolo 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b"
+    },
+    {
+      "name": "messenger Messenger Facebook 脸书信使",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39"
+    },
+    {
+      "name": "mgm-plus MGM+ MGM Plus 米高梅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad"
+    },
+    {
+      "name": "microsoft 微软 Microsoft",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png?v=64345f162ce0"
+    },
+    {
+      "name": "mlb MLB 美国棒球 MLB.tv",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mlb.png?v=f2f571549586"
+    },
+    {
+      "name": "mytvsuper myTV SUPER TVB 香港",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983"
+    },
+    {
+      "name": "nba NBA 篮球 籃球 League Pass",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84"
+    },
+    {
+      "name": "netflix 奈飞 网飞 Netflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=a336d19d475d"
+    },
+    {
+      "name": "netshort NetShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netshort.png?v=60a78354462e"
+    },
+    {
+      "name": "nfl NFL 美式橄榄球 NFL+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256"
+    },
+    {
+      "name": "nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png"
+    },
+    {
+      "name": "notion 笔记 筆記 工作空间",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e"
+    },
+    {
+      "name": "okx OKX 欧易 歐易 加密货币 加密貨幣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a"
+    },
+    {
+      "name": "onedrive OneDrive 微软云盘 微軟雲端硬碟 Microsoft 云存储 雲端儲存",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde"
+    },
+    {
+      "name": "oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236"
+    },
+    {
+      "name": "paramount-plus 派拉蒙 Paramount+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png?v=134c176efbf0"
+    },
+    {
+      "name": "paypal 贝宝 PayPal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=aaa15fab8c2e"
+    },
+    {
+      "name": "pbs PBS 美国公共电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs.png?v=3e2967d18454"
+    },
+    {
+      "name": "pbs-kids PBS KIDS 儿童 兒童",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs-kids.png?v=b9729280caac"
+    },
+    {
+      "name": "peacock 孔雀 Peacock",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png?v=91526a66d52d"
+    },
+    {
+      "name": "philo Philo 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1"
+    },
+    {
+      "name": "pinterest Pinterest 拼趣 图片收藏",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51"
+    },
+    {
+      "name": "pixiv pixiv P站 插画 插畫 创作社区 創作社群",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pixiv.png?v=e3d000ac317b"
+    },
+    {
+      "name": "playstation 索尼 PS 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png"
+    },
+    {
+      "name": "pluto-tv Pluto TV 免费电视 免費電視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e"
+    },
+    {
+      "name": "pornhub Pornhub PH 字标",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7"
+    },
+    {
+      "name": "primevideo 亚马逊视频 Prime Video",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=8d677f28b4c5"
+    },
+    {
+      "name": "qobuz Qobuz 高解析音乐 高解析音樂 无损音乐 無損音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qobuz.png?v=a701b78429b3"
+    },
+    {
+      "name": "reddit Reddit 红迪 紅迪 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b"
+    },
+    {
+      "name": "reelshort ReelShort 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reelshort.png?v=b0019bcb3df7"
+    },
+    {
+      "name": "roku-channel The Roku Channel Roku 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9"
+    },
+    {
+      "name": "shortmax ShortMax ShortTV 旧名 舊名 海外短剧 海外短劇 竖屏短剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shortmax.png?v=65d1f33d9aa5"
+    },
+    {
+      "name": "shudder Shudder 惊悚 恐怖影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd"
+    },
+    {
+      "name": "signal Signal 私密通讯 通訊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448"
+    },
+    {
+      "name": "skydance 天空之舞 Skydance",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png?v=05b59febb8be"
+    },
+    {
+      "name": "sling-tv Sling TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sling-tv.png?v=368bd449083f"
+    },
+    {
+      "name": "snapchat Snapchat 快拍 图片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/snapchat.png?v=a3dbf56aa1be"
+    },
+    {
+      "name": "spotify 声破天 音乐",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png?v=0138904732bf"
+    },
+    {
+      "name": "stan Stan 澳大利亚 澳洲 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2"
+    },
+    {
+      "name": "starz STARZ 美国影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8"
+    },
+    {
+      "name": "steam 蒸汽 Valve 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png"
+    },
+    {
+      "name": "suno Suno AI音乐生成 AI音樂生成 人工智能音乐 人工智慧音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6"
+    },
+    {
+      "name": "talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604"
+    },
+    {
+      "name": "telegram 电报 Telegram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=06dee7de34ec"
+    },
+    {
+      "name": "threads Threads 脆 文字社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803"
+    },
+    {
+      "name": "tidal TIDAL 潮汐音乐 潮汐音樂 无损音乐 無損音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tidal.png?v=ff7e95ecfcfe"
+    },
+    {
+      "name": "tiktok 抖音国际版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=bf37e1be92df"
+    },
+    {
+      "name": "trading212 Trading 212 Trading212 投资交易 投資交易",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00"
+    },
+    {
+      "name": "tubi Tubi 免费影视 免費影視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e"
+    },
+    {
+      "name": "tver TVer 日本电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35"
+    },
+    {
+      "name": "tving TVING 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53"
+    },
+    {
+      "name": "twitch 图奇 圖奇 游戏直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
+    },
+    {
+      "name": "unext U-NEXT 日本流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/unext.png?v=26b91a5b7f8d"
+    },
+    {
+      "name": "viu Viu 亚洲剧集",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24"
+    },
+    {
+      "name": "viutv ViuTV 香港 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def"
+    },
+    {
+      "name": "wavve Wavve 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a"
+    },
+    {
+      "name": "wechat 微信 WeChat Weixin 腾讯 騰訊 即时通讯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9"
+    },
+    {
+      "name": "weibo 微博 新浪 Sina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9"
+    },
+    {
+      "name": "whatsapp 即时通讯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png?v=c5db03780893"
+    },
+    {
+      "name": "wise Wise 国际汇款 國際匯款 转账 轉帳",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wise.png?v=717ee5d703df"
+    },
+    {
+      "name": "x 推特 Twitter",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=964f3a5b02b9"
+    },
+    {
+      "name": "xbox 微软 游戏平台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png"
+    },
+    {
+      "name": "xiaohongshu 小红书 REDnote",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=2ea088f1ddd9"
+    },
+    {
+      "name": "youtube 油管 YouTube 视频",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=c4cada82742e"
+    },
+    {
+      "name": "youtube-tv YouTube TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974"
+    },
+    {
+      "name": "zalo Zalo 越南聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee"
+    },
+    {
+      "name": "zhihu 知乎",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=674dae3b2134"
+    },
+    {
+      "name": "机场组 · AgentNEO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
+    },
+    {
+      "name": "机场组 · Aladdin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2"
+    },
+    {
+      "name": "机场组 · 按摩院 AmyTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b"
+    },
+    {
+      "name": "机场组 · ARK",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef"
+    },
+    {
+      "name": "机场组 · ASH",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
+    },
+    {
+      "name": "机场组 · 白月光 ByWave",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f"
+    },
+    {
+      "name": "机场组 · 咖啡云 CoffeeCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96"
+    },
+    {
+      "name": "机场组 · 奶油 CreamData",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9"
+    },
+    {
+      "name": "机场组 · cyou 次元链接 CyLink Cylink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955"
+    },
+    {
+      "name": "机场组 · dagcloud 大哥云 DGY",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb"
+    },
+    {
+      "name": "机场组 · erwans 尔湾云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358"
+    },
+    {
+      "name": "机场组 · FastLink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422"
+    },
+    {
+      "name": "机场组 · FastNode",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a"
+    },
+    {
+      "name": "机场组 · feijicloud 飞机云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309"
+    },
+    {
+      "name": "机场组 · final FINAL 兜底 最终规则 最終規則 Catch-all Final Rule Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08"
+    },
+    {
+      "name": "机场组 · 闪狐云 FlashFox",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff"
+    },
+    {
+      "name": "机场组 · 飞天猪 Fliggy 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113"
+    },
+    {
+      "name": "机场组 · 花云 FlowerCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246"
+    },
+    {
+      "name": "机场组 · 飞鸟 FlyingBird 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3"
+    },
+    {
+      "name": "机场组 · Flyint飞数",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b"
+    },
+    {
+      "name": "机场组 · foo-and-friends Foo&Friends FNF",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae"
+    },
+    {
+      "name": "机场组 · 纷达网络 Fenda Funda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff"
+    },
+    {
+      "name": "机场组 · 银河云GalaxyCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b"
+    },
+    {
+      "name": "机场组 · global 全球 Global Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab"
+    },
+    {
+      "name": "机场组 · haitunwan 海豚湾 Hitun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5"
+    },
+    {
+      "name": "机场组 · ImmTel ImmTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc"
+    },
+    {
+      "name": "机场组 · jifengyun 疾风云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9"
+    },
+    {
+      "name": "机场组 · KooDog",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece"
+    },
+    {
+      "name": "机场组 · 酷酷云KuKuYun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0"
+    },
+    {
+      "name": "机场组 · 库洛米Kuromis",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6"
+    },
+    {
+      "name": "机场组 · KyCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696"
+    },
+    {
+      "name": "机场组 · lanfanyun 蓝帆云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4"
+    },
+    {
+      "name": "机场组 · LinkCube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35"
+    },
+    {
+      "name": "机场组 · longmaoyun 龙猫云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5"
+    },
+    {
+      "name": "机场组 · loon 代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png?v=4ca5767dda83"
+    },
+    {
+      "name": "机场组 · Luckin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99"
+    },
+    {
+      "name": "机场组 · maoxiong 猫熊网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30"
+    },
+    {
+      "name": "机场组 · 三月七 March7 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d"
+    },
+    {
+      "name": "机场组 · MESL",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764"
+    },
+    {
+      "name": "机场组 · Miaona",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca"
+    },
+    {
+      "name": "机场组 · myjs 魅影极速 MAYING",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4"
+    },
+    {
+      "name": "机场组 · Nerwo奶瓶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b"
+    },
+    {
+      "name": "机场组 · 奶昔 Nexitally",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3"
+    },
+    {
+      "name": "机场组 · 咸鱼加速器 NexusCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8"
+    },
+    {
+      "name": "机场组 · OuO Network",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb"
+    },
+    {
+      "name": "机场组 · paofuyun 泡芙云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6"
+    },
+    {
+      "name": "机场组 · qingyunti 青云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
+    },
+    {
+      "name": "机场组 · shaoshupai 少数派 SSP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
+    },
+    {
+      "name": "机场组 · shouhou 守候网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7"
+    },
+    {
+      "name": "机场组 · ssLinks",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc"
+    },
+    {
+      "name": "机场组 · ssrcloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2"
+    },
+    {
+      "name": "机场组 · surge 网络代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png?v=d8e74c74228f"
+    },
+    {
+      "name": "机场组 · 速鹰666 Suying666 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa"
+    },
+    {
+      "name": "机场组 · suyunti 速云梯 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9"
+    },
+    {
+      "name": "机场组 · TAG 机场 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=aa48b112f114"
+    },
+    {
+      "name": "机场组 · tianhang 天航 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032"
+    },
+    {
+      "name": "机场组 · V2Paw",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da"
+    },
+    {
+      "name": "机场组 · V2Tun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903"
+    },
+    {
+      "name": "机场组 · wd 西部数据 Western Digital Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png?v=0c81d3d16b9d"
+    },
+    {
+      "name": "机场组 · 西部数据 WestData WDCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca"
+    },
+    {
+      "name": "机场组 · xiaoxuanfeng 小旋风 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c"
+    },
+    {
+      "name": "机场组 · Xlinkworld",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5"
+    },
+    {
+      "name": "机场组 · Yepfast椰皮加速",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e"
+    },
+    {
+      "name": "机场组 · yiyunti 一云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705"
+    },
+    {
+      "name": "机场组 · YToo YTOO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188"
+    },
+    {
+      "name": "机场组 · yunyi 云翼网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace"
+    },
+    {
+      "name": "emby Emby 媒体库 媒體庫 影音服务器",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7"
+    },
+    {
+      "name": "Emby 垃圾影音 1111 Loser",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26"
+    },
+    {
+      "name": "Emby AlphaTV 海外服 Alpha",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175"
+    },
+    {
+      "name": "Emby 结束乐队 結束Band Bocchi AIVBI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3"
+    },
+    {
+      "name": "Emby CC 公益 CcEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-cc.png?v=cb4a6207382f"
+    },
+    {
+      "name": "Emby 吹大牛 飞跃 飛躍 ChuiDaNiu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-chuidaniu.png?v=3ad4ba5d43f9"
+    },
+    {
+      "name": "Emby 飞跃彩虹 飛躍彩虹 Feiyue NEXT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-feiyue.png?v=b01e5d8e0af6"
+    },
+    {
+      "name": "Emby 鸢尾 鳶尾 Iris",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-iris.png?v=4f7d147f1d29"
+    },
+    {
+      "name": "Emby 惊蛰 驚蟄 Jingzhe JINGZHEPRO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jingzhe.png?v=382fcfaa6308"
+    },
+    {
+      "name": "Emby 见手青 見手青 JianShouQing",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jsq.png?v=ea9c8cb63977"
+    },
+    {
+      "name": "Emby Lemby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lemby.png?v=d8fb0e058314"
+    },
+    {
+      "name": "Emby Lily 百合",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lily.png?v=1687ed2fb566"
+    },
+    {
+      "name": "Emby 临境 臨境 Liminal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-liminal.png?v=dc7a38e20911"
+    },
+    {
+      "name": "Emby 享境 Luxrealm",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-luxrealm.png?v=bf9492f46659"
+    },
+    {
+      "name": "Emby 喜鹊 喜鵲 Magpie",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-magpie.png?v=b99c0997873a"
+    },
+    {
+      "name": "Emby MICU Cloud Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-micu.png?v=3344092f7ad0"
+    },
+    {
+      "name": "Emby Misty 历史品牌 歷史品牌 UHD",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-misty.png?v=33e89bee53fb"
+    },
+    {
+      "name": "Emby 蘑菇 Mooguu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-mooguu.png?v=c7da48b7e9fa"
+    },
+    {
+      "name": "Emby 墨云阁 墨雲閣 MoYunGe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-moyunge.png?v=c68efa635430"
+    },
+    {
+      "name": "Emby 天南小筑 天南小築 Nanflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nanflix.png?v=99ac460f2a45"
+    },
+    {
+      "name": "Emby 星云 星雲 Nebula Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nebula.png?v=162c010e4366"
+    },
+    {
+      "name": "Emby 二次元 Nijigen",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nijigen.png?v=b48440f6c232"
+    },
+    {
+      "name": "Emby Nya Media Nyamedia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nyamedia.png?v=82c0c76d3a05"
+    },
+    {
+      "name": "Emby 奥德赛 奧德賽 Odyssey+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-odyssey.png?v=c1788b50ea0b"
+    },
+    {
+      "name": "Emby 纸片人 紙片人 EmbyPlus Paper",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-paper.png?v=971df2ae45f0"
+    },
+    {
+      "name": "Emby 桃子 Peach",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-peach.png?v=e95253bc2605"
+    },
+    {
+      "name": "Emby 起点站 起點站 Qidian",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-qidian.png?v=eed85c54e7b4"
+    },
+    {
+      "name": "Emby 萝卜 蘿蔔 Robo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-robo.png?v=b641efc77fc5"
+    },
+    {
+      "name": "Emby SaturDay Lite 星期六",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-saturday.png?v=0d2d2bbb48d6"
+    },
+    {
+      "name": "Emby SNTP 守候影院 Media Lite",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-sntp.png?v=5110e1be9fa2"
+    },
+    {
+      "name": "Emby 星烁 星爍 StarSho",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-starsho.png?v=c43adb23048f"
+    },
+    {
+      "name": "Emby 终点站 終點站 Terminus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972"
+    },
+    {
+      "name": "Emby UHD UHDNOW Next Media Server",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79"
+    },
+    {
+      "name": "Emby YounoPlus Youno YounoEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf"
+    },
+    {
+      "name": "omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98"
+    },
+    {
+      "name": "tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247"
+    },
+    {
+      "name": "asia 亚洲 Asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96"
+    },
+    {
+      "name": "europe 欧洲 歐洲 Europe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721"
+    },
+    {
+      "name": "africa 非洲 Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82"
+    },
+    {
+      "name": "north-america 北美洲 North America 北美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041"
+    },
+    {
+      "name": "south-america 南美洲 South America 南美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5"
+    },
+    {
+      "name": "oceania 大洋洲 Oceania 澳大利亚洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563"
+    },
+    {
+      "name": "antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281"
+    },
+    {
+      "name": "AF 阿富汗 Afghanistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
+    },
+    {
+      "name": "AX 奥兰群岛 Aland Islands 奧蘭群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e"
+    },
+    {
+      "name": "AL 阿尔巴尼亚 Albania 阿爾巴尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
+    },
+    {
+      "name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8"
+    },
+    {
+      "name": "DZ 阿尔及利亚 Algeria 阿爾及利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d"
+    },
+    {
+      "name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/american-samoa.png?v=6e9fb7d45ebe"
+    },
+    {
+      "name": "AD 安道尔 Andorra 安道爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c"
+    },
+    {
+      "name": "AO 安哥拉 Angola",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b"
+    },
+    {
+      "name": "AI 安圭拉 Anguilla 安奎拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d"
+    },
+    {
+      "name": "AQ 南极洲 Antarctica 南極洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
+    },
+    {
+      "name": "AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455"
+    },
+    {
+      "name": "AR 阿根廷 Argentina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514"
+    },
+    {
+      "name": "AM 亚美尼亚 Armenia 亞美尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c"
+    },
+    {
+      "name": "AW 阿鲁巴 Aruba 荷屬阿魯巴",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+    },
+    {
+      "name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55"
+    },
+    {
+      "name": "AU 澳大利亚 Australia 澳洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/australia.png?v=6e455c3ff567"
+    },
+    {
+      "name": "AT 奥地利 Austria 奧地利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/austria.png?v=dded9d195907"
+    },
+    {
+      "name": "AZ 阿塞拜疆 Azerbaijan 亞塞拜然",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/azerbaijan.png?v=12dd1199899d"
+    },
+    {
+      "name": "BS 巴哈马 Bahamas 巴哈馬",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9"
+    },
+    {
+      "name": "BH 巴林 Bahrain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7"
+    },
+    {
+      "name": "BD 孟加拉国 Bangladesh",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bangladesh.png?v=07411f62cf17"
+    },
+    {
+      "name": "BB 巴巴多斯 Barbados 巴貝多",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66"
+    },
+    {
+      "name": "BY 白俄罗斯 Belarus 白俄羅斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belarus.png?v=547c5254f113"
+    },
+    {
+      "name": "BE 比利时 Belgium 比利時",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belgium.png?v=6e1d549f1cbf"
+    },
+    {
+      "name": "BZ 伯利兹 Belize 貝里斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belize.png?v=e8bb180ae925"
+    },
+    {
+      "name": "BJ 贝宁 Benin 貝南",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/benin.png?v=39abdef28554"
+    },
+    {
+      "name": "BM 百慕大 Bermuda 百慕達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bermuda.png?v=f94642a475f2"
+    },
+    {
+      "name": "BT 不丹 Bhutan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bhutan.png?v=54dcc6d3b5d7"
+    },
+    {
+      "name": "BO 玻利维亚 Bolivia 玻利維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
+    },
+    {
+      "name": "BQ-BO 博奈尔 Bonaire 波奈",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902"
+    },
+    {
+      "name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
+    },
+    {
+      "name": "BA 波斯尼亚和黑塞哥维那 Bosnia and Herzegovina 波士尼亞與赫塞哥維納",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bosnia-and-herzegovina.png?v=5f348db4ed4d"
+    },
+    {
+      "name": "BW 博茨瓦纳 Botswana 波札那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/botswana.png?v=79fe759fc073"
+    },
+    {
+      "name": "BV 布韦岛 Bouvet Island 布威島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bouvet-island.png?v=f45a72487539"
+    },
+    {
+      "name": "BR 巴西 Brazil",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f"
+    },
+    {
+      "name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-indian-ocean-territory.png?v=6aeb90a709d1"
+    },
+    {
+      "name": "BN 文莱 Brunei Darussalam 汶萊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brunei-darussalam.png?v=799846cde940"
+    },
+    {
+      "name": "BG 保加利亚 Bulgaria 保加利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bulgaria.png?v=c64af6ce37f0"
+    },
+    {
+      "name": "BF 布基纳法索 Burkina Faso 布吉納法索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burkina-faso.png?v=77ce2cd8771a"
+    },
+    {
+      "name": "BI 布隆迪 Burundi 蒲隆地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burundi.png?v=6c63b7aadbe7"
+    },
+    {
+      "name": "CV 佛得角 Cabo Verde 維德角 Cape Verde",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cabo-verde.png?v=1be92b78ac22"
+    },
+    {
+      "name": "KH 柬埔寨 Cambodia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cambodia.png?v=233a785ecdc1"
+    },
+    {
+      "name": "CM 喀麦隆 Cameroon 喀麥隆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cameroon.png?v=08e2199b021f"
+    },
+    {
+      "name": "CA 加拿大 Canada",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canada.png?v=cbb80311ea02"
+    },
+    {
+      "name": "KY 开曼群岛 Cayman Islands 開曼群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cayman-islands.png?v=19cd7dfa05a6"
+    },
+    {
+      "name": "CF 中非共和国 Central African Republic 中非共和國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/central-african-republic.png?v=2624c8f081e6"
+    },
+    {
+      "name": "TD 乍得 Chad 查德",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chad.png?v=0ebf77766253"
+    },
+    {
+      "name": "CL 智利 Chile",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chile.png?v=7322373dd361"
+    },
+    {
+      "name": "CN 中国 China 中國 中国大陆 Mainland China PRC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/china.png?v=880320af9779"
+    },
+    {
+      "name": "CX 圣诞岛 Christmas Island 聖誕島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/christmas-island.png?v=956a19669656"
+    },
+    {
+      "name": "CC 科科斯（基林）群岛 Cocos (Keeling) Islands 科克斯（基靈）群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cocos-keeling-islands.png?v=e6eed4d969f2"
+    },
+    {
+      "name": "CO 哥伦比亚 Colombia 哥倫比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colombia.png?v=b03c90df17fd"
+    },
+    {
+      "name": "KM 科摩罗 Comoros 葛摩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/comoros.png?v=f65327a5ffc1"
+    },
+    {
+      "name": "CK 库克群岛 Cook Islands 庫克群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cook-islands.png?v=98f248c6ab68"
+    },
+    {
+      "name": "CR 哥斯达黎加 Costa Rica 哥斯大黎加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e"
+    },
+    {
+      "name": "HR 克罗地亚 Croatia 克羅埃西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3"
+    },
+    {
+      "name": "CU 古巴 Cuba",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cuba.png?v=0e6ca652e2f5"
+    },
+    {
+      "name": "CW 库拉索 Curaçao 庫拉索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b"
+    },
+    {
+      "name": "CY 塞浦路斯 Cyprus 賽普勒斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyprus.png?v=dcb7629cf868"
+    },
+    {
+      "name": "CZ 捷克 Czech Republic Czechia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/czech-republic.png?v=ce949451d54c"
+    },
+    {
+      "name": "CD 刚果（金） Democratic Republic of the Congo 剛果（金夏沙） Congo-Kinshasa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b"
+    },
+    {
+      "name": "DK 丹麦 Denmark 丹麥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/denmark.png?v=698c6219917a"
+    },
+    {
+      "name": "DJ 吉布提 Djibouti 吉布地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/djibouti.png?v=e8055b033bee"
+    },
+    {
+      "name": "DM 多米尼克 Dominica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominica.png?v=ff3a24d62199"
+    },
+    {
+      "name": "DO 多米尼加共和国 Dominican Republic 多明尼加共和國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominican-republic.png?v=2998bd973006"
+    },
+    {
+      "name": "EC 厄瓜多尔 Ecuador",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ecuador.png?v=d56593171a81"
+    },
+    {
+      "name": "EG 埃及 Egypt",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egypt.png?v=4fa429c1edcc"
+    },
+    {
+      "name": "SV 萨尔瓦多 El Salvador 薩爾瓦多",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/el-salvador.png?v=5d36cc84688b"
+    },
+    {
+      "name": "GQ 赤道几内亚 Equatorial Guinea 赤道幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/equatorial-guinea.png?v=6d8b1a8fac3e"
+    },
+    {
+      "name": "ER 厄立特里亚 Eritrea 厄利垂亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4"
+    },
+    {
+      "name": "EE 爱沙尼亚 Estonia 愛沙尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72"
+    },
+    {
+      "name": "SZ 斯威士兰 Eswatini 史瓦帝尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eswatini.png?v=efc6f4e2a0c3"
+    },
+    {
+      "name": "ET 埃塞俄比亚 Ethiopia 衣索比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ethiopia.png?v=934c9dcb0891"
+    },
+    {
+      "name": "FK 福克兰群岛 Falkland Islands 福克蘭群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/falkland-islands.png?v=23883e8e8dff"
+    },
+    {
+      "name": "FO 法罗群岛 Faroe Islands 法羅群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/faroe-islands.png?v=d7468e40e818"
+    },
+    {
+      "name": "FM 密克罗尼西亚 Federated States of Micronesia 密克羅尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/federated-states-of-micronesia.png?v=e78501aa65ef"
+    },
+    {
+      "name": "FJ 斐济 Fiji 斐濟",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fiji.png?v=ccd11897e245"
+    },
+    {
+      "name": "FI 芬兰 Finland 芬蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd"
+    },
+    {
+      "name": "FR 法国 France 法國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "GF 法属圭亚那 French Guiana 法屬圭亞那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-guiana.png?v=52869470aaeb"
+    },
+    {
+      "name": "PF 法属波利尼西亚 French Polynesia 法屬玻里尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-polynesia.png?v=6d63b685659a"
+    },
+    {
+      "name": "TF 法属南部领地 French Southern Territories 法屬南部屬地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d"
+    },
+    {
+      "name": "GA 加蓬 Gabon 加彭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gabon.png?v=4b5f8fd9c39b"
+    },
+    {
+      "name": "GM 冈比亚 Gambia 甘比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gambia.png?v=b9ad803d5e54"
+    },
+    {
+      "name": "GE 格鲁吉亚 Georgia 喬治亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/georgia.png?v=fd593d2b8abe"
+    },
+    {
+      "name": "DE 德国 Germany 德國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/germany.png?v=1d71059ff882"
+    },
+    {
+      "name": "GH 加纳 Ghana 迦納",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ghana.png?v=12c1c6f524e9"
+    },
+    {
+      "name": "GI 直布罗陀 Gibraltar 直布羅陀",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gibraltar.png?v=a37ab72f23d8"
+    },
+    {
+      "name": "GR 希腊 Greece 希臘",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greece.png?v=f7daee05263d"
+    },
+    {
+      "name": "GL 格陵兰 Greenland 格陵蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greenland.png?v=a05e09539aed"
+    },
+    {
+      "name": "GD 格林纳达 Grenada 格瑞那達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57"
+    },
+    {
+      "name": "GP 瓜德罗普 Guadeloupe 瓜地洛普",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guadeloupe.png?v=dfa6c711f615"
+    },
+    {
+      "name": "GU 关岛 Guam 關島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guam.png?v=96fd627bab24"
+    },
+    {
+      "name": "GT 危地马拉 Guatemala 瓜地馬拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guatemala.png?v=bc470d21151f"
+    },
+    {
+      "name": "GG 根西岛 Guernsey 根息",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guernsey.png?v=881e3bd2582f"
+    },
+    {
+      "name": "GN 几内亚 Guinea 幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea.png?v=25163c9ac964"
+    },
+    {
+      "name": "GW 几内亚比绍 Guinea-Bissau 幾內亞比索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea-bissau.png?v=688f4009d50d"
+    },
+    {
+      "name": "GY 圭亚那 Guyana 蓋亞那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guyana.png?v=f1ac438787de"
+    },
+    {
+      "name": "HT 海地 Haiti",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c"
+    },
+    {
+      "name": "HM 赫德岛和麦克唐纳群岛 Heard Island and McDonald Islands 赫德島及麥唐納群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/heard-island-and-mcdonald-islands.png?v=6e455c3ff567"
+    },
+    {
+      "name": "HN 洪都拉斯 Honduras 宏都拉斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/honduras.png?v=1494ff88dc67"
+    },
+    {
+      "name": "HK 香港 Hong Kong HongKong",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+    },
+    {
+      "name": "HU 匈牙利 Hungary",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hungary.png?v=4fc0cf1d9606"
+    },
+    {
+      "name": "IS 冰岛 Iceland 冰島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iceland.png?v=147d5d5aea23"
+    },
+    {
+      "name": "IN 印度 India",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/india.png?v=b6a6415dde4f"
+    },
+    {
+      "name": "ID 印度尼西亚 Indonesia 印尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/indonesia.png?v=581378b82014"
+    },
+    {
+      "name": "IR 伊朗 Iran",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iran.png?v=598b72909afb"
+    },
+    {
+      "name": "IQ 伊拉克 Iraq",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iraq.png?v=29d31c2ec6c2"
+    },
+    {
+      "name": "IE 爱尔兰 Ireland 愛爾蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ireland.png?v=80dd36c918ec"
+    },
+    {
+      "name": "IM 马恩岛 Isle of Man 曼島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/isle-of-man.png?v=4ffbdfbad787"
+    },
+    {
+      "name": "IL 以色列 Israel",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/israel.png?v=35b67194c70b"
+    },
+    {
+      "name": "IT 意大利 Italy 義大利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a"
+    },
+    {
+      "name": "CI 科特迪瓦 Côte d'Ivoire 象牙海岸 Ivory Coast",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882"
+    },
+    {
+      "name": "JM 牙买加 Jamaica 牙買加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jamaica.png?v=918a4daa2f6a"
+    },
+    {
+      "name": "JP 日本 Japan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc"
+    },
+    {
+      "name": "JE 泽西岛 Jersey 澤西島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jersey.png?v=2a5542845f22"
+    },
+    {
+      "name": "JO 约旦 Jordan 約旦",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e"
+    },
+    {
+      "name": "KZ 哈萨克斯坦 Kazakhstan 哈薩克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kazakhstan.png?v=245bc3f30e99"
+    },
+    {
+      "name": "KE 肯尼亚 Kenya 肯亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kenya.png?v=9859dcf12997"
+    },
+    {
+      "name": "KI 基里巴斯 Kiribati 吉里巴斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kiribati.png?v=17ae5e2ea215"
+    },
+    {
+      "name": "KR 韩国 South Korea 南韓 韓國 南韩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
+    },
+    {
+      "name": "KW 科威特 Kuwait",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuwait.png?v=19be407d49d2"
+    },
+    {
+      "name": "KG 吉尔吉斯斯坦 Kyrgyzstan 吉爾吉斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kyrgyzstan.png?v=55b9c4dc8408"
+    },
+    {
+      "name": "LA 老挝 Laos 寮國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/laos.png?v=5232f8ed2e76"
+    },
+    {
+      "name": "LV 拉脱维亚 Latvia 拉脫維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/latvia.png?v=c3f817944adb"
+    },
+    {
+      "name": "LB 黎巴嫩 Lebanon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lebanon.png?v=8e3d89e08c95"
+    },
+    {
+      "name": "LS 莱索托 Lesotho 賴索托",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lesotho.png?v=74d35b8852cc"
+    },
+    {
+      "name": "LR 利比里亚 Liberia 賴比瑞亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liberia.png?v=798bd47df7e0"
+    },
+    {
+      "name": "LY 利比亚 Libya 利比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/libya.png?v=3a93342762d7"
+    },
+    {
+      "name": "LI 列支敦士登 Liechtenstein 列支敦斯登",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liechtenstein.png?v=12b141ba2a36"
+    },
+    {
+      "name": "LT 立陶宛 Lithuania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lithuania.png?v=10c94c03edeb"
+    },
+    {
+      "name": "LU 卢森堡 Luxembourg 盧森堡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luxembourg.png?v=6d02476f7445"
+    },
+    {
+      "name": "MO 澳门 Macau 澳門",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/macau.png?v=40c4be48deb6"
+    },
+    {
+      "name": "MG 马达加斯加 Madagascar 馬達加斯加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/madagascar.png?v=08a2aba2a474"
+    },
+    {
+      "name": "MW 马拉维 Malawi 馬拉威",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malawi.png?v=5b4112170008"
+    },
+    {
+      "name": "MY 马来西亚 Malaysia 馬來西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malaysia.png?v=d090774d166a"
+    },
+    {
+      "name": "MV 马尔代夫 Maldives 馬爾地夫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maldives.png?v=598b8485d579"
+    },
+    {
+      "name": "ML 马里 Mali 馬利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mali.png?v=d117d7177522"
+    },
+    {
+      "name": "MT 马耳他 Malta 馬爾他",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malta.png?v=80c3af4f9fb0"
+    },
+    {
+      "name": "MH 马绍尔群岛 Marshall Islands 馬紹爾群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/marshall-islands.png?v=710460e9ad37"
+    },
+    {
+      "name": "MQ 马提尼克 Martinique 馬丁尼克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/martinique.png?v=ccda85fe0c24"
+    },
+    {
+      "name": "MR 毛里塔尼亚 Mauritania 茅利塔尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritania.png?v=602caafae99f"
+    },
+    {
+      "name": "MU 毛里求斯 Mauritius 模里西斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritius.png?v=896ceb02e493"
+    },
+    {
+      "name": "YT 马约特 Mayotte 馬約特島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=470a51e967a4"
+    },
+    {
+      "name": "MX 墨西哥 Mexico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da"
+    },
+    {
+      "name": "MD 摩尔多瓦 Moldova 摩爾多瓦",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/moldova.png?v=f8f8e22d9004"
+    },
+    {
+      "name": "MC 摩纳哥 Monaco 摩納哥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/monaco.png?v=27cc7d0220f4"
+    },
+    {
+      "name": "MN 蒙古 Mongolia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mongolia.png?v=fed76bfbb238"
+    },
+    {
+      "name": "ME 黑山 Montenegro 蒙特內哥羅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montenegro.png?v=cf37f1d536e1"
+    },
+    {
+      "name": "MS 蒙特塞拉特 Montserrat 蒙哲臘",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montserrat.png?v=dbf67f8df122"
+    },
+    {
+      "name": "MA 摩洛哥 Morocco",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/morocco.png?v=1530ff64e43e"
+    },
+    {
+      "name": "MZ 莫桑比克 Mozambique 莫三比克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mozambique.png?v=10c120ea70ff"
+    },
+    {
+      "name": "MM 缅甸 Myanmar 緬甸",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e"
+    },
+    {
+      "name": "NA 纳米比亚 Namibia 納米比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1"
+    },
+    {
+      "name": "NR 瑙鲁 Nauru 諾魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd"
+    },
+    {
+      "name": "NP 尼泊尔 Nepal 尼泊爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nepal.png?v=aef9ac4f012d"
+    },
+    {
+      "name": "NL 荷兰 Netherlands 荷蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netherlands.png?v=c76573c54487"
+    },
+    {
+      "name": "NC 新喀里多尼亚 New Caledonia 新喀里多尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-caledonia.png?v=6933fa0f2e8c"
+    },
+    {
+      "name": "NZ 新西兰 New Zealand 紐西蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45"
+    },
+    {
+      "name": "NI 尼加拉瓜 Nicaragua",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nicaragua.png?v=ced76495a438"
+    },
+    {
+      "name": "NE 尼日尔 Niger",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niger.png?v=b4eda89dc993"
+    },
+    {
+      "name": "NG 尼日利亚 Nigeria 奈及利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
+    },
+    {
+      "name": "NU 纽埃 Niue 紐埃島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niue.png?v=800c8051e0e0"
+    },
+    {
+      "name": "NF 诺福克岛 Norfolk Island 諾福克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norfolk-island.png?v=13de27b2f90d"
+    },
+    {
+      "name": "KP 朝鲜 North Korea 北韓 北韩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-korea.png?v=e353da62f1b6"
+    },
+    {
+      "name": "MK 北马其顿 North Macedonia 北馬其頓",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-macedonia.png?v=9a9885123201"
+    },
+    {
+      "name": "MP 北马里亚纳群岛 Northern Mariana Islands 北馬利安納群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/northern-mariana-islands.png?v=9d485c8c37e1"
+    },
+    {
+      "name": "NO 挪威 Norway",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5"
+    },
+    {
+      "name": "OM 阿曼 Oman",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f"
+    },
+    {
+      "name": "PK 巴基斯坦 Pakistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pakistan.png?v=877cc14ead18"
+    },
+    {
+      "name": "PW 帕劳 Palau 帛琉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/palau.png?v=fe38f767bf7d"
+    },
+    {
+      "name": "PA 巴拿马 Panama 巴拿馬",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/panama.png?v=c26fec9d98b5"
+    },
+    {
+      "name": "PG 巴布亚新几内亚 Papua New Guinea 巴布亞紐幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/papua-new-guinea.png?v=4425df130b06"
+    },
+    {
+      "name": "PY 巴拉圭 Paraguay",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paraguay.png?v=d388b0b30ab4"
+    },
+    {
+      "name": "PE 秘鲁 Peru 秘魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peru.png?v=777fd2b5834f"
+    },
+    {
+      "name": "PH 菲律宾 Philippines 菲律賓",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac"
+    },
+    {
+      "name": "PN 皮特凯恩群岛 Pitcairn 皮特肯群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851"
+    },
+    {
+      "name": "PL 波兰 Poland 波蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9"
+    },
+    {
+      "name": "PT 葡萄牙 Portugal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7"
+    },
+    {
+      "name": "PR 波多黎各 Puerto Rico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/puerto-rico.png?v=0c92dc02c242"
+    },
+    {
+      "name": "QA 卡塔尔 Qatar 卡達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba"
+    },
+    {
+      "name": "CG 刚果（布） Republic of the Congo 剛果（布拉薩） Congo-Brazzaville",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d"
+    },
+    {
+      "name": "RE 留尼汪 Réunion 留尼旺",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=ff9f6a1e176b"
+    },
+    {
+      "name": "RO 罗马尼亚 Romania 羅馬尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/romania.png?v=f2268e235bb4"
+    },
+    {
+      "name": "RU 俄罗斯 Russia 俄羅斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da"
+    },
+    {
+      "name": "RW 卢旺达 Rwanda 盧安達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
+    },
+    {
+      "name": "BQ-SA 萨巴 Saba 沙巴島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e"
+    },
+    {
+      "name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde"
+    },
+    {
+      "name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2"
+    },
+    {
+      "name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
+    },
+    {
+      "name": "KN 圣基茨和尼维斯 Saint Kitts and Nevis 聖克里斯多福及尼維斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770"
+    },
+    {
+      "name": "LC 圣卢西亚 Saint Lucia 聖露西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529"
+    },
+    {
+      "name": "MF 法属圣马丁 Saint Martin 法屬聖馬丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=7f6a5facdf3a"
+    },
+    {
+      "name": "PM 圣皮埃尔和密克隆群岛 Saint Pierre and Miquelon 聖皮埃與密克隆群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-pierre-and-miquelon.png?v=98e8de5a4d2e"
+    },
+    {
+      "name": "VC 圣文森特和格林纳丁斯 Saint Vincent and the Grenadines 聖文森及格瑞那丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-vincent-and-the-grenadines.png?v=652a76e4d828"
+    },
+    {
+      "name": "WS 萨摩亚 Samoa 薩摩亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/samoa.png?v=2dbe3ea31180"
+    },
+    {
+      "name": "SM 圣马力诺 San Marino 聖馬利諾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/san-marino.png?v=5983b7386585"
+    },
+    {
+      "name": "ST 圣多美和普林西比 Sao Tome and Principe 聖多美普林西比",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
+    },
+    {
+      "name": "SARK 萨克岛 Sark 薩克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8"
+    },
+    {
+      "name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
+    },
+    {
+      "name": "SN 塞内加尔 Senegal 塞內加爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/senegal.png?v=f98d9370b02d"
+    },
+    {
+      "name": "RS 塞尔维亚 Serbia 塞爾維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/serbia.png?v=fe33414010a2"
+    },
+    {
+      "name": "SC 塞舌尔 Seychelles 塞席爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949"
+    },
+    {
+      "name": "SL 塞拉利昂 Sierra Leone 獅子山",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496"
+    },
+    {
+      "name": "SG 新加坡 Singapore",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5"
+    },
+    {
+      "name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-maarten.png?v=f62ea36d4a5e"
+    },
+    {
+      "name": "SK 斯洛伐克 Slovakia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6"
+    },
+    {
+      "name": "SI 斯洛文尼亚 Slovenia 斯洛維尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b"
+    },
+    {
+      "name": "SB 所罗门群岛 Solomon Islands 索羅門群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/solomon-islands.png?v=0ddcaa23ed12"
+    },
+    {
+      "name": "SO 索马里 Somalia 索馬利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/somalia.png?v=dab66691cb29"
+    },
+    {
+      "name": "ZA 南非 South Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-africa.png?v=6ac2ea2c4869"
+    },
+    {
+      "name": "GS 南乔治亚和南桑威奇群岛 South Georgia and the South Sandwich Islands 南喬治亞與南三明治群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-georgia-and-the-south-sandwich-islands.png?v=fab53d16fff5"
+    },
+    {
+      "name": "SS 南苏丹 South Sudan 南蘇丹",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-sudan.png?v=03c66d0c18c5"
+    },
+    {
+      "name": "ES 西班牙 Spain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spain.png?v=8ea0a966df2c"
+    },
+    {
+      "name": "LK 斯里兰卡 Sri Lanka 斯里蘭卡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce"
+    },
+    {
+      "name": "PS 巴勒斯坦 State of Palestine",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/state-of-palestine.png?v=38dac2a2aa56"
+    },
+    {
+      "name": "SD 苏丹 Sudan 蘇丹",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sudan.png?v=7271b91a4022"
+    },
+    {
+      "name": "SR 苏里南 Suriname 蘇利南",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suriname.png?v=938d688f7a7b"
+    },
+    {
+      "name": "SJ 斯瓦尔巴和扬马延 Svalbard and Jan Mayen 挪威屬斯瓦巴及尖棉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/svalbard-and-jan-mayen.png?v=da859910bcff"
+    },
+    {
+      "name": "SE 瑞典 Sweden",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sweden.png?v=feedf440ac95"
+    },
+    {
+      "name": "CH 瑞士 Switzerland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/switzerland.png?v=e3891e28de51"
+    },
+    {
+      "name": "SY 叙利亚 Syria 敘利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/syria.png?v=2dcc231be5f0"
+    },
+    {
+      "name": "TW 台湾 Taiwan 台灣 臺灣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079"
+    },
+    {
+      "name": "TJ 塔吉克斯坦 Tajikistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tajikistan.png?v=d77331e7bfba"
+    },
+    {
+      "name": "TZ 坦桑尼亚 Tanzania 坦尚尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tanzania.png?v=8b3f275683ab"
+    },
+    {
+      "name": "TH 泰国 Thailand 泰國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f"
+    },
+    {
+      "name": "TL 东帝汶 Timor-Leste 東帝汶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/timor-leste.png?v=9e85b0c68d3a"
+    },
+    {
+      "name": "TG 多哥 Togo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/togo.png?v=f682ec665910"
+    },
+    {
+      "name": "TK 托克劳 Tokelau 托克勞群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tokelau.png?v=384a3592abec"
+    },
+    {
+      "name": "TO 汤加 Tonga 東加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tonga.png?v=02d4325d9489"
+    },
+    {
+      "name": "TT 特立尼达和多巴哥 Trinidad and Tobago 千里達及托巴哥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
+    },
+    {
+      "name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847"
+    },
+    {
+      "name": "TN 突尼斯 Tunisia 突尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
+    },
+    {
+      "name": "TR 土耳其 Türkiye Turkey",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkiye.png?v=c27f1e153956"
+    },
+    {
+      "name": "TM 土库曼斯坦 Turkmenistan 土庫曼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkmenistan.png?v=36666330a042"
+    },
+    {
+      "name": "TC 特克斯和凯科斯群岛 Turks and Caicos Islands 土克斯及開科斯群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turks-and-caicos-islands.png?v=9b22271883e9"
+    },
+    {
+      "name": "TV 图瓦卢 Tuvalu 吐瓦魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
+    },
+    {
+      "name": "UG 乌干达 Uganda 烏干達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uganda.png?v=0a3716abc6d3"
+    },
+    {
+      "name": "UA 乌克兰 Ukraine 烏克蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a"
+    },
+    {
+      "name": "AE 阿拉伯联合酋长国 United Arab Emirates 阿拉伯聯合大公國 UAE",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-arab-emirates.png?v=43df5c7bc87a"
+    },
+    {
+      "name": "GB 英国 United Kingdom 英國 UK Britain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-kingdom.png?v=8331137553b6"
+    },
+    {
+      "name": "UM 美国本土外小岛屿 United States Minor Outlying Islands 美國本土外小島嶼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-states-minor-outlying-islands.png?v=b642da68f0e2"
+    },
+    {
+      "name": "UY 乌拉圭 Uruguay 烏拉圭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uruguay.png?v=8fae83ba1837"
+    },
+    {
+      "name": "US 美国 United States of America 美國 USA",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+    },
+    {
+      "name": "UZ 乌兹别克斯坦 Uzbekistan 烏茲別克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uzbekistan.png?v=fcc6267e2adc"
+    },
+    {
+      "name": "VU 瓦努阿图 Vanuatu 萬那杜",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vanuatu.png?v=32abed289908"
+    },
+    {
+      "name": "VA 梵蒂冈 Holy See 梵蒂岡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vatican-city.png?v=c797542c540c"
+    },
+    {
+      "name": "VE 委内瑞拉 Venezuela 委內瑞拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/venezuela.png?v=1a19fabca44c"
+    },
+    {
+      "name": "VN 越南 Vietnam",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vietnam.png?v=e3340597dc15"
+    },
+    {
+      "name": "VG 英属维尔京群岛 Virgin Islands (British) 英屬維京群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-british.png?v=5207a3923e7f"
+    },
+    {
+      "name": "VI 美属维尔京群岛 Virgin Islands (U.S.) 美屬維京群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1"
+    },
+    {
+      "name": "WF 瓦利斯和富图纳 Wallis and Futuna 瓦利斯群島和富圖那群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=55aedd3e24b2"
+    },
+    {
+      "name": "EH 西撒哈拉 Western Sahara",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/western-sahara.png?v=868186ba9b1b"
+    },
+    {
+      "name": "YE 也门 Yemen 葉門",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yemen.png?v=bb0178f5f056"
+    },
+    {
+      "name": "ZM 赞比亚 Zambia 尚比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zambia.png?v=2edf98798187"
+    },
+    {
+      "name": "ZW 津巴布韦 Zimbabwe 辛巴威",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e"
+    }
+  ]
+}

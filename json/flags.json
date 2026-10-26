@@ -1,0 +1,1066 @@
+{
+  "name": "zwjtano-flags",
+  "description": "258 面国家及地区旗帜：保留 ISO 249 条目，另补 9 面海外地区旗帜；支持中英文及地区代码搜索，波浪旗面、水彩纸纹、透明 PNG。",
+  "icons": [
+    {
+      "name": "asia 亚洲 Asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96"
+    },
+    {
+      "name": "europe 欧洲 歐洲 Europe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721"
+    },
+    {
+      "name": "africa 非洲 Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82"
+    },
+    {
+      "name": "north-america 北美洲 North America 北美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041"
+    },
+    {
+      "name": "south-america 南美洲 South America 南美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5"
+    },
+    {
+      "name": "oceania 大洋洲 Oceania 澳大利亚洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563"
+    },
+    {
+      "name": "antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281"
+    },
+    {
+      "name": "AF 阿富汗 Afghanistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
+    },
+    {
+      "name": "AX 奥兰群岛 Aland Islands 奧蘭群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e"
+    },
+    {
+      "name": "AL 阿尔巴尼亚 Albania 阿爾巴尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
+    },
+    {
+      "name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8"
+    },
+    {
+      "name": "DZ 阿尔及利亚 Algeria 阿爾及利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d"
+    },
+    {
+      "name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/american-samoa.png?v=6e9fb7d45ebe"
+    },
+    {
+      "name": "AD 安道尔 Andorra 安道爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c"
+    },
+    {
+      "name": "AO 安哥拉 Angola",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b"
+    },
+    {
+      "name": "AI 安圭拉 Anguilla 安奎拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d"
+    },
+    {
+      "name": "AQ 南极洲 Antarctica 南極洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
+    },
+    {
+      "name": "AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455"
+    },
+    {
+      "name": "AR 阿根廷 Argentina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514"
+    },
+    {
+      "name": "AM 亚美尼亚 Armenia 亞美尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c"
+    },
+    {
+      "name": "AW 阿鲁巴 Aruba 荷屬阿魯巴",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+    },
+    {
+      "name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55"
+    },
+    {
+      "name": "AU 澳大利亚 Australia 澳洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/australia.png?v=6e455c3ff567"
+    },
+    {
+      "name": "AT 奥地利 Austria 奧地利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/austria.png?v=dded9d195907"
+    },
+    {
+      "name": "AZ 阿塞拜疆 Azerbaijan 亞塞拜然",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/azerbaijan.png?v=12dd1199899d"
+    },
+    {
+      "name": "BS 巴哈马 Bahamas 巴哈馬",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9"
+    },
+    {
+      "name": "BH 巴林 Bahrain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7"
+    },
+    {
+      "name": "BD 孟加拉国 Bangladesh",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bangladesh.png?v=07411f62cf17"
+    },
+    {
+      "name": "BB 巴巴多斯 Barbados 巴貝多",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66"
+    },
+    {
+      "name": "BY 白俄罗斯 Belarus 白俄羅斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belarus.png?v=547c5254f113"
+    },
+    {
+      "name": "BE 比利时 Belgium 比利時",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belgium.png?v=6e1d549f1cbf"
+    },
+    {
+      "name": "BZ 伯利兹 Belize 貝里斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belize.png?v=e8bb180ae925"
+    },
+    {
+      "name": "BJ 贝宁 Benin 貝南",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/benin.png?v=39abdef28554"
+    },
+    {
+      "name": "BM 百慕大 Bermuda 百慕達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bermuda.png?v=f94642a475f2"
+    },
+    {
+      "name": "BT 不丹 Bhutan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bhutan.png?v=54dcc6d3b5d7"
+    },
+    {
+      "name": "BO 玻利维亚 Bolivia 玻利維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
+    },
+    {
+      "name": "BQ-BO 博奈尔 Bonaire 波奈",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902"
+    },
+    {
+      "name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
+    },
+    {
+      "name": "BA 波斯尼亚和黑塞哥维那 Bosnia and Herzegovina 波士尼亞與赫塞哥維納",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bosnia-and-herzegovina.png?v=5f348db4ed4d"
+    },
+    {
+      "name": "BW 博茨瓦纳 Botswana 波札那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/botswana.png?v=79fe759fc073"
+    },
+    {
+      "name": "BV 布韦岛 Bouvet Island 布威島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bouvet-island.png?v=f45a72487539"
+    },
+    {
+      "name": "BR 巴西 Brazil",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f"
+    },
+    {
+      "name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-indian-ocean-territory.png?v=6aeb90a709d1"
+    },
+    {
+      "name": "BN 文莱 Brunei Darussalam 汶萊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brunei-darussalam.png?v=799846cde940"
+    },
+    {
+      "name": "BG 保加利亚 Bulgaria 保加利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bulgaria.png?v=c64af6ce37f0"
+    },
+    {
+      "name": "BF 布基纳法索 Burkina Faso 布吉納法索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burkina-faso.png?v=77ce2cd8771a"
+    },
+    {
+      "name": "BI 布隆迪 Burundi 蒲隆地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burundi.png?v=6c63b7aadbe7"
+    },
+    {
+      "name": "CV 佛得角 Cabo Verde 維德角 Cape Verde",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cabo-verde.png?v=1be92b78ac22"
+    },
+    {
+      "name": "KH 柬埔寨 Cambodia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cambodia.png?v=233a785ecdc1"
+    },
+    {
+      "name": "CM 喀麦隆 Cameroon 喀麥隆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cameroon.png?v=08e2199b021f"
+    },
+    {
+      "name": "CA 加拿大 Canada",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canada.png?v=cbb80311ea02"
+    },
+    {
+      "name": "KY 开曼群岛 Cayman Islands 開曼群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cayman-islands.png?v=19cd7dfa05a6"
+    },
+    {
+      "name": "CF 中非共和国 Central African Republic 中非共和國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/central-african-republic.png?v=2624c8f081e6"
+    },
+    {
+      "name": "TD 乍得 Chad 查德",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chad.png?v=0ebf77766253"
+    },
+    {
+      "name": "CL 智利 Chile",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chile.png?v=7322373dd361"
+    },
+    {
+      "name": "CN 中国 China 中國 中国大陆 Mainland China PRC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/china.png?v=880320af9779"
+    },
+    {
+      "name": "CX 圣诞岛 Christmas Island 聖誕島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/christmas-island.png?v=956a19669656"
+    },
+    {
+      "name": "CC 科科斯（基林）群岛 Cocos (Keeling) Islands 科克斯（基靈）群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cocos-keeling-islands.png?v=e6eed4d969f2"
+    },
+    {
+      "name": "CO 哥伦比亚 Colombia 哥倫比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colombia.png?v=b03c90df17fd"
+    },
+    {
+      "name": "KM 科摩罗 Comoros 葛摩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/comoros.png?v=f65327a5ffc1"
+    },
+    {
+      "name": "CK 库克群岛 Cook Islands 庫克群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cook-islands.png?v=98f248c6ab68"
+    },
+    {
+      "name": "CR 哥斯达黎加 Costa Rica 哥斯大黎加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e"
+    },
+    {
+      "name": "HR 克罗地亚 Croatia 克羅埃西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3"
+    },
+    {
+      "name": "CU 古巴 Cuba",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cuba.png?v=0e6ca652e2f5"
+    },
+    {
+      "name": "CW 库拉索 Curaçao 庫拉索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b"
+    },
+    {
+      "name": "CY 塞浦路斯 Cyprus 賽普勒斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyprus.png?v=dcb7629cf868"
+    },
+    {
+      "name": "CZ 捷克 Czech Republic Czechia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/czech-republic.png?v=ce949451d54c"
+    },
+    {
+      "name": "CD 刚果（金） Democratic Republic of the Congo 剛果（金夏沙） Congo-Kinshasa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b"
+    },
+    {
+      "name": "DK 丹麦 Denmark 丹麥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/denmark.png?v=698c6219917a"
+    },
+    {
+      "name": "DJ 吉布提 Djibouti 吉布地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/djibouti.png?v=e8055b033bee"
+    },
+    {
+      "name": "DM 多米尼克 Dominica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominica.png?v=ff3a24d62199"
+    },
+    {
+      "name": "DO 多米尼加共和国 Dominican Republic 多明尼加共和國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominican-republic.png?v=2998bd973006"
+    },
+    {
+      "name": "EC 厄瓜多尔 Ecuador",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ecuador.png?v=d56593171a81"
+    },
+    {
+      "name": "EG 埃及 Egypt",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egypt.png?v=4fa429c1edcc"
+    },
+    {
+      "name": "SV 萨尔瓦多 El Salvador 薩爾瓦多",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/el-salvador.png?v=5d36cc84688b"
+    },
+    {
+      "name": "GQ 赤道几内亚 Equatorial Guinea 赤道幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/equatorial-guinea.png?v=6d8b1a8fac3e"
+    },
+    {
+      "name": "ER 厄立特里亚 Eritrea 厄利垂亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4"
+    },
+    {
+      "name": "EE 爱沙尼亚 Estonia 愛沙尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72"
+    },
+    {
+      "name": "SZ 斯威士兰 Eswatini 史瓦帝尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eswatini.png?v=efc6f4e2a0c3"
+    },
+    {
+      "name": "ET 埃塞俄比亚 Ethiopia 衣索比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ethiopia.png?v=934c9dcb0891"
+    },
+    {
+      "name": "FK 福克兰群岛 Falkland Islands 福克蘭群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/falkland-islands.png?v=23883e8e8dff"
+    },
+    {
+      "name": "FO 法罗群岛 Faroe Islands 法羅群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/faroe-islands.png?v=d7468e40e818"
+    },
+    {
+      "name": "FM 密克罗尼西亚 Federated States of Micronesia 密克羅尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/federated-states-of-micronesia.png?v=e78501aa65ef"
+    },
+    {
+      "name": "FJ 斐济 Fiji 斐濟",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fiji.png?v=ccd11897e245"
+    },
+    {
+      "name": "FI 芬兰 Finland 芬蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd"
+    },
+    {
+      "name": "FR 法国 France 法國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "GF 法属圭亚那 French Guiana 法屬圭亞那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-guiana.png?v=52869470aaeb"
+    },
+    {
+      "name": "PF 法属波利尼西亚 French Polynesia 法屬玻里尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-polynesia.png?v=6d63b685659a"
+    },
+    {
+      "name": "TF 法属南部领地 French Southern Territories 法屬南部屬地",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d"
+    },
+    {
+      "name": "GA 加蓬 Gabon 加彭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gabon.png?v=4b5f8fd9c39b"
+    },
+    {
+      "name": "GM 冈比亚 Gambia 甘比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gambia.png?v=b9ad803d5e54"
+    },
+    {
+      "name": "GE 格鲁吉亚 Georgia 喬治亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/georgia.png?v=fd593d2b8abe"
+    },
+    {
+      "name": "DE 德国 Germany 德國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/germany.png?v=1d71059ff882"
+    },
+    {
+      "name": "GH 加纳 Ghana 迦納",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ghana.png?v=12c1c6f524e9"
+    },
+    {
+      "name": "GI 直布罗陀 Gibraltar 直布羅陀",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gibraltar.png?v=a37ab72f23d8"
+    },
+    {
+      "name": "GR 希腊 Greece 希臘",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greece.png?v=f7daee05263d"
+    },
+    {
+      "name": "GL 格陵兰 Greenland 格陵蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greenland.png?v=a05e09539aed"
+    },
+    {
+      "name": "GD 格林纳达 Grenada 格瑞那達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57"
+    },
+    {
+      "name": "GP 瓜德罗普 Guadeloupe 瓜地洛普",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guadeloupe.png?v=dfa6c711f615"
+    },
+    {
+      "name": "GU 关岛 Guam 關島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guam.png?v=96fd627bab24"
+    },
+    {
+      "name": "GT 危地马拉 Guatemala 瓜地馬拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guatemala.png?v=bc470d21151f"
+    },
+    {
+      "name": "GG 根西岛 Guernsey 根息",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guernsey.png?v=881e3bd2582f"
+    },
+    {
+      "name": "GN 几内亚 Guinea 幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea.png?v=25163c9ac964"
+    },
+    {
+      "name": "GW 几内亚比绍 Guinea-Bissau 幾內亞比索",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea-bissau.png?v=688f4009d50d"
+    },
+    {
+      "name": "GY 圭亚那 Guyana 蓋亞那",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guyana.png?v=f1ac438787de"
+    },
+    {
+      "name": "HT 海地 Haiti",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c"
+    },
+    {
+      "name": "HM 赫德岛和麦克唐纳群岛 Heard Island and McDonald Islands 赫德島及麥唐納群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/heard-island-and-mcdonald-islands.png?v=6e455c3ff567"
+    },
+    {
+      "name": "HN 洪都拉斯 Honduras 宏都拉斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/honduras.png?v=1494ff88dc67"
+    },
+    {
+      "name": "HK 香港 Hong Kong HongKong",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+    },
+    {
+      "name": "HU 匈牙利 Hungary",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hungary.png?v=4fc0cf1d9606"
+    },
+    {
+      "name": "IS 冰岛 Iceland 冰島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iceland.png?v=147d5d5aea23"
+    },
+    {
+      "name": "IN 印度 India",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/india.png?v=b6a6415dde4f"
+    },
+    {
+      "name": "ID 印度尼西亚 Indonesia 印尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/indonesia.png?v=581378b82014"
+    },
+    {
+      "name": "IR 伊朗 Iran",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iran.png?v=598b72909afb"
+    },
+    {
+      "name": "IQ 伊拉克 Iraq",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iraq.png?v=29d31c2ec6c2"
+    },
+    {
+      "name": "IE 爱尔兰 Ireland 愛爾蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ireland.png?v=80dd36c918ec"
+    },
+    {
+      "name": "IM 马恩岛 Isle of Man 曼島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/isle-of-man.png?v=4ffbdfbad787"
+    },
+    {
+      "name": "IL 以色列 Israel",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/israel.png?v=35b67194c70b"
+    },
+    {
+      "name": "IT 意大利 Italy 義大利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a"
+    },
+    {
+      "name": "CI 科特迪瓦 Côte d'Ivoire 象牙海岸 Ivory Coast",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882"
+    },
+    {
+      "name": "JM 牙买加 Jamaica 牙買加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jamaica.png?v=918a4daa2f6a"
+    },
+    {
+      "name": "JP 日本 Japan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc"
+    },
+    {
+      "name": "JE 泽西岛 Jersey 澤西島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jersey.png?v=2a5542845f22"
+    },
+    {
+      "name": "JO 约旦 Jordan 約旦",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e"
+    },
+    {
+      "name": "KZ 哈萨克斯坦 Kazakhstan 哈薩克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kazakhstan.png?v=245bc3f30e99"
+    },
+    {
+      "name": "KE 肯尼亚 Kenya 肯亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kenya.png?v=9859dcf12997"
+    },
+    {
+      "name": "KI 基里巴斯 Kiribati 吉里巴斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kiribati.png?v=17ae5e2ea215"
+    },
+    {
+      "name": "KR 韩国 South Korea 南韓 韓國 南韩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
+    },
+    {
+      "name": "KW 科威特 Kuwait",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuwait.png?v=19be407d49d2"
+    },
+    {
+      "name": "KG 吉尔吉斯斯坦 Kyrgyzstan 吉爾吉斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kyrgyzstan.png?v=55b9c4dc8408"
+    },
+    {
+      "name": "LA 老挝 Laos 寮國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/laos.png?v=5232f8ed2e76"
+    },
+    {
+      "name": "LV 拉脱维亚 Latvia 拉脫維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/latvia.png?v=c3f817944adb"
+    },
+    {
+      "name": "LB 黎巴嫩 Lebanon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lebanon.png?v=8e3d89e08c95"
+    },
+    {
+      "name": "LS 莱索托 Lesotho 賴索托",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lesotho.png?v=74d35b8852cc"
+    },
+    {
+      "name": "LR 利比里亚 Liberia 賴比瑞亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liberia.png?v=798bd47df7e0"
+    },
+    {
+      "name": "LY 利比亚 Libya 利比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/libya.png?v=3a93342762d7"
+    },
+    {
+      "name": "LI 列支敦士登 Liechtenstein 列支敦斯登",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liechtenstein.png?v=12b141ba2a36"
+    },
+    {
+      "name": "LT 立陶宛 Lithuania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lithuania.png?v=10c94c03edeb"
+    },
+    {
+      "name": "LU 卢森堡 Luxembourg 盧森堡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luxembourg.png?v=6d02476f7445"
+    },
+    {
+      "name": "MO 澳门 Macau 澳門",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/macau.png?v=40c4be48deb6"
+    },
+    {
+      "name": "MG 马达加斯加 Madagascar 馬達加斯加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/madagascar.png?v=08a2aba2a474"
+    },
+    {
+      "name": "MW 马拉维 Malawi 馬拉威",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malawi.png?v=5b4112170008"
+    },
+    {
+      "name": "MY 马来西亚 Malaysia 馬來西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malaysia.png?v=d090774d166a"
+    },
+    {
+      "name": "MV 马尔代夫 Maldives 馬爾地夫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maldives.png?v=598b8485d579"
+    },
+    {
+      "name": "ML 马里 Mali 馬利",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mali.png?v=d117d7177522"
+    },
+    {
+      "name": "MT 马耳他 Malta 馬爾他",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malta.png?v=80c3af4f9fb0"
+    },
+    {
+      "name": "MH 马绍尔群岛 Marshall Islands 馬紹爾群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/marshall-islands.png?v=710460e9ad37"
+    },
+    {
+      "name": "MQ 马提尼克 Martinique 馬丁尼克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/martinique.png?v=ccda85fe0c24"
+    },
+    {
+      "name": "MR 毛里塔尼亚 Mauritania 茅利塔尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritania.png?v=602caafae99f"
+    },
+    {
+      "name": "MU 毛里求斯 Mauritius 模里西斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritius.png?v=896ceb02e493"
+    },
+    {
+      "name": "YT 马约特 Mayotte 馬約特島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=470a51e967a4"
+    },
+    {
+      "name": "MX 墨西哥 Mexico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da"
+    },
+    {
+      "name": "MD 摩尔多瓦 Moldova 摩爾多瓦",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/moldova.png?v=f8f8e22d9004"
+    },
+    {
+      "name": "MC 摩纳哥 Monaco 摩納哥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/monaco.png?v=27cc7d0220f4"
+    },
+    {
+      "name": "MN 蒙古 Mongolia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mongolia.png?v=fed76bfbb238"
+    },
+    {
+      "name": "ME 黑山 Montenegro 蒙特內哥羅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montenegro.png?v=cf37f1d536e1"
+    },
+    {
+      "name": "MS 蒙特塞拉特 Montserrat 蒙哲臘",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montserrat.png?v=dbf67f8df122"
+    },
+    {
+      "name": "MA 摩洛哥 Morocco",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/morocco.png?v=1530ff64e43e"
+    },
+    {
+      "name": "MZ 莫桑比克 Mozambique 莫三比克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mozambique.png?v=10c120ea70ff"
+    },
+    {
+      "name": "MM 缅甸 Myanmar 緬甸",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e"
+    },
+    {
+      "name": "NA 纳米比亚 Namibia 納米比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1"
+    },
+    {
+      "name": "NR 瑙鲁 Nauru 諾魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd"
+    },
+    {
+      "name": "NP 尼泊尔 Nepal 尼泊爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nepal.png?v=aef9ac4f012d"
+    },
+    {
+      "name": "NL 荷兰 Netherlands 荷蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netherlands.png?v=c76573c54487"
+    },
+    {
+      "name": "NC 新喀里多尼亚 New Caledonia 新喀里多尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-caledonia.png?v=6933fa0f2e8c"
+    },
+    {
+      "name": "NZ 新西兰 New Zealand 紐西蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45"
+    },
+    {
+      "name": "NI 尼加拉瓜 Nicaragua",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nicaragua.png?v=ced76495a438"
+    },
+    {
+      "name": "NE 尼日尔 Niger",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niger.png?v=b4eda89dc993"
+    },
+    {
+      "name": "NG 尼日利亚 Nigeria 奈及利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
+    },
+    {
+      "name": "NU 纽埃 Niue 紐埃島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niue.png?v=800c8051e0e0"
+    },
+    {
+      "name": "NF 诺福克岛 Norfolk Island 諾福克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norfolk-island.png?v=13de27b2f90d"
+    },
+    {
+      "name": "KP 朝鲜 North Korea 北韓 北韩",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-korea.png?v=e353da62f1b6"
+    },
+    {
+      "name": "MK 北马其顿 North Macedonia 北馬其頓",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-macedonia.png?v=9a9885123201"
+    },
+    {
+      "name": "MP 北马里亚纳群岛 Northern Mariana Islands 北馬利安納群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/northern-mariana-islands.png?v=9d485c8c37e1"
+    },
+    {
+      "name": "NO 挪威 Norway",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5"
+    },
+    {
+      "name": "OM 阿曼 Oman",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f"
+    },
+    {
+      "name": "PK 巴基斯坦 Pakistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pakistan.png?v=877cc14ead18"
+    },
+    {
+      "name": "PW 帕劳 Palau 帛琉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/palau.png?v=fe38f767bf7d"
+    },
+    {
+      "name": "PA 巴拿马 Panama 巴拿馬",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/panama.png?v=c26fec9d98b5"
+    },
+    {
+      "name": "PG 巴布亚新几内亚 Papua New Guinea 巴布亞紐幾內亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/papua-new-guinea.png?v=4425df130b06"
+    },
+    {
+      "name": "PY 巴拉圭 Paraguay",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paraguay.png?v=d388b0b30ab4"
+    },
+    {
+      "name": "PE 秘鲁 Peru 秘魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peru.png?v=777fd2b5834f"
+    },
+    {
+      "name": "PH 菲律宾 Philippines 菲律賓",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac"
+    },
+    {
+      "name": "PN 皮特凯恩群岛 Pitcairn 皮特肯群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851"
+    },
+    {
+      "name": "PL 波兰 Poland 波蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9"
+    },
+    {
+      "name": "PT 葡萄牙 Portugal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7"
+    },
+    {
+      "name": "PR 波多黎各 Puerto Rico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/puerto-rico.png?v=0c92dc02c242"
+    },
+    {
+      "name": "QA 卡塔尔 Qatar 卡達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba"
+    },
+    {
+      "name": "CG 刚果（布） Republic of the Congo 剛果（布拉薩） Congo-Brazzaville",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d"
+    },
+    {
+      "name": "RE 留尼汪 Réunion 留尼旺",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=ff9f6a1e176b"
+    },
+    {
+      "name": "RO 罗马尼亚 Romania 羅馬尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/romania.png?v=f2268e235bb4"
+    },
+    {
+      "name": "RU 俄罗斯 Russia 俄羅斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da"
+    },
+    {
+      "name": "RW 卢旺达 Rwanda 盧安達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
+    },
+    {
+      "name": "BQ-SA 萨巴 Saba 沙巴島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e"
+    },
+    {
+      "name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde"
+    },
+    {
+      "name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2"
+    },
+    {
+      "name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
+    },
+    {
+      "name": "KN 圣基茨和尼维斯 Saint Kitts and Nevis 聖克里斯多福及尼維斯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770"
+    },
+    {
+      "name": "LC 圣卢西亚 Saint Lucia 聖露西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529"
+    },
+    {
+      "name": "MF 法属圣马丁 Saint Martin 法屬聖馬丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=7f6a5facdf3a"
+    },
+    {
+      "name": "PM 圣皮埃尔和密克隆群岛 Saint Pierre and Miquelon 聖皮埃與密克隆群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-pierre-and-miquelon.png?v=98e8de5a4d2e"
+    },
+    {
+      "name": "VC 圣文森特和格林纳丁斯 Saint Vincent and the Grenadines 聖文森及格瑞那丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-vincent-and-the-grenadines.png?v=652a76e4d828"
+    },
+    {
+      "name": "WS 萨摩亚 Samoa 薩摩亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/samoa.png?v=2dbe3ea31180"
+    },
+    {
+      "name": "SM 圣马力诺 San Marino 聖馬利諾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/san-marino.png?v=5983b7386585"
+    },
+    {
+      "name": "ST 圣多美和普林西比 Sao Tome and Principe 聖多美普林西比",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
+    },
+    {
+      "name": "SARK 萨克岛 Sark 薩克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8"
+    },
+    {
+      "name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
+    },
+    {
+      "name": "SN 塞内加尔 Senegal 塞內加爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/senegal.png?v=f98d9370b02d"
+    },
+    {
+      "name": "RS 塞尔维亚 Serbia 塞爾維亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/serbia.png?v=fe33414010a2"
+    },
+    {
+      "name": "SC 塞舌尔 Seychelles 塞席爾",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949"
+    },
+    {
+      "name": "SL 塞拉利昂 Sierra Leone 獅子山",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496"
+    },
+    {
+      "name": "SG 新加坡 Singapore",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5"
+    },
+    {
+      "name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-maarten.png?v=f62ea36d4a5e"
+    },
+    {
+      "name": "SK 斯洛伐克 Slovakia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6"
+    },
+    {
+      "name": "SI 斯洛文尼亚 Slovenia 斯洛維尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b"
+    },
+    {
+      "name": "SB 所罗门群岛 Solomon Islands 索羅門群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/solomon-islands.png?v=0ddcaa23ed12"
+    },
+    {
+      "name": "SO 索马里 Somalia 索馬利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/somalia.png?v=dab66691cb29"
+    },
+    {
+      "name": "ZA 南非 South Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-africa.png?v=6ac2ea2c4869"
+    },
+    {
+      "name": "GS 南乔治亚和南桑威奇群岛 South Georgia and the South Sandwich Islands 南喬治亞與南三明治群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-georgia-and-the-south-sandwich-islands.png?v=fab53d16fff5"
+    },
+    {
+      "name": "SS 南苏丹 South Sudan 南蘇丹",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-sudan.png?v=03c66d0c18c5"
+    },
+    {
+      "name": "ES 西班牙 Spain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spain.png?v=8ea0a966df2c"
+    },
+    {
+      "name": "LK 斯里兰卡 Sri Lanka 斯里蘭卡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce"
+    },
+    {
+      "name": "PS 巴勒斯坦 State of Palestine",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/state-of-palestine.png?v=38dac2a2aa56"
+    },
+    {
+      "name": "SD 苏丹 Sudan 蘇丹",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sudan.png?v=7271b91a4022"
+    },
+    {
+      "name": "SR 苏里南 Suriname 蘇利南",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suriname.png?v=938d688f7a7b"
+    },
+    {
+      "name": "SJ 斯瓦尔巴和扬马延 Svalbard and Jan Mayen 挪威屬斯瓦巴及尖棉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/svalbard-and-jan-mayen.png?v=da859910bcff"
+    },
+    {
+      "name": "SE 瑞典 Sweden",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sweden.png?v=feedf440ac95"
+    },
+    {
+      "name": "CH 瑞士 Switzerland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/switzerland.png?v=e3891e28de51"
+    },
+    {
+      "name": "SY 叙利亚 Syria 敘利亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/syria.png?v=2dcc231be5f0"
+    },
+    {
+      "name": "TW 台湾 Taiwan 台灣 臺灣",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079"
+    },
+    {
+      "name": "TJ 塔吉克斯坦 Tajikistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tajikistan.png?v=d77331e7bfba"
+    },
+    {
+      "name": "TZ 坦桑尼亚 Tanzania 坦尚尼亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tanzania.png?v=8b3f275683ab"
+    },
+    {
+      "name": "TH 泰国 Thailand 泰國",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f"
+    },
+    {
+      "name": "TL 东帝汶 Timor-Leste 東帝汶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/timor-leste.png?v=9e85b0c68d3a"
+    },
+    {
+      "name": "TG 多哥 Togo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/togo.png?v=f682ec665910"
+    },
+    {
+      "name": "TK 托克劳 Tokelau 托克勞群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tokelau.png?v=384a3592abec"
+    },
+    {
+      "name": "TO 汤加 Tonga 東加",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tonga.png?v=02d4325d9489"
+    },
+    {
+      "name": "TT 特立尼达和多巴哥 Trinidad and Tobago 千里達及托巴哥",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
+    },
+    {
+      "name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847"
+    },
+    {
+      "name": "TN 突尼斯 Tunisia 突尼西亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
+    },
+    {
+      "name": "TR 土耳其 Türkiye Turkey",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkiye.png?v=c27f1e153956"
+    },
+    {
+      "name": "TM 土库曼斯坦 Turkmenistan 土庫曼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkmenistan.png?v=36666330a042"
+    },
+    {
+      "name": "TC 特克斯和凯科斯群岛 Turks and Caicos Islands 土克斯及開科斯群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turks-and-caicos-islands.png?v=9b22271883e9"
+    },
+    {
+      "name": "TV 图瓦卢 Tuvalu 吐瓦魯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
+    },
+    {
+      "name": "UG 乌干达 Uganda 烏干達",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uganda.png?v=0a3716abc6d3"
+    },
+    {
+      "name": "UA 乌克兰 Ukraine 烏克蘭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a"
+    },
+    {
+      "name": "AE 阿拉伯联合酋长国 United Arab Emirates 阿拉伯聯合大公國 UAE",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-arab-emirates.png?v=43df5c7bc87a"
+    },
+    {
+      "name": "GB 英国 United Kingdom 英國 UK Britain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-kingdom.png?v=8331137553b6"
+    },
+    {
+      "name": "UM 美国本土外小岛屿 United States Minor Outlying Islands 美國本土外小島嶼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-states-minor-outlying-islands.png?v=b642da68f0e2"
+    },
+    {
+      "name": "UY 乌拉圭 Uruguay 烏拉圭",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uruguay.png?v=8fae83ba1837"
+    },
+    {
+      "name": "US 美国 United States of America 美國 USA",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+    },
+    {
+      "name": "UZ 乌兹别克斯坦 Uzbekistan 烏茲別克",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uzbekistan.png?v=fcc6267e2adc"
+    },
+    {
+      "name": "VU 瓦努阿图 Vanuatu 萬那杜",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vanuatu.png?v=32abed289908"
+    },
+    {
+      "name": "VA 梵蒂冈 Holy See 梵蒂岡",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vatican-city.png?v=c797542c540c"
+    },
+    {
+      "name": "VE 委内瑞拉 Venezuela 委內瑞拉",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/venezuela.png?v=1a19fabca44c"
+    },
+    {
+      "name": "VN 越南 Vietnam",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vietnam.png?v=e3340597dc15"
+    },
+    {
+      "name": "VG 英属维尔京群岛 Virgin Islands (British) 英屬維京群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-british.png?v=5207a3923e7f"
+    },
+    {
+      "name": "VI 美属维尔京群岛 Virgin Islands (U.S.) 美屬維京群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1"
+    },
+    {
+      "name": "WF 瓦利斯和富图纳 Wallis and Futuna 瓦利斯群島和富圖那群島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=55aedd3e24b2"
+    },
+    {
+      "name": "EH 西撒哈拉 Western Sahara",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/western-sahara.png?v=868186ba9b1b"
+    },
+    {
+      "name": "YE 也门 Yemen 葉門",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yemen.png?v=bb0178f5f056"
+    },
+    {
+      "name": "ZM 赞比亚 Zambia 尚比亞",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zambia.png?v=2edf98798187"
+    },
+    {
+      "name": "ZW 津巴布韦 Zimbabwe 辛巴威",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e"
+    }
+  ]
+}

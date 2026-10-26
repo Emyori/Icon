@@ -1,0 +1,1496 @@
+{
+  "name": "Oasisic-Icons",
+  "description": "Cross-platform Proxy Policy Group Icons / 跨平台代理策略组图标合集",
+  "icons": [
+    {
+      "name": "Anthropic",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Anthropic/Anthropic.png"
+    },
+    {
+      "name": "DeepSeek",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/DeepSeek/DeepSeek.png"
+    },
+    {
+      "name": "GLM",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/GLM/GLM.png"
+    },
+    {
+      "name": "Kimi",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Kimi/Kimi.png"
+    },
+    {
+      "name": "Manus",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Manus/Manus.png"
+    },
+    {
+      "name": "MiniMax",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/MiniMax/MiniMax.png"
+    },
+    {
+      "name": "Muse",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Muse/Muse.png"
+    },
+    {
+      "name": "NousResearch",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/NousResearch/NousResearch.png"
+    },
+    {
+      "name": "OpenAI",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/OpenAI/OpenAI.png"
+    },
+    {
+      "name": "Perplexity",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Perplexity/Perplexity.png"
+    },
+    {
+      "name": "Poe",
+      "category": "AI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Poe/Poe.png"
+    },
+    {
+      "name": "AliPay",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/AliPay/AliPay.png"
+    },
+    {
+      "name": "Alibaba",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Alibaba/Alibaba.png"
+    },
+    {
+      "name": "AlibabaCloud",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/AlibabaCloud/AlibabaCloud.png"
+    },
+    {
+      "name": "AliyunDrive",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/AliyunDrive/AliyunDrive.png"
+    },
+    {
+      "name": "DingTalk",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/DingTalk/DingTalk.png"
+    },
+    {
+      "name": "Quark",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Quark/Quark.png"
+    },
+    {
+      "name": "Qwen",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Qwen/Qwen.png"
+    },
+    {
+      "name": "Taobao",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Taobao/Taobao.png"
+    },
+    {
+      "name": "TaobaoShangou",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Taobao/TaobaoShangou/TaobaoShangou.png"
+    },
+    {
+      "name": "Youku",
+      "category": "Alibaba",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Alibaba/Youku/Youku.png"
+    },
+    {
+      "name": "AWS",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/AWS/AWS.png"
+    },
+    {
+      "name": "Amazon",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/Amazon/Amazon.png"
+    },
+    {
+      "name": "AmazonAlexa",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/AmazonAlexa/AmazonAlexa.png"
+    },
+    {
+      "name": "AmazonMusic",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/AmazonMusic/AmazonMusic.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/PrimeVideo/PrimeVideo.png"
+    },
+    {
+      "name": "Twitch",
+      "category": "Amazon",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Amazon/Twitch/Twitch.png"
+    },
+    {
+      "name": "AppStore",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppStore/AppStore.png"
+    },
+    {
+      "name": "Apple",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/Apple/Apple.png"
+    },
+    {
+      "name": "AppleArcade",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleArcade/AppleArcade.png"
+    },
+    {
+      "name": "AppleBooks",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleBooks/AppleBooks.png"
+    },
+    {
+      "name": "AppleFitnessPlus",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleFitnessPlus/AppleFitnessPlus.png"
+    },
+    {
+      "name": "AppleMusic",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleMusic/AppleMusic.png"
+    },
+    {
+      "name": "AppleNewsPlus",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleNewsPlus/AppleNewsPlus.png"
+    },
+    {
+      "name": "ApplePodcasts",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/ApplePodcasts/ApplePodcasts.png"
+    },
+    {
+      "name": "AppleTV",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/AppleTV/AppleTV.png"
+    },
+    {
+      "name": "SiriAI",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/SiriAI/SiriAI.png"
+    },
+    {
+      "name": "TestFlight",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/TestFlight/TestFlight.png"
+    },
+    {
+      "name": "iCloud",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/iCloud/iCloud.png"
+    },
+    {
+      "name": "iCloudPrivateRelay",
+      "category": "Apple",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Apple/iCloud/iCloudPrivateRelay/iCloudPrivateRelay.png"
+    },
+    {
+      "name": "Baidu",
+      "category": "Baidu",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Baidu/Baidu/Baidu.png"
+    },
+    {
+      "name": "BaiduNetdisk",
+      "category": "Baidu",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Baidu/BaiduNetdisk/BaiduNetdisk.png"
+    },
+    {
+      "name": "Tieba",
+      "category": "Baidu",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Baidu/Tieba/Tieba.png"
+    },
+    {
+      "name": "iQIYI",
+      "category": "Baidu",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Baidu/iQIYI/iQIYI.png"
+    },
+    {
+      "name": "ByteDance",
+      "category": "ByteDance",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ByteDance/ByteDance/ByteDance.png"
+    },
+    {
+      "name": "Doubao",
+      "category": "ByteDance",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ByteDance/Doubao/Doubao.png"
+    },
+    {
+      "name": "Douyin",
+      "category": "ByteDance",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ByteDance/Douyin/Douyin.png"
+    },
+    {
+      "name": "Lark",
+      "category": "ByteDance",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ByteDance/Lark/Lark.png"
+    },
+    {
+      "name": "TikTok",
+      "category": "ByteDance",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ByteDance/TikTok/TikTok.png"
+    },
+    {
+      "name": "ChinaMobile",
+      "category": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ChinaMobile/ChinaMobile/ChinaMobile.png"
+    },
+    {
+      "name": "ChinaMobileCloudDrive",
+      "category": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ChinaMobile/ChinaMobileCloudDrive/ChinaMobileCloudDrive.png"
+    },
+    {
+      "name": "Migu",
+      "category": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/ChinaMobile/Migu/Migu.png"
+    },
+    {
+      "name": "115",
+      "category": "CloudStorage",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/CloudStorage/115/115.png"
+    },
+    {
+      "name": "123",
+      "category": "CloudStorage",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/CloudStorage/123/123.png"
+    },
+    {
+      "name": "189",
+      "category": "CloudStorage",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/CloudStorage/189/189.png"
+    },
+    {
+      "name": "Dropbox",
+      "category": "CloudStorage",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/CloudStorage/Dropbox/Dropbox.png"
+    },
+    {
+      "name": "PikPak",
+      "category": "CloudStorage",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/CloudStorage/PikPak/PikPak.png"
+    },
+    {
+      "name": "Discord",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/Discord/Discord.png"
+    },
+    {
+      "name": "KakaoTalk",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/KakaoTalk/KakaoTalk.png"
+    },
+    {
+      "name": "LINE",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/LINE/LINE.png"
+    },
+    {
+      "name": "Skype",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/Skype/Skype.png"
+    },
+    {
+      "name": "Snapchat",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/Snapchat/Snapchat.png"
+    },
+    {
+      "name": "Telegram",
+      "category": "Communication",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Communication/Telegram/Telegram.png"
+    },
+    {
+      "name": "Argentina",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Argentina/Argentina.png"
+    },
+    {
+      "name": "Australia",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Australia/Australia.png"
+    },
+    {
+      "name": "CN-Taiwan",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/CN-Taiwan/CN-Taiwan.png"
+    },
+    {
+      "name": "Canada",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Canada/Canada.png"
+    },
+    {
+      "name": "China",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/China/China.png"
+    },
+    {
+      "name": "Egypt",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Egypt/Egypt.png"
+    },
+    {
+      "name": "Germany",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Germany/Germany.png"
+    },
+    {
+      "name": "HongKong",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/HongKong/HongKong.png"
+    },
+    {
+      "name": "India",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/India/India.png"
+    },
+    {
+      "name": "Japan",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Japan/Japan.png"
+    },
+    {
+      "name": "Korea",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Korea/Korea.png"
+    },
+    {
+      "name": "Netherlands",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Netherlands/Netherlands.png"
+    },
+    {
+      "name": "Nigeria",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Nigeria/Nigeria.png"
+    },
+    {
+      "name": "NorthKorea",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/NorthKorea/NorthKorea.png"
+    },
+    {
+      "name": "Poland",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Poland/Poland.png"
+    },
+    {
+      "name": "Singapore",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Singapore/Singapore.png"
+    },
+    {
+      "name": "Spain",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Spain/Spain.png"
+    },
+    {
+      "name": "Thailand",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Thailand/Thailand.png"
+    },
+    {
+      "name": "Turkey",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/Turkey/Turkey.png"
+    },
+    {
+      "name": "UK",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/UK/UK.png"
+    },
+    {
+      "name": "US",
+      "category": "Country",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Country/US/US.png"
+    },
+    {
+      "name": "Cryptocurrency",
+      "category": "Crypto",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Crypto/Cryptocurrency/Cryptocurrency.png"
+    },
+    {
+      "name": "Cursor",
+      "category": "Development",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Development/Cursor/Cursor.png"
+    },
+    {
+      "name": "Disney",
+      "category": "Disney",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Disney/Disney/Disney.png"
+    },
+    {
+      "name": "DisneyPlus",
+      "category": "Disney",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Disney/DisneyPlus/DisneyPlus.png"
+    },
+    {
+      "name": "ESPN",
+      "category": "Disney",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Disney/ESPN/ESPN.png"
+    },
+    {
+      "name": "Hulu",
+      "category": "Disney",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Disney/Hulu/Hulu.png"
+    },
+    {
+      "name": "Duolingo",
+      "category": "Education",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Education/Duolingo/Duolingo.png"
+    },
+    {
+      "name": "Z-Library",
+      "category": "Education",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Education/Z-Library/Z-Library.png"
+    },
+    {
+      "name": "EpicGames",
+      "category": "Game",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Game/EpicGames/EpicGames.png"
+    },
+    {
+      "name": "Nintendo",
+      "category": "Game",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Game/Nintendo/Nintendo.png"
+    },
+    {
+      "name": "RockstarGames",
+      "category": "Game",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Game/RockstarGames/RockstarGames.png"
+    },
+    {
+      "name": "Steam",
+      "category": "Game",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Game/Steam/Steam.png"
+    },
+    {
+      "name": "Ubisoft",
+      "category": "Game",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Game/Ubisoft/Ubisoft.png"
+    },
+    {
+      "name": "Gmail",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/Gmail/Gmail.png"
+    },
+    {
+      "name": "Google",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/Google/Google.png"
+    },
+    {
+      "name": "GoogleAI",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleAI/GoogleAI.png"
+    },
+    {
+      "name": "GoogleDrive",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleDrive/GoogleDrive.png"
+    },
+    {
+      "name": "GoogleMaps",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleMaps/GoogleMaps.png"
+    },
+    {
+      "name": "GoogleNews",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleNews/GoogleNews.png"
+    },
+    {
+      "name": "GooglePhotos",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GooglePhotos/GooglePhotos.png"
+    },
+    {
+      "name": "GooglePlay",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GooglePlay/GooglePlay.png"
+    },
+    {
+      "name": "GoogleTranslate",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleTranslate/GoogleTranslate.png"
+    },
+    {
+      "name": "GoogleVoice",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/GoogleVoice/GoogleVoice.png"
+    },
+    {
+      "name": "YouTube",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/YouTube/YouTube.png"
+    },
+    {
+      "name": "YouTubeMusic",
+      "category": "Google",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Google/YouTube/YouTubeMusic/YouTubeMusic.png"
+    },
+    {
+      "name": "DJI",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/DJI/DJI.png"
+    },
+    {
+      "name": "Honor",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/Honor/Honor.png"
+    },
+    {
+      "name": "Huawei",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/Huawei/Huawei.png"
+    },
+    {
+      "name": "LG",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/LG/LG.png"
+    },
+    {
+      "name": "OPPO",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/OPPO/OPPO.png"
+    },
+    {
+      "name": "Samsung",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/Samsung/Samsung.png"
+    },
+    {
+      "name": "Xiaomi",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/Xiaomi/Xiaomi.png"
+    },
+    {
+      "name": "vivo",
+      "category": "Hardware",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Hardware/vivo/vivo.png"
+    },
+    {
+      "name": "Keep",
+      "category": "Health",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Health/Keep/Keep.png"
+    },
+    {
+      "name": "Aqara",
+      "category": "Home",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Home/Aqara/Aqara.png"
+    },
+    {
+      "name": "Mijia",
+      "category": "Home",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Home/Mijia/Mijia.png"
+    },
+    {
+      "name": "Cloudflare",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/Cloudflare/Cloudflare.png"
+    },
+    {
+      "name": "Docker",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/Docker/Docker.png"
+    },
+    {
+      "name": "MikroTik",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/MikroTik/MikroTik.png"
+    },
+    {
+      "name": "OpenWrt",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/OpenWrt/OpenWrt.png"
+    },
+    {
+      "name": "Oracle",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/Oracle/Oracle.png"
+    },
+    {
+      "name": "Proxmox",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/Proxmox/Proxmox.png"
+    },
+    {
+      "name": "Synology",
+      "category": "Infrastructure",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Infrastructure/Synology/Synology.png"
+    },
+    {
+      "name": "ABEMA",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/ABEMA/ABEMA.png"
+    },
+    {
+      "name": "AMC",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/AMC/AMC.png"
+    },
+    {
+      "name": "BBC",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/BBC/BBC.png"
+    },
+    {
+      "name": "Bahamut",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Bahamut/Bahamut.png"
+    },
+    {
+      "name": "Bangumi",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Bangumi/Bangumi.png"
+    },
+    {
+      "name": "CATCHPLAYPlus",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/CATCHPLAYPlus/CATCHPLAYPlus.png"
+    },
+    {
+      "name": "DAZN",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/DAZN/DAZN.png"
+    },
+    {
+      "name": "DMMTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/DMMTV/DMMTV.png"
+    },
+    {
+      "name": "Emby",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Emby/Emby.png"
+    },
+    {
+      "name": "F1TV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/F1TV/F1TV.png"
+    },
+    {
+      "name": "Fan",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Fan/Fan.png"
+    },
+    {
+      "name": "Fileball",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Fileball/Fileball.png"
+    },
+    {
+      "name": "FujiTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/FujiTV/FujiTV.png"
+    },
+    {
+      "name": "HOYTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/HOYTV/HOYTV.png"
+    },
+    {
+      "name": "HamiVideo",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/HamiVideo/HamiVideo.png"
+    },
+    {
+      "name": "Hanxiaoquan",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Hanxiaoquan/Hanxiaoquan.png"
+    },
+    {
+      "name": "Infuse",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Infuse/Infuse.png"
+    },
+    {
+      "name": "Jellyfin",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Jellyfin/Jellyfin.png"
+    },
+    {
+      "name": "JioHotstar",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/JioHotstar/JioHotstar.png"
+    },
+    {
+      "name": "KKTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/KKTV/KKTV.png"
+    },
+    {
+      "name": "KaraokeDAM",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/KaraokeDAM/KaraokeDAM.png"
+    },
+    {
+      "name": "LINETV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/LINETV/LINETV.png"
+    },
+    {
+      "name": "Lemino",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Lemino/Lemino.png"
+    },
+    {
+      "name": "LiTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/LiTV/LiTV.png"
+    },
+    {
+      "name": "MangoTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/MangoTV/MangoTV.png"
+    },
+    {
+      "name": "MyVideo",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/MyVideo/MyVideo.png"
+    },
+    {
+      "name": "NBA",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/NBA/NBA.png"
+    },
+    {
+      "name": "NHK",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/NHK/NHK.png"
+    },
+    {
+      "name": "Netflix",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Netflix/Netflix.png"
+    },
+    {
+      "name": "Niconico",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Niconico/Niconico.png"
+    },
+    {
+      "name": "ParamountPlus",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/ParamountPlus/ParamountPlus.png"
+    },
+    {
+      "name": "Plex",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Plex/Plex.png"
+    },
+    {
+      "name": "Radiko",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Radiko/Radiko.png"
+    },
+    {
+      "name": "RakutenTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/RakutenTV/RakutenTV.png"
+    },
+    {
+      "name": "ReadJapan",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/ReadJapan/ReadJapan.png"
+    },
+    {
+      "name": "RedBullTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/RedBullTV/RedBullTV.png"
+    },
+    {
+      "name": "SOOP",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/SOOP/SOOP.png"
+    },
+    {
+      "name": "STARZ",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/STARZ/STARZ.png"
+    },
+    {
+      "name": "SlingTV",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/SlingTV/SlingTV.png"
+    },
+    {
+      "name": "StarPlus",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/StarPlus/StarPlus.png"
+    },
+    {
+      "name": "TELASA",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/TELASA/TELASA.png"
+    },
+    {
+      "name": "TMDB",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/TMDB/TMDB.png"
+    },
+    {
+      "name": "TVB",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/TVB/TVB.png"
+    },
+    {
+      "name": "TVer",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/TVer/TVer.png"
+    },
+    {
+      "name": "Tubi",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Tubi/Tubi.png"
+    },
+    {
+      "name": "UNEXT",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/UNEXT/UNEXT.png"
+    },
+    {
+      "name": "VideoMarket",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/VideoMarket/VideoMarket.png"
+    },
+    {
+      "name": "Vimeo",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Vimeo/Vimeo.png"
+    },
+    {
+      "name": "WOWOW",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/WOWOW/WOWOW.png"
+    },
+    {
+      "name": "Wallpaper",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Wallpaper/Wallpaper.png"
+    },
+    {
+      "name": "Xiaoyuzhou",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/Xiaoyuzhou/Xiaoyuzhou.png"
+    },
+    {
+      "name": "bilibili",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/bilibili/bilibili.png"
+    },
+    {
+      "name": "dAnimeStore",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/dAnimeStore/dAnimeStore.png"
+    },
+    {
+      "name": "friDayVideo",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/friDayVideo/friDayVideo.png"
+    },
+    {
+      "name": "myTVSUPER",
+      "category": "Media",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Media/myTVSUPER/myTVSUPER.png"
+    },
+    {
+      "name": "Facebook",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Facebook/Facebook.png"
+    },
+    {
+      "name": "Instagram",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Facebook/Instagram/Instagram.png"
+    },
+    {
+      "name": "Messenger",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Facebook/Messenger/Messenger.png"
+    },
+    {
+      "name": "Meta",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Meta/Meta.png"
+    },
+    {
+      "name": "Threads",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Facebook/Threads/Threads.png"
+    },
+    {
+      "name": "WhatsApp",
+      "category": "Meta",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Meta/Facebook/WhatsApp/WhatsApp.png"
+    },
+    {
+      "name": "Azure",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Azure/Azure.png"
+    },
+    {
+      "name": "Bing",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Bing/Bing.png"
+    },
+    {
+      "name": "Copilot",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Copilot/Copilot.png"
+    },
+    {
+      "name": "GitHub",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/GitHub/GitHub.png"
+    },
+    {
+      "name": "LinkedIn",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/LinkedIn/LinkedIn.png"
+    },
+    {
+      "name": "Microsoft",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Microsoft/Microsoft.png"
+    },
+    {
+      "name": "MicrosoftStore",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/MicrosoftStore/MicrosoftStore.png"
+    },
+    {
+      "name": "OneDrive",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/OneDrive/OneDrive.png"
+    },
+    {
+      "name": "Outlook",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Outlook/Outlook.png"
+    },
+    {
+      "name": "Xbox",
+      "category": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Microsoft/Xbox/Xbox.png"
+    },
+    {
+      "name": "Deezer",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Deezer/Deezer.png"
+    },
+    {
+      "name": "KKBOX",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/KKBOX/KKBOX.png"
+    },
+    {
+      "name": "MusicBrainz",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/MusicBrainz/MusicBrainz.png"
+    },
+    {
+      "name": "MusicJapan",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/MusicJapan/MusicJapan.png"
+    },
+    {
+      "name": "Musixmatch",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Musixmatch/Musixmatch.png"
+    },
+    {
+      "name": "Pandora",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Pandora/Pandora.png"
+    },
+    {
+      "name": "Qobuz",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Qobuz/Qobuz.png"
+    },
+    {
+      "name": "SoundCloud",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/SoundCloud/SoundCloud.png"
+    },
+    {
+      "name": "Spotify",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Spotify/Spotify.png"
+    },
+    {
+      "name": "TIDAL",
+      "category": "Music",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/TIDAL/TIDAL.png"
+    },
+    {
+      "name": "NBC",
+      "category": "NBCUniversal",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NBCUniversal/NBC/NBC.png"
+    },
+    {
+      "name": "NBCUniversal",
+      "category": "NBCUniversal",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NBCUniversal/NBCUniversal/NBCUniversal.png"
+    },
+    {
+      "name": "Peacock",
+      "category": "NBCUniversal",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NBCUniversal/Peacock/Peacock.png"
+    },
+    {
+      "name": "NetEase",
+      "category": "NetEase",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NetEase/NetEase/NetEase.png"
+    },
+    {
+      "name": "NetEaseCloudMusic",
+      "category": "NetEase",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NetEase/NetEaseCloudMusic/NetEaseCloudMusic.png"
+    },
+    {
+      "name": "NetEaseMail",
+      "category": "NetEase",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/NetEase/NetEaseMail/NetEaseMail.png"
+    },
+    {
+      "name": "WSJ",
+      "category": "News",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/News/WSJ/WSJ.png"
+    },
+    {
+      "name": "NowE",
+      "category": "PCCW",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/PCCW/NowE/NowE.png"
+    },
+    {
+      "name": "PCCW",
+      "category": "PCCW",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/PCCW/PCCW/PCCW.png"
+    },
+    {
+      "name": "Viu",
+      "category": "PCCW",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/PCCW/Viu/Viu.png"
+    },
+    {
+      "name": "Binance",
+      "category": "Payment",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Payment/Binance/Binance.png"
+    },
+    {
+      "name": "OKX",
+      "category": "Payment",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Payment/OKX/OKX.png"
+    },
+    {
+      "name": "PayPal",
+      "category": "Payment",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Payment/PayPal/PayPal.png"
+    },
+    {
+      "name": "SWIFT",
+      "category": "Payment",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Payment/SWIFT/SWIFT.png"
+    },
+    {
+      "name": "UnionPay",
+      "category": "Payment",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Payment/UnionPay/UnionPay.png"
+    },
+    {
+      "name": "BGP",
+      "category": "Proxy",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Proxy/BGP/BGP.png"
+    },
+    {
+      "name": "GIA",
+      "category": "Proxy",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Proxy/GIA/GIA.png"
+    },
+    {
+      "name": "IEPL",
+      "category": "Proxy",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Proxy/IEPL/IEPL.png"
+    },
+    {
+      "name": "IPLC",
+      "category": "Proxy",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Proxy/IPLC/IPLC.png"
+    },
+    {
+      "name": "Crunchyroll",
+      "category": "SONY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SONY/Crunchyroll/Crunchyroll.png"
+    },
+    {
+      "name": "PlayStation",
+      "category": "SONY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SONY/PlayStation/PlayStation.png"
+    },
+    {
+      "name": "SONY",
+      "category": "SONY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SONY/SONY/SONY.png"
+    },
+    {
+      "name": "mora",
+      "category": "SONY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SONY/mora/mora.png"
+    },
+    {
+      "name": "BestBuy",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/BestBuy/BestBuy.png"
+    },
+    {
+      "name": "JD",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/JD/JD.png"
+    },
+    {
+      "name": "Meituan",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/Meituan/Meituan.png"
+    },
+    {
+      "name": "MeituanFoodDelivery",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/MeituanFoodDelivery/MeituanFoodDelivery.png"
+    },
+    {
+      "name": "Pinduoduo",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/Pinduoduo/Pinduoduo.png"
+    },
+    {
+      "name": "eBay",
+      "category": "Shopping",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Shopping/eBay/eBay.png"
+    },
+    {
+      "name": "Bluesky",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Bluesky/Bluesky.png"
+    },
+    {
+      "name": "Douban",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Douban/Douban.png"
+    },
+    {
+      "name": "Kwai",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Kwai/Kwai.png"
+    },
+    {
+      "name": "Pinterest",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Pinterest/Pinterest.png"
+    },
+    {
+      "name": "Reddit",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Reddit/Reddit.png"
+    },
+    {
+      "name": "SINA",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/SINA/SINA.png"
+    },
+    {
+      "name": "Weibo",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Weibo/Weibo.png"
+    },
+    {
+      "name": "Zhihu",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Zhihu/Zhihu.png"
+    },
+    {
+      "name": "pixiv",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/pixiv/pixiv.png"
+    },
+    {
+      "name": "rednote",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/rednote/rednote.png"
+    },
+    {
+      "name": "Grok",
+      "category": "SpaceXAI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SpaceXAI/xAI/Grok/Grok.png"
+    },
+    {
+      "name": "SpaceXAI",
+      "category": "SpaceXAI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SpaceXAI/SpaceXAI/SpaceXAI.png"
+    },
+    {
+      "name": "X",
+      "category": "SpaceXAI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SpaceXAI/X/X.png"
+    },
+    {
+      "name": "xAI",
+      "category": "SpaceXAI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SpaceXAI/xAI/xAI.png"
+    },
+    {
+      "name": "Surge",
+      "category": "Surge",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Surge/Surge/Surge.png"
+    },
+    {
+      "name": "AD",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/AD/AD.png"
+    },
+    {
+      "name": "Airport",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Airport/Airport.png"
+    },
+    {
+      "name": "Area",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Area/Area.png"
+    },
+    {
+      "name": "Auto",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Auto/Auto.png"
+    },
+    {
+      "name": "Blacklist",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Blacklist/Blacklist.png"
+    },
+    {
+      "name": "Bot",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Bot/Bot.png"
+    },
+    {
+      "name": "Direct",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Direct/Direct.png"
+    },
+    {
+      "name": "Final",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Final/Final.png"
+    },
+    {
+      "name": "Game",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Game/Game.png"
+    },
+    {
+      "name": "GeneralAI",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/GeneralAI/GeneralAI.png"
+    },
+    {
+      "name": "Global",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Global/Global.png"
+    },
+    {
+      "name": "Lightning",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Lightning/Lightning.png"
+    },
+    {
+      "name": "Mail",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Mail/Mail.png"
+    },
+    {
+      "name": "Play",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Play/Play.png"
+    },
+    {
+      "name": "Proxy",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Proxy/Proxy.png"
+    },
+    {
+      "name": "Reject",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Reject/Reject.png"
+    },
+    {
+      "name": "SSID",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/SSID/SSID.png"
+    },
+    {
+      "name": "Search",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Search/Search.png"
+    },
+    {
+      "name": "Traffic",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/Traffic/Traffic.png"
+    },
+    {
+      "name": "URL",
+      "category": "System",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/System/URL/URL.png"
+    },
+    {
+      "name": "ChinaBroadnet",
+      "category": "Telecom",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Telecom/ChinaBroadnet/ChinaBroadnet.png"
+    },
+    {
+      "name": "ChinaTelecom",
+      "category": "Telecom",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Telecom/ChinaTelecom/ChinaTelecom.png"
+    },
+    {
+      "name": "ChinaUnicom",
+      "category": "Telecom",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Telecom/ChinaUnicom/ChinaUnicom.png"
+    },
+    {
+      "name": "QQ",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/QQ/QQ.png"
+    },
+    {
+      "name": "QQMail",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/QQMail/QQMail.png"
+    },
+    {
+      "name": "QQMusic",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/QQMusic/QQMusic.png"
+    },
+    {
+      "name": "Tencent",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/Tencent/Tencent.png"
+    },
+    {
+      "name": "TencentCloud",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/TencentCloud/TencentCloud.png"
+    },
+    {
+      "name": "TencentVideo",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/TencentVideo/TencentVideo.png"
+    },
+    {
+      "name": "WeChat",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/WeChat/WeChat.png"
+    },
+    {
+      "name": "WeTV",
+      "category": "Tencent",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tencent/WeTV/WeTV.png"
+    },
+    {
+      "name": "DiDi",
+      "category": "Transport",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Transport/DiDi/DiDi.png"
+    },
+    {
+      "name": "SF-Express",
+      "category": "Transport",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Transport/SF-Express/SF-Express.png"
+    },
+    {
+      "name": "Uber",
+      "category": "Transport",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Transport/Uber/Uber.png"
+    },
+    {
+      "name": "1Password",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/1Password/1Password.png"
+    },
+    {
+      "name": "AdGuard",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/AdGuard/AdGuard.png"
+    },
+    {
+      "name": "Adobe",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Adobe/Adobe.png"
+    },
+    {
+      "name": "MetaBrainz",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/MetaBrainz/MetaBrainz.png"
+    },
+    {
+      "name": "Notion",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Notion/Notion.png"
+    },
+    {
+      "name": "Obsidian",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Obsidian/Obsidian.png"
+    },
+    {
+      "name": "Speedtest",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Speedtest/Speedtest.png"
+    },
+    {
+      "name": "Wikipedia",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Wikipedia/Wikipedia.png"
+    },
+    {
+      "name": "Zoom",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Utilities/Zoom/Zoom.png"
+    },
+    {
+      "name": "HBOMax",
+      "category": "WarnerBrosDiscovery",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/WarnerBrosDiscovery/HBOMax/HBOMax.png"
+    },
+    {
+      "name": "WarnerBrosDiscovery",
+      "category": "WarnerBrosDiscovery",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/WarnerBrosDiscovery/WarnerBrosDiscovery/WarnerBrosDiscovery.png"
+    },
+    {
+      "name": "discoveryPlus",
+      "category": "WarnerBrosDiscovery",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/WarnerBrosDiscovery/discoveryPlus/discoveryPlus.png"
+    }
+  ]
+}

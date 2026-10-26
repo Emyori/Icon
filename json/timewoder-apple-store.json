@@ -1,0 +1,26 @@
+{
+  "name": "timewoder apple store",
+  "description": "timewoder apple store icons",
+  "icons": [
+    {
+      "name": "1Panel",
+      "url": "https://raw.githubusercontent.com/timewoder/Script-rule-icon/main/icon/apple%20store/1Panel.png"
+    },
+    {
+      "name": "Bitwarden-2",
+      "url": "https://raw.githubusercontent.com/timewoder/Script-rule-icon/main/icon/apple%20store/Bitwarden-2.png"
+    },
+    {
+      "name": "Bitwarden",
+      "url": "https://raw.githubusercontent.com/timewoder/Script-rule-icon/main/icon/apple%20store/Bitwarden.png"
+    },
+    {
+      "name": "Cubox-2",
+      "url": "https://raw.githubusercontent.com/timewoder/Script-rule-icon/main/icon/apple%20store/Cubox-2.png"
+    },
+    {
+      "name": "Cubox",
+      "url": "https://raw.githubusercontent.com/timewoder/Script-rule-icon/main/icon/apple%20store/Cubox.png"
+    }
+  ]
+}

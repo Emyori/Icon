@@ -1,0 +1,138 @@
+{
+  "name": "zwjtano-emby",
+  "description": "Emby 服务器品牌水彩透明 PNG 图标；名称统一以 Emby 开头，支持中英文搜索。包含已标注的历史品牌，收录不代表可用性或推荐。",
+  "icons": [
+    {
+      "name": "Emby 垃圾影音 1111 Loser",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26"
+    },
+    {
+      "name": "Emby AlphaTV 海外服 Alpha",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175"
+    },
+    {
+      "name": "Emby 结束乐队 結束Band Bocchi AIVBI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3"
+    },
+    {
+      "name": "Emby CC 公益 CcEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-cc.png?v=cb4a6207382f"
+    },
+    {
+      "name": "Emby 吹大牛 飞跃 飛躍 ChuiDaNiu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-chuidaniu.png?v=3ad4ba5d43f9"
+    },
+    {
+      "name": "Emby 飞跃彩虹 飛躍彩虹 Feiyue NEXT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-feiyue.png?v=b01e5d8e0af6"
+    },
+    {
+      "name": "Emby 鸢尾 鳶尾 Iris",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-iris.png?v=4f7d147f1d29"
+    },
+    {
+      "name": "Emby 惊蛰 驚蟄 Jingzhe JINGZHEPRO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jingzhe.png?v=382fcfaa6308"
+    },
+    {
+      "name": "Emby 见手青 見手青 JianShouQing",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jsq.png?v=ea9c8cb63977"
+    },
+    {
+      "name": "Emby Lemby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lemby.png?v=d8fb0e058314"
+    },
+    {
+      "name": "Emby Lily 百合",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lily.png?v=1687ed2fb566"
+    },
+    {
+      "name": "Emby 临境 臨境 Liminal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-liminal.png?v=dc7a38e20911"
+    },
+    {
+      "name": "Emby 享境 Luxrealm",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-luxrealm.png?v=bf9492f46659"
+    },
+    {
+      "name": "Emby 喜鹊 喜鵲 Magpie",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-magpie.png?v=b99c0997873a"
+    },
+    {
+      "name": "Emby MICU Cloud Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-micu.png?v=3344092f7ad0"
+    },
+    {
+      "name": "Emby Misty 历史品牌 歷史品牌 UHD",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-misty.png?v=33e89bee53fb"
+    },
+    {
+      "name": "Emby 蘑菇 Mooguu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-mooguu.png?v=c7da48b7e9fa"
+    },
+    {
+      "name": "Emby 墨云阁 墨雲閣 MoYunGe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-moyunge.png?v=c68efa635430"
+    },
+    {
+      "name": "Emby 天南小筑 天南小築 Nanflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nanflix.png?v=99ac460f2a45"
+    },
+    {
+      "name": "Emby 星云 星雲 Nebula Media",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nebula.png?v=162c010e4366"
+    },
+    {
+      "name": "Emby 二次元 Nijigen",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nijigen.png?v=b48440f6c232"
+    },
+    {
+      "name": "Emby Nya Media Nyamedia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nyamedia.png?v=82c0c76d3a05"
+    },
+    {
+      "name": "Emby 奥德赛 奧德賽 Odyssey+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-odyssey.png?v=c1788b50ea0b"
+    },
+    {
+      "name": "Emby 纸片人 紙片人 EmbyPlus Paper",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-paper.png?v=971df2ae45f0"
+    },
+    {
+      "name": "Emby 桃子 Peach",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-peach.png?v=e95253bc2605"
+    },
+    {
+      "name": "Emby 起点站 起點站 Qidian",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-qidian.png?v=eed85c54e7b4"
+    },
+    {
+      "name": "Emby 萝卜 蘿蔔 Robo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-robo.png?v=b641efc77fc5"
+    },
+    {
+      "name": "Emby SaturDay Lite 星期六",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-saturday.png?v=0d2d2bbb48d6"
+    },
+    {
+      "name": "Emby SNTP 守候影院 Media Lite",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-sntp.png?v=5110e1be9fa2"
+    },
+    {
+      "name": "Emby 星烁 星爍 StarSho",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-starsho.png?v=c43adb23048f"
+    },
+    {
+      "name": "Emby 终点站 終點站 Terminus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972"
+    },
+    {
+      "name": "Emby UHD UHDNOW Next Media Server",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79"
+    },
+    {
+      "name": "Emby YounoPlus Youno YounoEmby",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf"
+    }
+  ]
+}

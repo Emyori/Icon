@@ -1,0 +1,2247 @@
+{
+  "brands": [
+    {
+      "id": "Anthropic",
+      "display_name": "Anthropic",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Anthropic/Anthropic.png"
+    },
+    {
+      "id": "DeepSeek",
+      "display_name": "DeepSeek",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/DeepSeek/DeepSeek.png"
+    },
+    {
+      "id": "Doubao",
+      "display_name": "豆包",
+      "category": "ByteDance",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ByteDance/Doubao/Doubao.png",
+      "parent_brand": "ByteDance"
+    },
+    {
+      "id": "GLM",
+      "display_name": "GLM",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/GLM/GLM.png",
+      "parent_brand": "ZhipuAI"
+    },
+    {
+      "id": "Grok",
+      "display_name": "Grok",
+      "category": "SpaceXAI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SpaceXAI/xAI/Grok/Grok.png",
+      "parent_brand": "xAI"
+    },
+    {
+      "id": "Kimi",
+      "display_name": "Kimi",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Kimi/Kimi.png",
+      "parent_brand": "MoonshotAI"
+    },
+    {
+      "id": "Manus",
+      "display_name": "Manus",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Manus/Manus.png",
+      "parent_brand": "ButterflyEffect"
+    },
+    {
+      "id": "MiniMax",
+      "display_name": "MiniMax",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/MiniMax/MiniMax.png"
+    },
+    {
+      "id": "Muse",
+      "display_name": "Muse",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Muse/Muse.png"
+    },
+    {
+      "id": "NousResearch",
+      "display_name": "Nous Research",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/NousResearch/NousResearch.png"
+    },
+    {
+      "id": "OpenAI",
+      "display_name": "OpenAI",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/OpenAI/OpenAI.png"
+    },
+    {
+      "id": "Perplexity",
+      "display_name": "Perplexity",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Perplexity/Perplexity.png"
+    },
+    {
+      "id": "Poe",
+      "display_name": "Poe",
+      "category": "AI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/AI/Poe/Poe.png",
+      "parent_brand": "Quora"
+    },
+    {
+      "id": "AliPay",
+      "display_name": "支付宝",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/AliPay/AliPay.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "Alibaba",
+      "display_name": "Alibaba",
+      "category": "Alibaba",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Alibaba/Alibaba/Alibaba.png"
+    },
+    {
+      "id": "AlibabaCloud",
+      "display_name": "阿里云",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/AlibabaCloud/AlibabaCloud.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "AliyunDrive",
+      "display_name": "阿里云盘",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/AliyunDrive/AliyunDrive.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "Qwen",
+      "display_name": "通义千问",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/Qwen/Qwen.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "Taobao",
+      "display_name": "淘宝",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/Taobao/Taobao.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "TaobaoShangou",
+      "display_name": "淘宝闪购",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/Taobao/TaobaoShangou/TaobaoShangou.png",
+      "parent_brand": "Taobao"
+    },
+    {
+      "id": "AWS",
+      "display_name": "AWS",
+      "category": "Amazon",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Amazon/AWS/AWS.png",
+      "parent_brand": "Amazon"
+    },
+    {
+      "id": "Amazon",
+      "display_name": "Amazon",
+      "category": "Amazon",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Amazon/Amazon/Amazon.png"
+    },
+    {
+      "id": "AmazonAlexa",
+      "display_name": "Amazon Alexa",
+      "category": "Amazon",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Amazon/AmazonAlexa/AmazonAlexa.png",
+      "parent_brand": "Amazon"
+    },
+    {
+      "id": "AmazonMusic",
+      "display_name": "Amazon Music",
+      "category": "Amazon",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Amazon/AmazonMusic/AmazonMusic.png",
+      "parent_brand": "Amazon"
+    },
+    {
+      "id": "PrimeVideo",
+      "display_name": "Prime Video",
+      "category": "Amazon",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Amazon/PrimeVideo/PrimeVideo.png",
+      "parent_brand": "Amazon"
+    },
+    {
+      "id": "Twitch",
+      "display_name": "Twitch",
+      "category": "Amazon",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Amazon/Twitch/Twitch.png",
+      "parent_brand": "Amazon"
+    },
+    {
+      "id": "AppStore",
+      "display_name": "App Store",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppStore/AppStore.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "Apple",
+      "display_name": "Apple",
+      "category": "Apple",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Apple/Apple/Apple.png"
+    },
+    {
+      "id": "AppleArcade",
+      "display_name": "Apple Arcade",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleArcade/AppleArcade.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "AppleBooks",
+      "display_name": "Apple Books",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleBooks/AppleBooks.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "AppleFitnessPlus",
+      "display_name": "Apple Fitness+",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleFitnessPlus/AppleFitnessPlus.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "AppleMusic",
+      "display_name": "Apple Music",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleMusic/AppleMusic.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "AppleNewsPlus",
+      "display_name": "Apple News+",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleNewsPlus/AppleNewsPlus.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "AppleTV",
+      "display_name": "Apple TV",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/AppleTV/AppleTV.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "SiriAI",
+      "display_name": "Siri AI",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/SiriAI/SiriAI.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "TestFlight",
+      "display_name": "TestFlight",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/TestFlight/TestFlight.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "iCloud",
+      "display_name": "iCloud",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/iCloud/iCloud.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "iCloudPrivateRelay",
+      "display_name": "iCloud Private Relay",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/iCloud/iCloudPrivateRelay/iCloudPrivateRelay.png",
+      "parent_brand": "iCloud"
+    },
+    {
+      "id": "Cloudflare",
+      "display_name": "Cloudflare",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/Cloudflare/Cloudflare.png"
+    },
+    {
+      "id": "Docker",
+      "display_name": "Docker",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/Docker/Docker.png"
+    },
+    {
+      "id": "MikroTik",
+      "display_name": "MikroTik",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/MikroTik/MikroTik.png"
+    },
+    {
+      "id": "OpenWrt",
+      "display_name": "OpenWrt",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/OpenWrt/OpenWrt.png"
+    },
+    {
+      "id": "Oracle",
+      "display_name": "Oracle",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/Oracle/Oracle.png"
+    },
+    {
+      "id": "Synology",
+      "display_name": "Synology",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/Synology/Synology.png"
+    },
+    {
+      "id": "Proxmox",
+      "display_name": "Proxmox",
+      "category": "Infrastructure",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Infrastructure/Proxmox/Proxmox.png"
+    },
+    {
+      "id": "115",
+      "display_name": "115",
+      "category": "CloudStorage",
+      "entity_type": "product_brand",
+      "icon_path": "icons/CloudStorage/115/115.png"
+    },
+    {
+      "id": "123",
+      "display_name": "123",
+      "category": "CloudStorage",
+      "entity_type": "product_brand",
+      "icon_path": "icons/CloudStorage/123/123.png"
+    },
+    {
+      "id": "189",
+      "display_name": "189",
+      "category": "CloudStorage",
+      "entity_type": "product_brand",
+      "icon_path": "icons/CloudStorage/189/189.png",
+      "parent_brand": "ChinaTelecom"
+    },
+    {
+      "id": "BaiduNetdisk",
+      "display_name": "百度网盘",
+      "category": "Baidu",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Baidu/BaiduNetdisk/BaiduNetdisk.png",
+      "parent_brand": "Baidu"
+    },
+    {
+      "id": "ChinaMobileCloudDrive",
+      "display_name": "中国移动云盘",
+      "category": "ChinaMobile",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ChinaMobile/ChinaMobileCloudDrive/ChinaMobileCloudDrive.png",
+      "parent_brand": "ChinaMobile"
+    },
+    {
+      "id": "Dropbox",
+      "display_name": "Dropbox",
+      "category": "CloudStorage",
+      "entity_type": "product_brand",
+      "icon_path": "icons/CloudStorage/Dropbox/Dropbox.png"
+    },
+    {
+      "id": "PikPak",
+      "display_name": "PikPak",
+      "category": "CloudStorage",
+      "entity_type": "product_brand",
+      "icon_path": "icons/CloudStorage/PikPak/PikPak.png"
+    },
+    {
+      "id": "Quark",
+      "display_name": "夸克",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/Quark/Quark.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "DingTalk",
+      "display_name": "钉钉",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/DingTalk/DingTalk.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "Discord",
+      "display_name": "Discord",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/Discord/Discord.png"
+    },
+    {
+      "id": "KakaoTalk",
+      "display_name": "KakaoTalk",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/KakaoTalk/KakaoTalk.png",
+      "parent_brand": "Kakao"
+    },
+    {
+      "id": "LINE",
+      "display_name": "LINE",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/LINE/LINE.png"
+    },
+    {
+      "id": "Lark",
+      "display_name": "飞书",
+      "category": "ByteDance",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ByteDance/Lark/Lark.png",
+      "parent_brand": "ByteDance"
+    },
+    {
+      "id": "Messenger",
+      "display_name": "Messenger",
+      "category": "Meta",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Meta/Facebook/Messenger/Messenger.png",
+      "parent_brand": "Facebook"
+    },
+    {
+      "id": "NetEaseMail",
+      "display_name": "网易邮箱",
+      "category": "NetEase",
+      "entity_type": "product_brand",
+      "icon_path": "icons/NetEase/NetEaseMail/NetEaseMail.png",
+      "parent_brand": "NetEase"
+    },
+    {
+      "id": "Skype",
+      "display_name": "Skype",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/Skype/Skype.png"
+    },
+    {
+      "id": "Snapchat",
+      "display_name": "Snapchat",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/Snapchat/Snapchat.png",
+      "parent_brand": "Snap"
+    },
+    {
+      "id": "Telegram",
+      "display_name": "Telegram",
+      "category": "Communication",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Communication/Telegram/Telegram.png"
+    },
+    {
+      "id": "WhatsApp",
+      "display_name": "WhatsApp",
+      "category": "Meta",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Meta/Facebook/WhatsApp/WhatsApp.png",
+      "parent_brand": "Facebook"
+    },
+    {
+      "id": "Argentina",
+      "display_name": "阿根廷",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Argentina/Argentina.png"
+    },
+    {
+      "id": "Australia",
+      "display_name": "澳大利亚",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Australia/Australia.png"
+    },
+    {
+      "id": "CN-Taiwan",
+      "display_name": "中国台湾",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/CN-Taiwan/CN-Taiwan.png"
+    },
+    {
+      "id": "Canada",
+      "display_name": "加拿大",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Canada/Canada.png"
+    },
+    {
+      "id": "China",
+      "display_name": "中国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/China/China.png"
+    },
+    {
+      "id": "Egypt",
+      "display_name": "埃及",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Egypt/Egypt.png"
+    },
+    {
+      "id": "Germany",
+      "display_name": "德国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Germany/Germany.png"
+    },
+    {
+      "id": "HongKong",
+      "display_name": "香港",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/HongKong/HongKong.png"
+    },
+    {
+      "id": "India",
+      "display_name": "印度",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/India/India.png"
+    },
+    {
+      "id": "Japan",
+      "display_name": "日本",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Japan/Japan.png"
+    },
+    {
+      "id": "Korea",
+      "display_name": "韩国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Korea/Korea.png"
+    },
+    {
+      "id": "Netherlands",
+      "display_name": "荷兰",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Netherlands/Netherlands.png"
+    },
+    {
+      "id": "Nigeria",
+      "display_name": "尼日利亚",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Nigeria/Nigeria.png"
+    },
+    {
+      "id": "NorthKorea",
+      "display_name": "朝鲜",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/NorthKorea/NorthKorea.png"
+    },
+    {
+      "id": "Poland",
+      "display_name": "波兰",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Poland/Poland.png"
+    },
+    {
+      "id": "Singapore",
+      "display_name": "新加坡",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Singapore/Singapore.png"
+    },
+    {
+      "id": "Spain",
+      "display_name": "西班牙",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Spain/Spain.png"
+    },
+    {
+      "id": "Thailand",
+      "display_name": "泰国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Thailand/Thailand.png"
+    },
+    {
+      "id": "Turkey",
+      "display_name": "土耳其",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/Turkey/Turkey.png"
+    },
+    {
+      "id": "UK",
+      "display_name": "英国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/UK/UK.png"
+    },
+    {
+      "id": "US",
+      "display_name": "美国",
+      "category": "Country",
+      "entity_type": "country",
+      "icon_path": "icons/Country/US/US.png"
+    },
+    {
+      "id": "Cryptocurrency",
+      "display_name": "Cryptocurrency",
+      "category": "Crypto",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Crypto/Cryptocurrency/Cryptocurrency.png"
+    },
+    {
+      "id": "Adobe",
+      "display_name": "Adobe",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Adobe/Adobe.png"
+    },
+    {
+      "id": "Cursor",
+      "display_name": "Cursor",
+      "category": "Development",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Development/Cursor/Cursor.png"
+    },
+    {
+      "id": "GitHub",
+      "display_name": "GitHub",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/GitHub/GitHub.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Duolingo",
+      "display_name": "Duolingo",
+      "category": "Education",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Education/Duolingo/Duolingo.png"
+    },
+    {
+      "id": "Z-Library",
+      "display_name": "Z-Library",
+      "category": "Education",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Education/Z-Library/Z-Library.png"
+    },
+    {
+      "id": "EpicGames",
+      "display_name": "Epic Games",
+      "category": "Game",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Game/EpicGames/EpicGames.png"
+    },
+    {
+      "id": "Nintendo",
+      "display_name": "Nintendo",
+      "category": "Game",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Game/Nintendo/Nintendo.png"
+    },
+    {
+      "id": "RockstarGames",
+      "display_name": "Rockstar Games",
+      "category": "Game",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Game/RockstarGames/RockstarGames.png",
+      "parent_brand": "TakeTwo"
+    },
+    {
+      "id": "Ubisoft",
+      "display_name": "Ubisoft",
+      "category": "Game",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Game/Ubisoft/Ubisoft.png"
+    },
+    {
+      "id": "PlayStation",
+      "display_name": "PlayStation",
+      "category": "SONY",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SONY/PlayStation/PlayStation.png",
+      "parent_brand": "SONY"
+    },
+    {
+      "id": "Steam",
+      "display_name": "Steam",
+      "category": "Game",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Game/Steam/Steam.png",
+      "parent_brand": "Valve"
+    },
+    {
+      "id": "Gmail",
+      "display_name": "Gmail",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/Gmail/Gmail.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "Google",
+      "display_name": "Google",
+      "category": "Google",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Google/Google/Google.png"
+    },
+    {
+      "id": "GoogleAI",
+      "display_name": "Google AI",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleAI/GoogleAI.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GoogleDrive",
+      "display_name": "Google Drive",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleDrive/GoogleDrive.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GoogleMaps",
+      "display_name": "Google Maps",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleMaps/GoogleMaps.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GoogleNews",
+      "display_name": "Google News",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleNews/GoogleNews.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GooglePhotos",
+      "display_name": "Google Photos",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GooglePhotos/GooglePhotos.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GooglePlay",
+      "display_name": "Google Play",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GooglePlay/GooglePlay.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GoogleTranslate",
+      "display_name": "Google Translate",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleTranslate/GoogleTranslate.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "GoogleVoice",
+      "display_name": "Google Voice",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/GoogleVoice/GoogleVoice.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "YouTube",
+      "display_name": "YouTube",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/YouTube/YouTube.png",
+      "parent_brand": "Google"
+    },
+    {
+      "id": "YouTubeMusic",
+      "display_name": "YouTube Music",
+      "category": "Google",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Google/YouTube/YouTubeMusic/YouTubeMusic.png",
+      "parent_brand": "YouTube"
+    },
+    {
+      "id": "DJI",
+      "display_name": "大疆创新",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/DJI/DJI.png"
+    },
+    {
+      "id": "Honor",
+      "display_name": "荣耀",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/Honor/Honor.png"
+    },
+    {
+      "id": "Huawei",
+      "display_name": "华为",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/Huawei/Huawei.png"
+    },
+    {
+      "id": "LG",
+      "display_name": "LG",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/LG/LG.png"
+    },
+    {
+      "id": "OPPO",
+      "display_name": "OPPO",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/OPPO/OPPO.png"
+    },
+    {
+      "id": "SONY",
+      "display_name": "索尼",
+      "category": "SONY",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/SONY/SONY/SONY.png"
+    },
+    {
+      "id": "Samsung",
+      "display_name": "三星",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/Samsung/Samsung.png"
+    },
+    {
+      "id": "Xiaomi",
+      "display_name": "小米",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/Xiaomi/Xiaomi.png"
+    },
+    {
+      "id": "vivo",
+      "display_name": "vivo",
+      "category": "Hardware",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Hardware/vivo/vivo.png"
+    },
+    {
+      "id": "Keep",
+      "display_name": "Keep",
+      "category": "Health",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Health/Keep/Keep.png"
+    },
+    {
+      "id": "Aqara",
+      "display_name": "Aqara",
+      "category": "Home",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Home/Aqara/Aqara.png"
+    },
+    {
+      "id": "Mijia",
+      "display_name": "米家",
+      "category": "Home",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Home/Mijia/Mijia.png",
+      "parent_brand": "Xiaomi"
+    },
+    {
+      "id": "ABEMA",
+      "display_name": "ABEMA",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/ABEMA/ABEMA.png"
+    },
+    {
+      "id": "AMC",
+      "display_name": "AMC",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/AMC/AMC.png"
+    },
+    {
+      "id": "BBC",
+      "display_name": "BBC",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/BBC/BBC.png"
+    },
+    {
+      "id": "Bahamut",
+      "display_name": "Bahamut",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Bahamut/Bahamut.png"
+    },
+    {
+      "id": "Bangumi",
+      "display_name": "Bangumi",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Bangumi/Bangumi.png"
+    },
+    {
+      "id": "CATCHPLAYPlus",
+      "display_name": "CATCHPLAY+",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/CATCHPLAYPlus/CATCHPLAYPlus.png"
+    },
+    {
+      "id": "Crunchyroll",
+      "display_name": "Crunchyroll",
+      "category": "SONY",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SONY/Crunchyroll/Crunchyroll.png",
+      "parent_brand": "SONY"
+    },
+    {
+      "id": "DAZN",
+      "display_name": "DAZN",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/DAZN/DAZN.png"
+    },
+    {
+      "id": "DMMTV",
+      "display_name": "DMM TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/DMMTV/DMMTV.png",
+      "parent_brand": "DMM"
+    },
+    {
+      "id": "DisneyPlus",
+      "display_name": "Disney+",
+      "category": "Disney",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Disney/DisneyPlus/DisneyPlus.png",
+      "parent_brand": "Disney"
+    },
+    {
+      "id": "ESPN",
+      "display_name": "ESPN",
+      "category": "Disney",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Disney/ESPN/ESPN.png",
+      "parent_brand": "Disney"
+    },
+    {
+      "id": "Emby",
+      "display_name": "Emby",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Emby/Emby.png"
+    },
+    {
+      "id": "F1TV",
+      "display_name": "F1 TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/F1TV/F1TV.png",
+      "parent_brand": "LibertyMedia"
+    },
+    {
+      "id": "Fan",
+      "display_name": "Fan",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Fan/Fan.png"
+    },
+    {
+      "id": "Fileball",
+      "display_name": "Fileball",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Fileball/Fileball.png"
+    },
+    {
+      "id": "FujiTV",
+      "display_name": "Fuji TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/FujiTV/FujiTV.png"
+    },
+    {
+      "id": "HBOMax",
+      "display_name": "HBO Max",
+      "category": "WarnerBrosDiscovery",
+      "entity_type": "product_brand",
+      "icon_path": "icons/WarnerBrosDiscovery/HBOMax/HBOMax.png",
+      "parent_brand": "WarnerBrosDiscovery"
+    },
+    {
+      "id": "HOYTV",
+      "display_name": "HOY TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/HOYTV/HOYTV.png",
+      "parent_brand": "iCABLE"
+    },
+    {
+      "id": "HamiVideo",
+      "display_name": "Hami Video",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/HamiVideo/HamiVideo.png",
+      "parent_brand": "ChunghwaTelecom"
+    },
+    {
+      "id": "Hanxiaoquan",
+      "display_name": "韩小圈",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Hanxiaoquan/Hanxiaoquan.png"
+    },
+    {
+      "id": "Hulu",
+      "display_name": "Hulu",
+      "category": "Disney",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Disney/Hulu/Hulu.png",
+      "parent_brand": "Disney"
+    },
+    {
+      "id": "Infuse",
+      "display_name": "Infuse",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Infuse/Infuse.png"
+    },
+    {
+      "id": "Jellyfin",
+      "display_name": "Jellyfin",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Jellyfin/Jellyfin.png"
+    },
+    {
+      "id": "JioHotstar",
+      "display_name": "JioHotstar",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/JioHotstar/JioHotstar.png"
+    },
+    {
+      "id": "KKTV",
+      "display_name": "KKTV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/KKTV/KKTV.png"
+    },
+    {
+      "id": "KaraokeDAM",
+      "display_name": "Karaoke@DAM",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/KaraokeDAM/KaraokeDAM.png",
+      "parent_brand": "Daiichikosho"
+    },
+    {
+      "id": "LINETV",
+      "display_name": "LINE TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/LINETV/LINETV.png"
+    },
+    {
+      "id": "Lemino",
+      "display_name": "Lemino",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Lemino/Lemino.png"
+    },
+    {
+      "id": "LiTV",
+      "display_name": "LiTV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/LiTV/LiTV.png"
+    },
+    {
+      "id": "MangoTV",
+      "display_name": "芒果TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/MangoTV/MangoTV.png",
+      "parent_brand": "MangoSuperMedia"
+    },
+    {
+      "id": "Migu",
+      "display_name": "咪咕",
+      "category": "ChinaMobile",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ChinaMobile/Migu/Migu.png",
+      "parent_brand": "ChinaMobile"
+    },
+    {
+      "id": "MyVideo",
+      "display_name": "MyVideo",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/MyVideo/MyVideo.png",
+      "parent_brand": "TaiwanMobile"
+    },
+    {
+      "id": "NBA",
+      "display_name": "NBA",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/NBA/NBA.png"
+    },
+    {
+      "id": "NBC",
+      "display_name": "NBC",
+      "category": "NBCUniversal",
+      "entity_type": "product_brand",
+      "icon_path": "icons/NBCUniversal/NBC/NBC.png",
+      "parent_brand": "NBCUniversal"
+    },
+    {
+      "id": "NHK",
+      "display_name": "NHK",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/NHK/NHK.png"
+    },
+    {
+      "id": "NetEase",
+      "display_name": "网易",
+      "category": "NetEase",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/NetEase/NetEase/NetEase.png"
+    },
+    {
+      "id": "Netflix",
+      "display_name": "Netflix",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Netflix/Netflix.png"
+    },
+    {
+      "id": "Niconico",
+      "display_name": "Niconico",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Niconico/Niconico.png",
+      "parent_brand": "Kadokawa"
+    },
+    {
+      "id": "NowE",
+      "display_name": "Now E",
+      "category": "PCCW",
+      "entity_type": "product_brand",
+      "icon_path": "icons/PCCW/NowE/NowE.png",
+      "parent_brand": "PCCW"
+    },
+    {
+      "id": "ParamountPlus",
+      "display_name": "Paramount+",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/ParamountPlus/ParamountPlus.png",
+      "parent_brand": "Paramount"
+    },
+    {
+      "id": "Peacock",
+      "display_name": "Peacock",
+      "category": "NBCUniversal",
+      "entity_type": "product_brand",
+      "icon_path": "icons/NBCUniversal/Peacock/Peacock.png",
+      "parent_brand": "NBCUniversal"
+    },
+    {
+      "id": "Plex",
+      "display_name": "Plex",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Plex/Plex.png"
+    },
+    {
+      "id": "ApplePodcasts",
+      "display_name": "Apple Podcasts",
+      "category": "Apple",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Apple/ApplePodcasts/ApplePodcasts.png",
+      "parent_brand": "Apple"
+    },
+    {
+      "id": "Radiko",
+      "display_name": "Radiko",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Radiko/Radiko.png"
+    },
+    {
+      "id": "RakutenTV",
+      "display_name": "Rakuten TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/RakutenTV/RakutenTV.png",
+      "parent_brand": "Rakuten"
+    },
+    {
+      "id": "ReadJapan",
+      "display_name": "Read Japan",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/ReadJapan/ReadJapan.png"
+    },
+    {
+      "id": "RedBullTV",
+      "display_name": "Red Bull TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/RedBullTV/RedBullTV.png",
+      "parent_brand": "RedBull"
+    },
+    {
+      "id": "SOOP",
+      "display_name": "SOOP",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/SOOP/SOOP.png"
+    },
+    {
+      "id": "STARZ",
+      "display_name": "STARZ",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/STARZ/STARZ.png"
+    },
+    {
+      "id": "SlingTV",
+      "display_name": "Sling TV",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/SlingTV/SlingTV.png",
+      "parent_brand": "EchoStar"
+    },
+    {
+      "id": "StarPlus",
+      "display_name": "StarPlus",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/StarPlus/StarPlus.png"
+    },
+    {
+      "id": "TELASA",
+      "display_name": "TELASA",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/TELASA/TELASA.png"
+    },
+    {
+      "id": "TMDB",
+      "display_name": "TMDB",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/TMDB/TMDB.png",
+      "parent_brand": "Xperi"
+    },
+    {
+      "id": "TVB",
+      "display_name": "TVB",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/TVB/TVB.png"
+    },
+    {
+      "id": "TVer",
+      "display_name": "TVer",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/TVer/TVer.png"
+    },
+    {
+      "id": "Tubi",
+      "display_name": "Tubi",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Tubi/Tubi.png",
+      "parent_brand": "Fox"
+    },
+    {
+      "id": "UNEXT",
+      "display_name": "U-NEXT",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/UNEXT/UNEXT.png",
+      "parent_brand": "UNEXTHoldings"
+    },
+    {
+      "id": "VideoMarket",
+      "display_name": "Video Market",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/VideoMarket/VideoMarket.png",
+      "parent_brand": "PLAY"
+    },
+    {
+      "id": "Vimeo",
+      "display_name": "Vimeo",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Vimeo/Vimeo.png"
+    },
+    {
+      "id": "Viu",
+      "display_name": "Viu",
+      "category": "PCCW",
+      "entity_type": "product_brand",
+      "icon_path": "icons/PCCW/Viu/Viu.png",
+      "parent_brand": "PCCW"
+    },
+    {
+      "id": "WOWOW",
+      "display_name": "WOWOW",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/WOWOW/WOWOW.png"
+    },
+    {
+      "id": "Wallpaper",
+      "display_name": "Wallpaper",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Wallpaper/Wallpaper.png"
+    },
+    {
+      "id": "Youku",
+      "display_name": "优酷",
+      "category": "Alibaba",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Alibaba/Youku/Youku.png",
+      "parent_brand": "Alibaba"
+    },
+    {
+      "id": "bilibili",
+      "display_name": "bilibili",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/bilibili/bilibili.png"
+    },
+    {
+      "id": "dAnimeStore",
+      "display_name": "d Anime Store",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/dAnimeStore/dAnimeStore.png",
+      "parent_brand": "NTTDocomo"
+    },
+    {
+      "id": "discoveryPlus",
+      "display_name": "discovery+",
+      "category": "WarnerBrosDiscovery",
+      "entity_type": "product_brand",
+      "icon_path": "icons/WarnerBrosDiscovery/discoveryPlus/discoveryPlus.png",
+      "parent_brand": "WarnerBrosDiscovery"
+    },
+    {
+      "id": "friDayVideo",
+      "display_name": "friDay影音",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/friDayVideo/friDayVideo.png",
+      "parent_brand": "FarEasTone"
+    },
+    {
+      "id": "iQIYI",
+      "display_name": "爱奇艺",
+      "category": "Baidu",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Baidu/iQIYI/iQIYI.png",
+      "parent_brand": "Baidu"
+    },
+    {
+      "id": "myTVSUPER",
+      "display_name": "myTV SUPER",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/myTVSUPER/myTVSUPER.png",
+      "parent_brand": "TVB"
+    },
+    {
+      "id": "Xiaoyuzhou",
+      "display_name": "小宇宙",
+      "category": "Media",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Media/Xiaoyuzhou/Xiaoyuzhou.png"
+    },
+    {
+      "id": "Azure",
+      "display_name": "Azure",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/Azure/Azure.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Bing",
+      "display_name": "Bing",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/Bing/Bing.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Copilot",
+      "display_name": "Copilot",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/Copilot/Copilot.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Microsoft",
+      "display_name": "Microsoft",
+      "category": "Microsoft",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Microsoft/Microsoft/Microsoft.png"
+    },
+    {
+      "id": "MicrosoftStore",
+      "display_name": "Microsoft Store",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/MicrosoftStore/MicrosoftStore.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "OneDrive",
+      "display_name": "OneDrive",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/OneDrive/OneDrive.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Outlook",
+      "display_name": "Outlook",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/Outlook/Outlook.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Xbox",
+      "display_name": "Xbox",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/Xbox/Xbox.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Deezer",
+      "display_name": "Deezer",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/Deezer/Deezer.png"
+    },
+    {
+      "id": "KKBOX",
+      "display_name": "KKBOX",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/KKBOX/KKBOX.png",
+      "parent_brand": "KKCompany"
+    },
+    {
+      "id": "MusicBrainz",
+      "display_name": "MusicBrainz",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/MusicBrainz/MusicBrainz.png",
+      "parent_brand": "MetaBrainz"
+    },
+    {
+      "id": "MusicJapan",
+      "display_name": "Music Japan",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/MusicJapan/MusicJapan.png"
+    },
+    {
+      "id": "Musixmatch",
+      "display_name": "Musixmatch",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/Musixmatch/Musixmatch.png"
+    },
+    {
+      "id": "NetEaseCloudMusic",
+      "display_name": "网易云音乐",
+      "category": "NetEase",
+      "entity_type": "product_brand",
+      "icon_path": "icons/NetEase/NetEaseCloudMusic/NetEaseCloudMusic.png",
+      "parent_brand": "NetEase"
+    },
+    {
+      "id": "Pandora",
+      "display_name": "Pandora",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/Pandora/Pandora.png",
+      "parent_brand": "SiriusXM"
+    },
+    {
+      "id": "Qobuz",
+      "display_name": "Qobuz",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/Qobuz/Qobuz.png"
+    },
+    {
+      "id": "SoundCloud",
+      "display_name": "SoundCloud",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/SoundCloud/SoundCloud.png"
+    },
+    {
+      "id": "Spotify",
+      "display_name": "Spotify",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/Spotify/Spotify.png"
+    },
+    {
+      "id": "TIDAL",
+      "display_name": "TIDAL",
+      "category": "Music",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Music/TIDAL/TIDAL.png",
+      "parent_brand": "Block"
+    },
+    {
+      "id": "mora",
+      "display_name": "mora",
+      "category": "SONY",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SONY/mora/mora.png",
+      "parent_brand": "SONY"
+    },
+    {
+      "id": "WSJ",
+      "display_name": "WSJ",
+      "category": "News",
+      "entity_type": "product_brand",
+      "icon_path": "icons/News/WSJ/WSJ.png",
+      "parent_brand": "NewsCorp"
+    },
+    {
+      "id": "Binance",
+      "display_name": "Binance",
+      "category": "Payment",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Payment/Binance/Binance.png"
+    },
+    {
+      "id": "OKX",
+      "display_name": "OKX",
+      "category": "Payment",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Payment/OKX/OKX.png"
+    },
+    {
+      "id": "PayPal",
+      "display_name": "PayPal",
+      "category": "Payment",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Payment/PayPal/PayPal.png"
+    },
+    {
+      "id": "SWIFT",
+      "display_name": "SWIFT",
+      "category": "Payment",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Payment/SWIFT/SWIFT.png"
+    },
+    {
+      "id": "UnionPay",
+      "display_name": "银联",
+      "category": "Payment",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Payment/UnionPay/UnionPay.png"
+    },
+    {
+      "id": "BGP",
+      "display_name": "BGP",
+      "category": "Proxy",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Proxy/BGP/BGP.png"
+    },
+    {
+      "id": "GIA",
+      "display_name": "GIA",
+      "category": "Proxy",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Proxy/GIA/GIA.png"
+    },
+    {
+      "id": "IEPL",
+      "display_name": "IEPL",
+      "category": "Proxy",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Proxy/IEPL/IEPL.png"
+    },
+    {
+      "id": "IPLC",
+      "display_name": "IPLC",
+      "category": "Proxy",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Proxy/IPLC/IPLC.png"
+    },
+    {
+      "id": "BestBuy",
+      "display_name": "Best Buy",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/BestBuy/BestBuy.png"
+    },
+    {
+      "id": "JD",
+      "display_name": "京东",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/JD/JD.png"
+    },
+    {
+      "id": "Meituan",
+      "display_name": "美团",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/Meituan/Meituan.png"
+    },
+    {
+      "id": "MeituanFoodDelivery",
+      "display_name": "美团外卖",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/MeituanFoodDelivery/MeituanFoodDelivery.png",
+      "parent_brand": "Meituan"
+    },
+    {
+      "id": "Pinduoduo",
+      "display_name": "拼多多",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/Pinduoduo/Pinduoduo.png"
+    },
+    {
+      "id": "eBay",
+      "display_name": "eBay",
+      "category": "Shopping",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Shopping/eBay/eBay.png"
+    },
+    {
+      "id": "Bluesky",
+      "display_name": "Bluesky",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Bluesky/Bluesky.png"
+    },
+    {
+      "id": "ByteDance",
+      "display_name": "字节跳动",
+      "category": "ByteDance",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/ByteDance/ByteDance/ByteDance.png"
+    },
+    {
+      "id": "Douban",
+      "display_name": "豆瓣",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Douban/Douban.png"
+    },
+    {
+      "id": "Douyin",
+      "display_name": "抖音",
+      "category": "ByteDance",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ByteDance/Douyin/Douyin.png",
+      "parent_brand": "ByteDance"
+    },
+    {
+      "id": "Facebook",
+      "display_name": "Facebook",
+      "category": "Meta",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Meta/Facebook/Facebook.png",
+      "parent_brand": "Meta"
+    },
+    {
+      "id": "Instagram",
+      "display_name": "Instagram",
+      "category": "Meta",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Meta/Facebook/Instagram/Instagram.png",
+      "parent_brand": "Facebook"
+    },
+    {
+      "id": "Kwai",
+      "display_name": "快手",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Kwai/Kwai.png",
+      "parent_brand": "Kuaishou"
+    },
+    {
+      "id": "LinkedIn",
+      "display_name": "LinkedIn",
+      "category": "Microsoft",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Microsoft/LinkedIn/LinkedIn.png",
+      "parent_brand": "Microsoft"
+    },
+    {
+      "id": "Meta",
+      "display_name": "Meta",
+      "category": "Meta",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Meta/Meta/Meta.png"
+    },
+    {
+      "id": "Pinterest",
+      "display_name": "Pinterest",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Pinterest/Pinterest.png"
+    },
+    
+    {
+      "id": "Reddit",
+      "display_name": "Reddit",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Reddit/Reddit.png"
+    },
+    {
+      "id": "Threads",
+      "display_name": "Threads",
+      "category": "Meta",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Meta/Facebook/Threads/Threads.png",
+      "parent_brand": "Facebook"
+    },
+    {
+      "id": "Tieba",
+      "display_name": "百度贴吧",
+      "category": "Baidu",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Baidu/Tieba/Tieba.png",
+      "parent_brand": "Baidu"
+    },
+    {
+      "id": "TikTok",
+      "display_name": "TikTok",
+      "category": "ByteDance",
+      "entity_type": "product_brand",
+      "icon_path": "icons/ByteDance/TikTok/TikTok.png",
+      "parent_brand": "ByteDance"
+    },
+    {
+      "id": "Weibo",
+      "display_name": "微博",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Weibo/Weibo.png",
+      "parent_brand": "SINA"
+    },
+    {
+      "id": "X",
+      "display_name": "X",
+      "category": "SpaceXAI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SpaceXAI/X/X.png",
+      "parent_brand": "SpaceXAI"
+    },
+    {
+      "id": "xAI",
+      "display_name": "xAI",
+      "category": "SpaceXAI",
+      "entity_type": "product_brand",
+      "icon_path": "icons/SpaceXAI/xAI/xAI.png",
+      "parent_brand": "SpaceXAI"
+    },
+    {
+      "id": "Zhihu",
+      "display_name": "知乎",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/Zhihu/Zhihu.png"
+    },
+    {
+      "id": "pixiv",
+      "display_name": "pixiv",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/pixiv/pixiv.png"
+    },
+    {
+      "id": "rednote",
+      "display_name": "小红书",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/rednote/rednote.png"
+    },
+    {
+      "id": "SINA",
+      "display_name": "新浪",
+      "category": "Social",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Social/SINA/SINA.png"
+    },
+    {
+      "id": "Surge",
+      "display_name": "Surge",
+      "category": "Surge",
+      "entity_type": "tool_app",
+      "icon_path": "icons/Surge/Surge/Surge.png"
+    },
+    {
+      "id": "AD",
+      "display_name": "AD",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/AD/AD.png"
+    },
+    {
+      "id": "Area",
+      "display_name": "Area",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Area/Area.png"
+    },
+    {
+      "id": "Auto",
+      "display_name": "Auto",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Auto/Auto.png"
+    },
+    {
+      "id": "Blacklist",
+      "display_name": "Blacklist",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Blacklist/Blacklist.png"
+    },
+    {
+      "id": "Bot",
+      "display_name": "Bot",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Bot/Bot.png"
+    },
+    {
+      "id": "Direct",
+      "display_name": "Direct",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Direct/Direct.png"
+    },
+    {
+      "id": "Final",
+      "display_name": "Final",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Final/Final.png"
+    },
+    {
+      "id": "Game",
+      "display_name": "Game",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Game/Game.png"
+    },
+    {
+      "id": "GeneralAI",
+      "display_name": "General AI",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/GeneralAI/GeneralAI.png"
+    },
+    {
+      "id": "Global",
+      "display_name": "Global",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Global/Global.png"
+    },
+    {
+      "id": "Lightning",
+      "display_name": "Lightning",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Lightning/Lightning.png"
+    },
+    {
+      "id": "Mail",
+      "display_name": "Mail",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Mail/Mail.png"
+    },
+    {
+      "id": "Play",
+      "display_name": "Play",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Play/Play.png"
+    },
+    {
+      "id": "Proxy",
+      "display_name": "Proxy",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Proxy/Proxy.png"
+    },
+    {
+      "id": "Reject",
+      "display_name": "Reject",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Reject/Reject.png"
+    },
+    {
+      "id": "SSID",
+      "display_name": "SSID",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/SSID/SSID.png"
+    },
+    {
+      "id": "Search",
+      "display_name": "Search",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Search/Search.png"
+    },
+    {
+      "id": "Traffic",
+      "display_name": "Traffic",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Traffic/Traffic.png"
+    },
+    {
+      "id": "URL",
+      "display_name": "URL",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/URL/URL.png"
+    },
+    {
+      "id": "ChinaBroadnet",
+      "display_name": "ChinaBroadnet",
+      "category": "Telecom",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Telecom/ChinaBroadnet/ChinaBroadnet.png"
+    },
+    {
+      "id": "ChinaMobile",
+      "display_name": "ChinaMobile",
+      "category": "ChinaMobile",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/ChinaMobile/ChinaMobile/ChinaMobile.png"
+    },
+    {
+      "id": "ChinaTelecom",
+      "display_name": "ChinaTelecom",
+      "category": "Telecom",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Telecom/ChinaTelecom/ChinaTelecom.png"
+    },
+    {
+      "id": "ChinaUnicom",
+      "display_name": "ChinaUnicom",
+      "category": "Telecom",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Telecom/ChinaUnicom/ChinaUnicom.png"
+    },
+    {
+      "id": "QQ",
+      "display_name": "腾讯QQ",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/QQ/QQ.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "QQMail",
+      "display_name": "QQ邮箱",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/QQMail/QQMail.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "QQMusic",
+      "display_name": "QQ音乐",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/QQMusic/QQMusic.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "Tencent",
+      "display_name": "腾讯",
+      "category": "Tencent",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Tencent/Tencent/Tencent.png"
+    },
+    {
+      "id": "TencentCloud",
+      "display_name": "腾讯云",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/TencentCloud/TencentCloud.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "TencentVideo",
+      "display_name": "腾讯视频",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/TencentVideo/TencentVideo.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "WeChat",
+      "display_name": "微信",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/WeChat/WeChat.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "WeTV",
+      "display_name": "WeTV",
+      "category": "Tencent",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Tencent/WeTV/WeTV.png",
+      "parent_brand": "Tencent"
+    },
+    {
+      "id": "Airport",
+      "display_name": "Airport",
+      "category": "System",
+      "entity_type": "system_icon",
+      "icon_path": "icons/System/Airport/Airport.png"
+    },
+    {
+      "id": "DiDi",
+      "display_name": "滴滴",
+      "category": "Transport",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Transport/DiDi/DiDi.png"
+    },
+    {
+      "id": "SF-Express",
+      "display_name": "SF-Express",
+      "category": "Transport",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Transport/SF-Express/SF-Express.png"
+    },
+    {
+      "id": "Uber",
+      "display_name": "Uber",
+      "category": "Transport",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Transport/Uber/Uber.png"
+    },
+    {
+      "id": "1Password",
+      "display_name": "1Password",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/1Password/1Password.png"
+    },
+    {
+      "id": "AdGuard",
+      "display_name": "AdGuard",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/AdGuard/AdGuard.png"
+    },
+    {
+      "id": "Baidu",
+      "display_name": "百度",
+      "category": "Baidu",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Baidu/Baidu/Baidu.png"
+    },
+    {
+      "id": "MetaBrainz",
+      "display_name": "MetaBrainz",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/MetaBrainz/MetaBrainz.png"
+    },
+    {
+      "id": "Notion",
+      "display_name": "Notion",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Notion/Notion.png"
+    },
+    {
+      "id": "Obsidian",
+      "display_name": "Obsidian",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Obsidian/Obsidian.png"
+    },
+    {
+      "id": "Speedtest",
+      "display_name": "Speedtest",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Speedtest/Speedtest.png"
+    },
+    {
+      "id": "Wikipedia",
+      "display_name": "Wikipedia",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Wikipedia/Wikipedia.png"
+    },
+    {
+      "id": "Zoom",
+      "display_name": "Zoom",
+      "category": "Utilities",
+      "entity_type": "product_brand",
+      "icon_path": "icons/Utilities/Zoom/Zoom.png"
+    },
+    {
+      "id": "Disney",
+      "display_name": "Disney",
+      "category": "Disney",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/Disney/Disney/Disney.png"
+    },
+    {
+      "id": "NBCUniversal",
+      "display_name": "NBCUniversal",
+      "category": "NBCUniversal",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/NBCUniversal/NBCUniversal/NBCUniversal.png"
+    },
+    {
+      "id": "WarnerBrosDiscovery",
+      "display_name": "Warner Bros. Discovery",
+      "category": "WarnerBrosDiscovery",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/WarnerBrosDiscovery/WarnerBrosDiscovery/WarnerBrosDiscovery.png"
+    },
+    {
+      "id": "PCCW",
+      "display_name": "PCCW",
+      "category": "PCCW",
+      "entity_type": "ecosystem",
+      "icon_path": "icons/PCCW/PCCW/PCCW.png"
+    },
+    {
+      "id": "SpaceXAI",
+      "display_name": "SpaceXAI",
+      "category": "SpaceXAI",
+      "entity_type": "ecosystem",
+      "canonical": true,
+      "icon_path": "icons/SpaceXAI/SpaceXAI/SpaceXAI.png",
+      "icon_status": "official"
+    }
+  ],
+  "parent_brands_without_icon": [
+    "Block",
+    "ButterflyEffect",
+    "ChunghwaTelecom",
+    "Daiichikosho",
+    "DMM",
+    "EchoStar",
+    "FarEasTone",
+    "Fox",
+    "iCABLE",
+    "Kadokawa",
+    "Kakao",
+    "KKCompany",
+    "Kuaishou",
+    "LibertyMedia",
+    "MangoSuperMedia",
+    "MoonshotAI",
+    "NewsCorp",
+    "NTTDocomo",
+    "Paramount",
+    "PLAY",
+    "Quora",
+    "Rakuten",
+    "RedBull",
+    "SiriusXM",
+    "Snap",
+    "TaiwanMobile",
+    "TakeTwo",
+    "UNEXTHoldings",
+    "Valve",
+    "Xperi",
+    "ZhipuAI"
+  ]
+}

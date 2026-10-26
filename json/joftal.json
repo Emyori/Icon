@@ -1,0 +1,122 @@
+{
+  "name": "Joftal QuantumultX-Icon",
+  "description": "Joftal QX policy group icons",
+  "icons": [
+    {
+      "name": "ADGuard",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/ADGuard.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Apple.png"
+    },
+    {
+      "name": "Available",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Available.png"
+    },
+    {
+      "name": "Bahamut",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Bahamut.png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/EU.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Emby.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Final.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Google.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/HBO.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/HK.png"
+    },
+    {
+      "name": "Inbound",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Inbound.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/KR.png"
+    },
+    {
+      "name": "NeteaseMusic",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/NeteaseMusic.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Netflix.png"
+    },
+    {
+      "name": "Outbound",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Outbound.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/PayPal.png"
+    },
+    {
+      "name": "RoundRobin",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/RoundRobin.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/SG.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Speedtest.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Spotify.png"
+    },
+    {
+      "name": "Streaming",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Streaming.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/TW.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Telegram.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/TikTok.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Twitch.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/Twitter.png"
+    },
+    {
+      "name": "USA",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/USA.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/Joftal/QuantumultX-Icon/master/QX-Icon/YouTube.png"
+    }
+  ]
+}

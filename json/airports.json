@@ -1,0 +1,278 @@
+{
+  "name": "zwjtano-airports",
+  "description": "机场与代理工具图标合集，包含节点、分流、测速等常用策略图标，支持中英文名称搜索。",
+  "icons": [
+    {
+      "name": "机场组 · AgentNEO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
+    },
+    {
+      "name": "机场组 · Aladdin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2"
+    },
+    {
+      "name": "机场组 · 按摩院 AmyTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b"
+    },
+    {
+      "name": "机场组 · ARK",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef"
+    },
+    {
+      "name": "机场组 · ASH",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
+    },
+    {
+      "name": "机场组 · 白月光 ByWave",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f"
+    },
+    {
+      "name": "机场组 · 咖啡云 CoffeeCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96"
+    },
+    {
+      "name": "机场组 · 奶油 CreamData",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9"
+    },
+    {
+      "name": "机场组 · cyou 次元链接 CyLink Cylink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955"
+    },
+    {
+      "name": "机场组 · dagcloud 大哥云 DGY",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb"
+    },
+    {
+      "name": "机场组 · erwans 尔湾云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358"
+    },
+    {
+      "name": "机场组 · FastLink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422"
+    },
+    {
+      "name": "机场组 · FastNode",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a"
+    },
+    {
+      "name": "机场组 · feijicloud 飞机云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309"
+    },
+    {
+      "name": "机场组 · final FINAL 兜底 最终规则 最終規則 Catch-all Final Rule Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08"
+    },
+    {
+      "name": "机场组 · 闪狐云 FlashFox",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff"
+    },
+    {
+      "name": "机场组 · 飞天猪 Fliggy 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113"
+    },
+    {
+      "name": "机场组 · 花云 FlowerCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246"
+    },
+    {
+      "name": "机场组 · 飞鸟 FlyingBird 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3"
+    },
+    {
+      "name": "机场组 · Flyint飞数",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b"
+    },
+    {
+      "name": "机场组 · foo-and-friends Foo&Friends FNF",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae"
+    },
+    {
+      "name": "机场组 · 纷达网络 Fenda Funda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff"
+    },
+    {
+      "name": "机场组 · 银河云GalaxyCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b"
+    },
+    {
+      "name": "机场组 · global 全球 Global Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab"
+    },
+    {
+      "name": "机场组 · haitunwan 海豚湾 Hitun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5"
+    },
+    {
+      "name": "机场组 · ImmTel ImmTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc"
+    },
+    {
+      "name": "机场组 · jifengyun 疾风云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9"
+    },
+    {
+      "name": "机场组 · KooDog",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece"
+    },
+    {
+      "name": "机场组 · 酷酷云KuKuYun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0"
+    },
+    {
+      "name": "机场组 · 库洛米Kuromis",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6"
+    },
+    {
+      "name": "机场组 · KyCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696"
+    },
+    {
+      "name": "机场组 · lanfanyun 蓝帆云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4"
+    },
+    {
+      "name": "机场组 · LinkCube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35"
+    },
+    {
+      "name": "机场组 · longmaoyun 龙猫云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5"
+    },
+    {
+      "name": "机场组 · loon 代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png?v=4ca5767dda83"
+    },
+    {
+      "name": "机场组 · Luckin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99"
+    },
+    {
+      "name": "机场组 · maoxiong 猫熊网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30"
+    },
+    {
+      "name": "机场组 · 三月七 March7 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d"
+    },
+    {
+      "name": "机场组 · MESL",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764"
+    },
+    {
+      "name": "机场组 · Miaona",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca"
+    },
+    {
+      "name": "机场组 · myjs 魅影极速 MAYING",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4"
+    },
+    {
+      "name": "机场组 · Nerwo奶瓶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b"
+    },
+    {
+      "name": "机场组 · 奶昔 Nexitally",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3"
+    },
+    {
+      "name": "机场组 · 咸鱼加速器 NexusCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8"
+    },
+    {
+      "name": "机场组 · OuO Network",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb"
+    },
+    {
+      "name": "机场组 · paofuyun 泡芙云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6"
+    },
+    {
+      "name": "机场组 · qingyunti 青云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
+    },
+    {
+      "name": "机场组 · shaoshupai 少数派 SSP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
+    },
+    {
+      "name": "机场组 · shouhou 守候网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7"
+    },
+    {
+      "name": "机场组 · ssLinks",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc"
+    },
+    {
+      "name": "机场组 · ssrcloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2"
+    },
+    {
+      "name": "机场组 · surge 网络代理 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png?v=d8e74c74228f"
+    },
+    {
+      "name": "机场组 · 速鹰666 Suying666 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa"
+    },
+    {
+      "name": "机场组 · suyunti 速云梯 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9"
+    },
+    {
+      "name": "机场组 · TAG 机场 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=aa48b112f114"
+    },
+    {
+      "name": "机场组 · tianhang 天航 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032"
+    },
+    {
+      "name": "机场组 · V2Paw",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da"
+    },
+    {
+      "name": "机场组 · V2Tun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903"
+    },
+    {
+      "name": "机场组 · wd 西部数据 Western Digital Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png?v=0c81d3d16b9d"
+    },
+    {
+      "name": "机场组 · 西部数据 WestData WDCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca"
+    },
+    {
+      "name": "机场组 · xiaoxuanfeng 小旋风 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c"
+    },
+    {
+      "name": "机场组 · Xlinkworld",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5"
+    },
+    {
+      "name": "机场组 · Yepfast椰皮加速",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e"
+    },
+    {
+      "name": "机场组 · yiyunti 一云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705"
+    },
+    {
+      "name": "机场组 · YToo YTOO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188"
+    },
+    {
+      "name": "机场组 · yunyi 云翼网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace"
+    }
+  ]
+}
